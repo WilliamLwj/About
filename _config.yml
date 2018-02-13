@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Dr. Test Account"
 title_separator          : "-"
-name                     : &name "Wenjie Li"
-description              : &description "Exchange Student at the University of Pennsylvania"
-url                      : https://williamlwj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Test Account"
+description              : &description "Research scientist at Test University"
+url                      : https://getorg-testacct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Wwilliamlwj.github.io"
+repository               : "getorg-testacct.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenjie Li"
+  name             : "Dr. Test Account"
   avatar           : "profile.png"
-  bio              : "Exchange Student at the University of Pennsylvania"
-  location         : "Philadelphia"
+  bio              : "Research scientist at Test University, expert in all things test and account related"
+  location         : "Test, California"
   employer         : 
-  googlescholar    : 
-  email            : "liwj@sas.upenn.edu"
+  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  email            : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "WilliamLwj"
+  github           : "getorg-testacct"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "http://orcid.org/testaccount"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "testaccount-this-is-fake"
   vine             :
   weibo            :
   xing             :
