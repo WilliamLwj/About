@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "About me"
 title_separator          : "-"
-name                     : &name "Dr. Test Account"
+name                     : &name "Wenjie Li"
 description              : &description "Research scientist at Test University"
 url                      : https://getorg-testacct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
