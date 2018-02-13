@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* ### Bachelor of Mathematics.  The Chinese University of Hong Kong (CUHK) Expected: May, 2019.
+* ### Bachelor of Mathematics.  The Chinese University of Hong Kong (CUHK)  2015-2019.
   * Expecting minor in Computer Science
   * Cumulative GPA 3.871/4.0. Major GPA 3.934/4.0 (until Feb,2018)
   * 2017-2018 Exchange Student Ranking:  1st/(>1000)
@@ -21,7 +21,7 @@ Education
 
 Research experience
 ======
-* May-Oct, 2017: Research Assistant    Bioinformatics Lab, CUHK
+* ### Research Assistant.   May-Oct, 2017    Bioinformatics Lab, CUHK
   * Assisted the project of analyzing certain patterns to measure sequence similarities.
   * Optimized the efficiency of algorithms and proposed different machine learning methods.
   * Analyzed model performance by using statistical criteria.
@@ -29,7 +29,7 @@ Research experience
   * 
   * Supervised by: Prof. Kevin Yip
 
-* Feb-May, 2017: Student and Research Assistent
+* ### Student and Research Assistant.  Feb-May, 2017
   * Studied technical analysis, topics in time series. e.g. ARIMA, GARCH, Application of Wavelet. 
   * Built more than 10 statistical models with computer programs in R language.
   * Created a new financial indicator for analyzing time series.
@@ -38,7 +38,7 @@ Research experience
   
 Teaching experience
 ======
-* Teaching Assistant. Sep-Dec, 2016
+* ### Teaching Assistant.  Sep-Dec, 2016
   * Helped teaching first-year undergraduates the general education course GESH1010.
   * Prepared teaching materials with other TAs and professors.
   * Participated in weekly meetings and discussions about the course progress  
