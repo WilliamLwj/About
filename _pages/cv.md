@@ -23,16 +23,16 @@ Research experience
 ======
 * May-Oct, 2017: Research Assistant    Bioinformatics Lab, CUHK
   * Assisted the project of analyzing certain patterns to measure sequence similarities.
-· * Optimized the efficiency of algorithms and proposed different machine learning methods.
-· * Analyzed model performance by using statistical criteria.
-· * Participated in weekly meetings to report research progress.
+  * Optimized the efficiency of algorithms and proposed different machine learning methods.
+  * Analyzed model performance by using statistical criteria.
+  * Participated in weekly meetings to report research progress.
   * 
   * Supervised by: Prof. Kevin Yip
 
 * Feb-May, 2017: Student and Research Assistent
   * Studied technical analysis, topics in time series. e.g. ARIMA, GARCH, Application of Wavelet. 
-· * Built more than 10 statistical models with computer programs in R language.
-· * Created a new financial indicator for analyzing time series.
+  * Built more than 10 statistical models with computer programs in R language.
+  * Created a new financial indicator for analyzing time series.
   * 
   * Supervised by: Prof. Raymond Chan
   
