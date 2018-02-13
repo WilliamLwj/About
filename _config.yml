@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
+  name             : "Wenjie Li"
   avatar           : "profile.png"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
+  bio              : "Exchange Student at the University of Pennsylvania"
+  location         : "Philadelphia"
   employer         : 
   googlescholar    : "http://scholar.google.com/this-is-a-test"
-  email            : 
+  email            : "liwj@sas.upenn.edu"
   uri              : 
   bitbucket        :
   codepen          :
