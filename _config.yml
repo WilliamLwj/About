@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
+  name             : "Wenjie Li"
   avatar           : "profile.png"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
+  bio              : "Exchange Student at the University of Pennsylvania"
+  location         : "Philadelphia"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : 
   email            : 
   uri              : 
   bitbucket        :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "getorg-testacct"
+  github           : "WilliamLwj"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
