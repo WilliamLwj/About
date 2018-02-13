@@ -1,6 +1,9 @@
 # main links links
 main:
   - title: "Research Interest"
+    url: /cv/
+
+  - title: "Research Interest"
     url: /research/
 
   - title: "Education"
