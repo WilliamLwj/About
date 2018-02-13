@@ -11,9 +11,9 @@ title                    : "About me"
 title_separator          : "-"
 name                     : &name "Wenjie Li"
 description              : &description "Exchange Student at the University of Pennsylvania"
-url                      : https://getorg-testacct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://williamlwj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "WilliamLwj/About.github.io"
+repository               : "Wwilliamlwj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ author:
   bio              : "Exchange Student at the University of Pennsylvania"
   location         : "Philadelphia"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : 
   email            : "liwj@sas.upenn.edu"
   uri              : 
   bitbucket        :
