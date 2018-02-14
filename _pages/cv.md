@@ -45,6 +45,8 @@ Teaching experience
   
 Awards
 ======
+* Heung To Education Fund Math Scholarship 2017
+* The Cheng Foundation Scholarship 2017
 * The S.H. Ho Annual Scholarships for Outstanding Academic Performance 2017
 * The S.H. Ho Foundation Student Exchange Scholarships 2017/18
 * Dean’s List 2016-2017; 2015-2016; (2 years)
