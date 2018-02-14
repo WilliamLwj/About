@@ -15,5 +15,5 @@ author_profile: true
 
 * My part at the Mathematical Modeling Competition 2017. [pdf](https://williamlwj.github.io/About/files/MCM.pdf)
 
-* Our team's work at the Mathematical Modeling Competition 2016 (Complete). [pdf]()
+* Our team's work at the Mathematical Modeling Competition 2016 (Complete). [pdf](https://williamlwj.github.io/About/files/MCM16.pdf)
  
