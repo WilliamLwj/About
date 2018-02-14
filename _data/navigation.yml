@@ -6,11 +6,11 @@ main:
   - title: "Research Interest"
     url: /research/
 
-  - title: "Education"
-    url: /talks/    
+  - title: "Experience"
+    url: /experience/    
 
-  - title: "Awards"
-    url: /teaching/    
+  - title: "Awards & Honors"
+    url: /awards/    
     
   - title: "Contact"
     url: /contact/
