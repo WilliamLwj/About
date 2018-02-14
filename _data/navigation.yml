@@ -15,5 +15,8 @@ main:
   - title: "Awards & Honors"
     url: /awards/    
     
+   - title: "Links"
+    url: /link/   
+    
   - title: "Contact"
     url: /contact/
