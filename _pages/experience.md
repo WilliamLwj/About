@@ -8,22 +8,26 @@ redirect_from:
   - /experience.html
 ---
 
-* Heung To Education Fund Math Scholarship 2017
+Research experience
+======
+* ### Research Assistant.   May-Oct, 2017    Bioinformatics Lab, CUHK
+  * Assisted the project of analyzing certain patterns to measure sequence similarities.
+  * Optimized the efficiency of algorithms and proposed different machine learning methods.
+  * Analyzed model performance by using statistical criteria.
+  * Participated in weekly meetings to report research progress.
+  * 
+  * Supervised by: Prof. Kevin Yip
 
-* The Cheng Foundation Scholarship 2017
-
-* The S.H. Ho Annual Scholarships for Outstanding Academic Performance 2017
-
-* The S.H. Ho Foundation Student Exchange Scholarships 2017/18
-
-* Dean’s List 2016-2017; 2015-2016; (2 years)
-
-* Yasumoto International Exchange Scholarship (UPenn)
-
-* Undergraduate Mathematics Scholarship 2016
-
-* Master’s List 2016-2017
-
-* SHHO Summer Exchange Scholarship 2015-2016
-
-* Admission Full Scholarship 2015
+* ### Student and Research Assistant.  Feb-May, 2017
+  * Studied technical analysis, topics in time series. e.g. ARIMA, GARCH, Application of Wavelet. 
+  * Built more than 10 statistical models with computer programs in R language.
+  * Created a new financial indicator for analyzing time series.
+  * 
+  * Supervised by: Prof. Raymond Chan
+  
+Teaching experience
+======
+* ### Teaching Assistant.  Sep-Dec, 2016
+  * Helped teaching first-year undergraduates the general education course GESH1010.
+  * Prepared teaching materials with other TAs and professors.
+  * Participated in weekly meetings and discussions about the course progress  
