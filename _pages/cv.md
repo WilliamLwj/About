@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## [Click here to see my up-to-date resume.] (https://williamlwj.github.io/About/files/Wenjie_Li_CV.pdf) ##
+## Click [HERE](https://williamlwj.github.io/About/files/Wenjie_Li_CV.pdf) to see my up-to-date resume.  ##
 
  **You may also browse the site to see relavant information**
