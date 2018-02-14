@@ -5,6 +5,10 @@ main:
 
   - title: "Research Interest"
     url: /research/
+  
+    - title: "Education & Skills"
+    url: /edu/
+
 
   - title: "Experience"
     url: /experience/    
