@@ -1,10 +1,10 @@
 ---
-permalink: /contact
+permalink: /contact/
 title: "Contact me"
 excerpt: "Contact me"
 author_profile: true
 redirect_from: 
-  - /contact/
+
   - /contact.html
 ---
 3901 Locust Walk, University of Pennsylvania, Philadelphia, USA 19103.
