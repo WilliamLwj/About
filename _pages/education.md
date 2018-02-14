@@ -23,5 +23,5 @@ Education
 
 Skills
 ======
-* Computer Skills: ** MATLAB**, Ocaml, LaTeX, R, C++, Python, MS Office, Adobe,
+* Computer Skills: **MATLAB**, Ocaml, LaTeX, R, C++, Python, MS Office, Adobe,
 * Languages: Fluent English and Cantonese, native Mandarin, basic French.
