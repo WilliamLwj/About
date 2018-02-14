@@ -3,9 +3,7 @@ permalink: /research
 title: "Research Interest"
 excerpt: "Research Interest"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
+
 ---
 
 My research interest lies in the intersection of Mathematics and Computer Science. I have devoted a large amount of time and energy
