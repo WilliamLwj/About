@@ -5,7 +5,7 @@ excerpt: "Awards"
 author_profile: true
 
 ---
-*	Heung To Education Fund Mathematics Scholarship 2017 ** (Top 2) **
+*	Heung To Education Fund Mathematics Scholarship 2017 **(Top 2)**
 
 *	The D.H. Chen Foundation Scholarship 2017 ** (Top 1%) **
 
