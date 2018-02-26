@@ -19,7 +19,7 @@ Currently, I am seeking for oppotunities of research intern for the summer of 20
  
 ## Recent News　
 
-26/02/2018 I finish the 12-week course Vision Intelligence and Machine Learning and start to take the graduate level course Machine Perception
+26/02/2018 I finish the 12-week course Vision Intelligence and Machine Learning and start to take the graduate level course Machine Perception.
            [website](https://www.coursera.org/learn/robotics-perception)
 
 02/02/2018 I start to take Prof. Jianbo Shi's graduate level course Vision Intelligence and Machine Learning.
