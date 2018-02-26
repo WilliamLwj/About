@@ -9,9 +9,9 @@ author_profile: true
 Research experience
 ======
 * ### Research Assistant.   May-Oct, 2017    Bioinformatics Lab, CUHK
-  *	Assisted the project of analyzing certain DNA patterns to measure sequence similarities. 
-  *	Optimized the efficiency of counting algorithms and proposed different kernel functions for SVM.
-	 * Analyzed model performance using statistical criteria. 
+  * Assisted the project of analyzing certain DNA patterns to measure sequence similarities. 
+  * Optimized the efficiency of counting algorithms and proposed different kernel functions for SVM.
+  * Analyzed model performance using statistical criteria. 
   * Participated in weekly meetings to report research progress.
   * 
   * Supervised by: Prof. Kevin Yip
