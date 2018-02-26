@@ -5,23 +5,22 @@ excerpt: "Awards"
 author_profile: true
 
 ---
+*	Heung To Education Fund Mathematics Scholarship 2017 ** (Top 2) **
 
-* Heung To Education Fund Math Scholarship 2017
+*	The D.H. Chen Foundation Scholarship 2017 ** (Top 1%) **
 
-* The Cheng Foundation Scholarship 2017
+*	The S.H. Ho Annual Scholarships for Outstanding Academic Performance 2017 ** (Top 3%) **
 
-* The S.H. Ho Annual Scholarships for Outstanding Academic Performance 2017
+*	The S.H. Ho Foundation Student Exchange Scholarships 2017/18 
 
-* The S.H. Ho Foundation Student Exchange Scholarships 2017/18
+*	Dean’s List 2016-2017; 2015-2016; (2 years) ** (Top 10%) **
 
-* Dean’s List 2016-2017; 2015-2016; (2 years)
+*	Yasumoto International Exchange Scholarship (UPenn) 2017
 
-* Yasumoto International Exchange Scholarship (UPenn)
+*	Undergraduate Mathematics Scholarship 2016 ** (Top 10%) **
 
-* Undergraduate Mathematics Scholarship 2016
+*	Master’s List 2016-2017 ** (Top 3%) **
 
-* Master’s List 2016-2017
+*	SHHO Summer Exchange Scholarship 2015-2016
 
-* SHHO Summer Exchange Scholarship 2015-2016
-
-* Admission Full Scholarship 2015
+*	Admission Full Scholarship 2015 ** (Top 1) **
