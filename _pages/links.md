@@ -7,8 +7,6 @@ author_profile: true
 ---
 ### You may want to see
 
-* My notes for **Vision Intelligence and Machine Learning** & **Machine Perception** [pdf](https://williamlwj.github.io/About/files/Robotics.pdf) 
-
 * Prof. Jianbo Shi's [homepage](http://www.cis.upenn.edu/~jshi/)
 
 * Prof. Kevin Yip's [homepage](http://www.cse.cuhk.edu.hk/~kevinyip/)
