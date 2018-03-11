@@ -18,8 +18,11 @@ Currently, I am seeking for oppotunities of research intern for the summer of 20
  
  
 ## Recent News　
+08/03/2018 I start to take the 6-week course Using Python for Research, transferring from Matlab to Python. [website](https://www.edx.org/course/using-python-research-harvardx-ph526x-0)
 
-26/02/2018 I finish the 12-week course Vision Intelligence and Machine Learning and start to take the graduate level course Machine Perception.
+02/03/2018 I start to work with Prof. Shi and his Postdoc student.
+
+26/02/2018 I have finished the 12-week course Vision Intelligence and Machine Learning and start to take the graduate level course Machine Perception.
            [website](https://www.coursera.org/learn/robotics-perception)
 
 02/02/2018 I start to take Prof. Jianbo Shi's graduate level course Vision Intelligence and Machine Learning.
