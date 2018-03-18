@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior student majoring in Mathematics at the Chinese University of Hong Kong, but I am also interested in Computer Science, especially in the area of Machine Learning and Computer Vision.
+I am a junior student majoring in Mathematics at the Chinese University of Hong Kong, but I am also interested in Computer Science, especially in the area of Deep Learning and Computer Vision.
 
-At the moment, I am studying at the University of Pennsylvania as an exchange student. Also, I am taking Prof. Jianbo Shi's graduate level course Machine Perception.
+At the moment, I am studying at the University of Pennsylvania as an exchange student. Also, I am taking Prof. Jianbo Shi's graduate level course Vision and Learning.
 
-Currently, I am seeking for oppotunities of research intern for the summer of 2018. Please take a look at my CV and if you are interested, please do not hesitate to contact me.
+Currently, I am an research assistant at the GRASP (General Robotics Automation Sensing & Perception) lab. I will apply for postgraduate degrees in 2019. 
  
  
  
  
 ## Recent News　
+16/03/2018 I start to work on CIS680 Vision and Learning. [website] (https://fling.seas.upenn.edu/~cis680/wiki/index.php?title=CIS_680:_Vision_%26_Learning)
+
 08/03/2018 I start to take the 6-week course Using Python for Research, transferring from Matlab to Python. [website](https://www.edx.org/course/using-python-research-harvardx-ph526x-0)
 
 02/03/2018 I start to work with Prof. Shi and his Postdoc student.
