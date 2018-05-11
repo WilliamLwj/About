@@ -18,6 +18,8 @@ Currently, I am an research assistant at the GRASP (General Robotics Automation 
  
  
 ## Recent News　
+12/05/2018 I got 4.0 GPA in UPenn! 
+
 16/03/2018 I start to work on CIS680 Vision and Learning. [website](https://fling.seas.upenn.edu/~cis680/wiki/index.php?title=CIS_680:_Vision_%26_Learning)
 
 08/03/2018 I start to take the 6-week course Using Python for Research, transferring from Matlab to Python. [website](https://www.edx.org/course/using-python-research-harvardx-ph526x-0)
