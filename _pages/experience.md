@@ -8,6 +8,8 @@ author_profile: true
 
 Research experience
 ======
+
+
 * ### Research Assistant.   May-Oct, 2017    Bioinformatics Lab, CUHK
   * Assisted the project of analyzing certain DNA patterns to measure sequence similarities. 
   * Optimized the efficiency of counting algorithms and proposed different kernel functions for SVM.
@@ -16,7 +18,7 @@ Research experience
   * 
   * Supervised by: Prof. Kevin Yip
 
-* ### Student and Research Assistant.  Feb-May, 2017 Times Series group, CUHK 
+* ### Student and Assistant.  Feb-May, 2017 Times Series group, CUHK 
   * Studied technical analysis, topics in time series. e.g. ARIMA, GARCH, Application of Wavelet. 
   *	Presented important concepts and modern techniques in the analysis of time series.
   * Built more than 10 statistical models with computer programs in R language.
