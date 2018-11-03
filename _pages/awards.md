@@ -5,15 +5,19 @@ excerpt: "Awards"
 author_profile: true
 
 ---
+* Student Development Scholarship for Mathematics Undergraduates 2018
+
 *	Heung To Education Fund Mathematics Scholarship 2017 **(Top 2)**
 
 *	The D.H. Chen Foundation Scholarship 2017 **(Top 1%)**
 
-*	The S.H. Ho Annual Scholarships for Outstanding Academic Performance 2017 **(Top 3%)**
+*	The S.H.Ho Annual Scholarships for Outstanding Academic Performance 2017 **(Top 3%)**
 
-*	The S.H. Ho Foundation Student Exchange Scholarships 2017/18 
+*	The S.H.Ho Foundation Student Exchange Scholarships 2017/18 
 
-*	Dean’s List 2016-2017; 2015-2016; (2 years) **(Top 10%)**
+*	Dean’s List 2016-2017; **(Top 10%)**
+
+* Dean's List 2015-2016; **(Top 10%)**
 
 *	Yasumoto International Exchange Scholarship (UPenn) 2017
 
@@ -21,6 +25,10 @@ author_profile: true
 
 *	Master’s List 2016-2017 **(Top 3%)**
 
-*	SHHO Summer Exchange Scholarship 2015-2016
+*	S.H.Ho Summer Exchange Scholarship 2015-2016
 
-*	Admission Full Scholarship 2015 **(Top 1)**
+* Wei Lun Foundation Scholarships for Mainland Students 2015-2016
+
+* S.H.Ho Matriculation Scholarships for Academic Excellence 2015-2016
+
+*	Honors at Entrance 2015-2016  **(Top 1)**
