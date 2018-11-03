@@ -7,10 +7,7 @@ main:
     url: /research/
   
   - title: "Education & Skills"
-    url: /edu/
-
-  - title: "Experience"
-    url: /experience/    
+    url: /edu/   
 
   - title: "Awards & Honors"
     url: /awards/    
