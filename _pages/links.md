@@ -7,8 +7,6 @@ author_profile: true
 ---
 ### You may want to see
 
-* Prof. Jianbo Shi's [homepage](http://www.cis.upenn.edu/~jshi/)
-
 * Prof. Kevin Yip's [homepage](http://www.cse.cuhk.edu.hk/~kevinyip/)
 
 * A sample of technical writing at Prof. Kevin Yip's lab. [pdf](https://williamlwj.github.io/About/files/glk_pattern.pdf)
