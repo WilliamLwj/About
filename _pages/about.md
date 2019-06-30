@@ -8,12 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior student majoring in Mathematics at the Chinese University of Hong Kong, with double stream in Computational Applied Mathematics (CAM) and Enrichment, but I am also very interested in Statistics and Data Science.
+I am goint to be a Ph.D. student in Statistics at Purdue University.
 
-I am applying for Ph.D. degrees in Statistics and Industrial Engineering. 
- 
+Previously, I majored in Mathematics at the Chinese University of Hong Kong, with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics, and I am also very interested in Statistics and Computer Science. I was also an exchange student at UPenn for one semester. 
+
+My research interest lies in the area of Machine Learning, more precisely, in theories of Deep Learning, Optimization, and Reinforcement Learning. I am also broadly interested in other Mathematics-related topics.
+
+I am very fortunate to have worked with Prof. Ronald Lui, Prof. Paris Perdikaris, Prof. Raymond Chan and Prof. Ping Luo. 
+
+
 
 ## Recent News　 
+/05/2019 I start to work at Sensetime Research.
+
+/09/2018 I start to work for Prof. Ronald LokMing Lui on Teichmuller mapping and its applications
 
 /09/2018 I start to work for Prof. Ronald LokMing Lui on Teichmuller mapping and its applications
 
