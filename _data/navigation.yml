@@ -3,17 +3,8 @@ main:
   - title: "CV/Bio"
     url: /cv/
 
-  - title: "Research Interest"
-    url: /research/
-  
-  - title: "Education & Skills"
-    url: /edu/   
-
   - title: "Awards & Honors"
     url: /awards/    
-    
-  - title: "Links"
-    url: /links/   
     
   - title: "Contact"
     url: /contact/
