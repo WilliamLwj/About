@@ -5,9 +5,11 @@ excerpt: "Awards"
 author_profile: true
 
 ---
-* Student Development Scholarship for Mathematics Undergraduates 2018
+* NTK Academic Group Scholarship
 
-*	Heung To Education Fund Mathematics Scholarship 2017 **(Top 2)**
+*	Heung To Education Fund Mathematics Scholarship **(Top 2)**
+
+* Student Development Scholarship for Mathematics Undergraduates 2018
 
 *	The D.H. Chen Foundation Scholarship 2017 **(Top 1%)**
 
