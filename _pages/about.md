@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am goint to be a Ph.D. student in Statistics at Purdue University.
+I am going to be a Ph.D. student majoring in Statistics at Purdue University.
 
-Previously, I majored in Mathematics at the Chinese University of Hong Kong, with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics, and I am also very interested in Statistics and Computer Science. I was also an exchange student at UPenn for one semester. 
+Previously, I studied Mathematics at the Chinese University of Hong Kong, with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics, and I am also very interested in Statistics and Computer Science. I was also an exchange student at UPenn for one semester. 
 
 My research interest lies in the area of Machine Learning, more precisely, in theories of Deep Learning, Optimization, and Reinforcement Learning. I am also broadly interested in other Mathematics-related topics.
 
