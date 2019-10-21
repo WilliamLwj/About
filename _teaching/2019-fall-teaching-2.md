@@ -1,5 +1,5 @@
 ---
-title: "STAT/MA 416 Porbability"
+title: "STAT/MA 416 Probability"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-fall-teaching-2
