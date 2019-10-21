@@ -1,5 +1,5 @@
 ---
-title: "STAT416 Statistics and Society"
+title: "STAT/MA 416 Porbability"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-fall-teaching-2
