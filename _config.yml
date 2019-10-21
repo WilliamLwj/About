@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenjie Li"
 title_separator          : "-"
 name                     : &name "Wenjie Li"
-description              : &description "Exchange Student at the University of Pennsylvania"
+description              : &description "Ph.D. Student at Purdue University"
 url                      : https://williamlwj.github.io/About/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "williamlwj.github.io/About"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Wenjie Li"
   avatar           : "Avatar2.jpg"
-  bio              : "Exchange Student at the University of Pennsylvania"
-  location         : "Philadelphia"
+  bio              : "Ph.D. Student at Purdue University"
+  location         : "West Lafayette"
   employer         : 
   googlescholar    : 
-  email            : "liwj@sas.upenn.edu"
+  email            : "li3549@purdue.edu"
   uri              : 
   bitbucket        :
   codepen          :
