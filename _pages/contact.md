@@ -7,15 +7,10 @@ redirect_from:
 
   - /contact.html
 ---
-3901 Locust Walk, University of Pennsylvania, Philadelphia, USA 19103.
+273 Felix HAAS Hall, Purdue University, West Lafayette, IN
 
-Email: liwj at sas.upenn.edu
+Purdue Email: li3549@purdue.edu
 
-phone: 929-369-3005
+UPenn Email: liwj at sas.upenn.edu
 
-
-
-R102, Lee Quo Wai Hall, SHHo College, Chinese University of Hong Kong.
-Shatin, NT, Hong Kong
-
-Email: williamlwj at link.cuhk.edu.hlk
+CUHK Email: williamlwj at link.cuhk.edu.hk
