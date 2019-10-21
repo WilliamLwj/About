@@ -15,5 +15,4 @@ author_profile: true
 
 * Prof. Paris Perdikaris's [homepage](https://www.amcs.upenn.edu/people/paris-perdikaris)
 
-* Prof. Kevin Yip's [homepage](http://www.cse.cuhk.edu.hk/~kevinyip/)
 
