@@ -5,6 +5,8 @@ excerpt: "Awards"
 author_profile: true
 
 ---
+* Dean's List 2019
+
 * NTK Academic Group Scholarship
 
 *	Heung To Education Fund Mathematics Scholarship **(Top 2)**
