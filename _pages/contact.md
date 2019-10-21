@@ -11,6 +11,6 @@ redirect_from:
 
 Purdue Email: li3549@purdue.edu
 
-UPenn Email: liwj at sas.upenn.edu
+UPenn Email: liwj@sas.upenn.edu
 
-CUHK Email: williamlwj at link.cuhk.edu.hk
+CUHK Email: williamlwj@link.cuhk.edu.hk
