@@ -5,7 +5,7 @@ excerpt: "Awards"
 author_profile: true
 
 ---
-* Dean's List 2019
+* Dean's List 2018-2019; **(Top 10%)**
 
 * NTK Academic Group Scholarship
 
