@@ -3,8 +3,15 @@ main:
   - title: "CV/Bio"
     url: /cv/
 
+  - title: "Publications"
+    url: /publications/  
+
   - title: "Awards & Honors"
-    url: /awards/    
+    url: /awards/ 
+    
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "Contact"
     url: /contact/
+    
