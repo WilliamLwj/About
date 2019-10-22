@@ -18,7 +18,7 @@ I am very fortunate to have worked with Prof. Ronald Lui, Prof. Paris Perdikaris
 
 
 ## Recent News　 
-/09/2019 Two papers submitted.
+/09/2019 Two papers submitted to AAAI and ICLR.
 
 /05/2019 I start to work at Sensetime Research.
 
