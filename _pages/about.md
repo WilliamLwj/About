@@ -33,4 +33,4 @@ I am very fortunate to have worked with Prof. Ronald Lui, Prof. Paris Perdikaris
 /01/2018 I start to be an exchange student at the University of Pennsylvania.
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=rvMTQFEORcQs4AVWtIVoK6ghclOws8CSKxqlBN5Map8&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1c679e&w=a&t=n&d=rvMTQFEORcQs4AVWtIVoK6ghclOws8CSKxqlBN5Map8&co=ffffff'></script>
