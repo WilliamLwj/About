@@ -1,7 +1,7 @@
 ---
 permalink: /awards/
-title: "Awards"
-excerpt: "Awards"
+title: "Awards & Honors"
+excerpt: "Awards & Honors"
 author_profile: true
 
 ---
