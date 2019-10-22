@@ -20,7 +20,13 @@ I am very fortunate to have worked with Prof. Ronald Lui, Prof. Paris Perdikaris
 ## Recent News　 
 /09/2019 Two papers submitted to AAAI and ICLR.
 
+/08/2019 I am awarded Dean's list for my final year
+
 /05/2019 I start to work at Sensetime Research.
+
+/05/2019 I graduate from the Chinese University of Hong Kong with first honor and will be a Ph.D. student in Statistics at Purdue in September
+
+/02/2019 I am awarded Heung To Education Fund Mathematics Scholarship and NTK Academic Group Scholarship
 
 /09/2018 I start to work for Prof. Ronald LokMing Lui on Teichmuller mapping and its applications
 
