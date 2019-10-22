@@ -7,7 +7,7 @@ redirect_from:
 
   - /contact.html
 ---
-273 Felix HAAS Hall, Purdue University, West Lafayette, IN
+273 Felix Haas Hall, Purdue University, West Lafayette, IN
 
 Purdue Email: li3549@purdue.edu
 
