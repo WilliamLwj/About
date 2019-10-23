@@ -1,5 +1,5 @@
 ---
-title: "STAT/MA 416 Probability"
+title: "[STAT/MA 416 Probability](https://www.stat.purdue.edu/~jianxi/stat41600/index.html)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-fall-teaching-2
