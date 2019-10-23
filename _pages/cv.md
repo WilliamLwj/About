@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV/Bio"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-## Education ##
 #### Purdue University, 19-now ####
   Ph.D. of Statistics
 #### The Chinese University of Hong Kong, 15-19 ####
@@ -16,7 +15,7 @@ redirect_from:
 #### University of Pennsylvania, 18 ####
   Exchange Student
   
-## Intern ##
+# Intern #
 #### Sensetime Research, May-Sep, 19 ####
    Research Intern. Advisor: Prof. Ping Luo
 #### Mathematical Imaging Group, CUHK, Mar-May, 19 ####
