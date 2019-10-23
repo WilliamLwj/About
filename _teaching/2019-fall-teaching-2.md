@@ -3,7 +3,7 @@ title: "STAT/MA 416 Probability"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-fall-teaching-2
-location: "Purdue University"
+venue: "Purdue University"
 date: 2019-09-01
 ---
 
