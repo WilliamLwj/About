@@ -25,5 +25,6 @@ redirect_from:
 * **Mathematical Imaging Group, CUHK**. 
   * Part-time Research Intern,  Mar-May, 19
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
+
 ## Please [send me an email](mailto:li3549@purdue.edu) if you want to see my up-to-date resume.  ##
 
