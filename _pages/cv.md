@@ -20,10 +20,10 @@ redirect_from:
   
 # Intern #
 * **Sensetime Research**, 
-  * Research Intern. May-Sep, 19
+  * Research Intern. May-Sep, 2019
   * Supervisor: Dr. Xinjiang Wang. Advisor: [Prof. Ping Luo](https://luoping.me)
 * **Mathematical Imaging Group, CUHK**. 
-  * Part-time Research Intern,  Mar-May, 19
+  * Part-time Research Intern,  Mar-May, 2019
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
 
 ## Please [send me an email](mailto:li3549@purdue.edu) for my up-to-date resume.  ##
