@@ -16,25 +16,25 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 
 
 ## Recent News　 
-**Sep, 2019**. Two papers submitted to AAAI and ICLR.
+- [ ] **Sep, 2019**. Two papers submitted to AAAI and ICLR.
 
-**Aug, 2019**. I am awarded Dean's list for my final year
+- [x] **Aug, 2019**. I am awarded Dean's list for my final year
 
-**May, 2019**. I start to work at [Sensetime Research](https://www.sensetime.com/en/).
+- [x] **May, 2019**. I start to work at [Sensetime Research](https://www.sensetime.com/en/).
 
-**May, 2019**. I graduate from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) with first honor and will be a Ph.D. student in Statistics in September
+- [x] **May, 2019**. I graduate from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) with first honor and will be a Ph.D. student in Statistics in September
 
-**Feb, 2019**. I am awarded Heung To Education Fund Mathematics Scholarship and NTK Academic Group Scholarship
+- [x] **Feb, 2019**. I am awarded Heung To Education Fund Mathematics Scholarship and NTK Academic Group Scholarship
 
-**Sep, 2018**. I start to work for [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/) on Teichmuller mapping and its applications
+- [x] **Sep, 2018**. I start to work for [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/) on Teichmuller mapping and its applications
 
-**Sep, 2018**. I start to work for [Prof. Raymond H. Chan](https://www.math.cuhk.edu.hk/~rchan/) on Poor-Rich Index (PRI).
+- [x] **Sep, 2018**. I start to work for [Prof. Raymond H. Chan](https://www.math.cuhk.edu.hk/~rchan/) on Poor-Rich Index (PRI).
 
-**Aug, 2018**. I am awarded the Student Development Scholarship for Mathematics Undergraduates
+- [x] **Aug, 2018**. I am awarded the Student Development Scholarship for Mathematics Undergraduates
 
-**Jun, 2018**. I start to work with [Prof. Paris Perdikaris](https://www.seas.upenn.edu/directory/profile.php?ID=237) on the application of machine learning to dynamic systems
+- [x] **Jun, 2018**. I start to work with [Prof. Paris Perdikaris](https://www.seas.upenn.edu/directory/profile.php?ID=237) on the application of machine learning to dynamic systems
            
-**Jan, 2018**. I start to be an exchange student at the [University of Pennsylvania](https://home.www.upenn.edu/).
+- [x] **Jan, 2018**. I start to be an exchange student at the [University of Pennsylvania](https://home.www.upenn.edu/).
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1c679e&w=a&t=n&d=rvMTQFEORcQs4AVWtIVoK6ghclOws8CSKxqlBN5Map8&co=ffffff'></script>
