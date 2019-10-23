@@ -22,9 +22,9 @@ I am very fortunate to have worked with Prof. Ronald Lui, Prof. Paris Perdikaris
 
 /08/2019 I am awarded Dean's list for my final year
 
-/05/2019 I start to work at Sensetime Research.
+/05/2019 I start to work at [Sensetime Research](https://www.sensetime.com/en/).
 
-/05/2019 I graduate from the Chinese University of Hong Kong with first honor and will be a Ph.D. student in Statistics at Purdue in September
+/05/2019 I graduate from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) with first honor and will be a Ph.D. student in Statistics in September
 
 /02/2019 I am awarded Heung To Education Fund Mathematics Scholarship and NTK Academic Group Scholarship
 
@@ -36,7 +36,7 @@ I am very fortunate to have worked with Prof. Ronald Lui, Prof. Paris Perdikaris
 
 /06/2018 I start to work with Prof. Paris Perdikaris on the application of machine learning to dynamic systems
            
-/01/2018 I start to be an exchange student at the University of Pennsylvania.
+/01/2018 I start to be an exchange student at the [University of Pennsylvania](https://home.www.upenn.edu/).
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1c679e&w=a&t=n&d=rvMTQFEORcQs4AVWtIVoK6ghclOws8CSKxqlBN5Map8&co=ffffff'></script>
