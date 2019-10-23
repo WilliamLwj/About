@@ -20,7 +20,7 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 
 -  **Aug, 2019**. I am awarded Dean's list for my final year
 
--  **May, 2019**. I start to work at [Sensetime Research](https://www.sensetime.com/en/). My advisor is [Prof. Ping Luo](luoping.me)
+-  **May, 2019**. I start to work at [Sensetime Research](https://www.sensetime.com/en/). My advisor is [Prof. Ping Luo](https://luoping.me)
 
 -  **May, 2019**. I graduate from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) with first honor and will be a Ph.D. student in Statistics in September
 
