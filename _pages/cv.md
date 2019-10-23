@@ -19,7 +19,7 @@ redirect_from:
 * **Exchange Student, University of Pennsylvania, 2018**
   
 # Intern #
-* **Sensetime Research**, 
+* **Sensetime Research**.
   * Research Intern. May-Sep, 2019
   * Supervisor: Dr. Xinjiang Wang. Advisor: [Prof. Ping Luo](https://luoping.me)
 * **Mathematical Imaging Group, CUHK**. 
