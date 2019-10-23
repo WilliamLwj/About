@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Anonymous submission to ICLR2020"
 collection: publications
 permalink: /publication/AdaX
