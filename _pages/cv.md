@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "_Education_"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ redirect_from:
 ### University of Pennsylvania, 18 ###
   Exchange Student
   
-# _Intern_ #
+# Intern #
 ### Sensetime Research, May-Sep, 19 ###
    Research Intern. Advisor: Prof. Ping Luo
 ### Mathematical Imaging Group, CUHK, Mar-May, 19 ###
