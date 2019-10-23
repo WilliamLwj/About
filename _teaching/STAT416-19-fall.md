@@ -2,7 +2,7 @@
 title: "[STAT/MA 416 Probability](https://www.stat.purdue.edu/~jianxi/stat41600/index.html)"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2019-fall-teaching-2
+permalink: /teaching/STAT416-19-fall
 venue: "Purdue University"
 date: 2019-09-01
 ---
