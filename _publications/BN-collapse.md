@@ -1,7 +1,7 @@
 ---
 title: "Anonymous submission to AAAI2020"
 collection: publications
-permalink: /publication/2019-09-05-paper-BN
+permalink: /publication/BN-collapse
 excerpt: 
 date: 2019-09-05
 venue: 
