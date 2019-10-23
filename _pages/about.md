@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student majoring in Statistics at Purdue University.
+I am a first year Ph.D. student majoring in Statistics at [Purdue University](https://www.purdue.edu/).
 
-Before coming to Purdue, I graduated with first honor from the Mathematics department at the Chinese University of Hong Kong, with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. I was also an exchange student at University of Pennsylvania for one semester in 2018. 
+Before coming to Purdue, I graduated from the Mathematics department at [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/) for one semester in 2018. 
 
 My research interest lies in the area of Machine Learning, more precisely, in theories of Deep Learning, Optimization, and Reinforcement Learning. I am also broadly interested in other Mathematics-related topics.
 
