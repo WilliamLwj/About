@@ -1,9 +1,10 @@
 ---
+layout: single
 title: "Anonymous submission to ICLR2020"
 collection: publications
-permalink: /publication/2019-09-25-paper-AdaX
+permalink: /publication/AdaX
 excerpt: 
-date: 2019-09-05
+date: 2019-09-25
 venue:
 paperurl:
 citation:
