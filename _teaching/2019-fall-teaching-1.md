@@ -3,7 +3,7 @@ title: "STAT113 Statistics and Society"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-fall-teaching-1
-location: "Purdue University"
+venue: "Purdue University"
 date: 2019-09-01
 ---
 
