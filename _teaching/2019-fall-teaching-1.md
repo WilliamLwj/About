@@ -1,5 +1,5 @@
 ---
-title: "STAT113 Statistics and Society"
+title: "[STAT113 Statistics and Society](stat.purdue.edu/resources/docs/STAT113_Fall2019.pdf)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-fall-teaching-1
