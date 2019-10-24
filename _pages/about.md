@@ -15,7 +15,7 @@ Before coming to Purdue, I graduated from the Mathematics department at [Chinese
 My research interest lies in the area of Machine Learning, more precisely, in theories of Deep Learning, Optimization, and Reinforcement Learning. I am also broadly interested in other Mathematics-related topics.
 
 
-## Recent News　 
+## <i class="fa fa-fw fa-rss "></i> Recent News　 
 -  **Sep, 2019**. Two papers submitted to AAAI and ICLR.
 
 -  **Aug, 2019**. I am awarded Dean's list for my final year
