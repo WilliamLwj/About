@@ -18,16 +18,10 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 ## <i class="fa fa-fw fa-rss "></i> Recent News　 
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>List icons</li>
-  <li><i class="fa-li fa fa-check-square"></i>can be used</li>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>as bullets</li>
-  <li><i class="fa-li fa fa-square"></i>in lists</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i> <b>Sep, 2019<\b>. Two papers submitted to AAAI and ICLR</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>Aug, 2019<\b> I am awarded Dean's list for my final year</li>
 </ul>
-
--  **Sep, 2019**. Two papers submitted to AAAI and ICLR.
-
--  **Aug, 2019**. I am awarded Dean's list for my final year
-
+ 
 -  **May, 2019**. I start to work at [Sensetime Research](https://www.sensetime.com/en/). My advisor is [Prof. Ping Luo](https://luoping.me)
 
 -  **May, 2019**. I graduate from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) with first honor and will be a Ph.D. student of Statistics in September
