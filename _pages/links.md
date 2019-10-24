@@ -3,15 +3,16 @@ permalink: /links/
 title: ""
 excerpt: "Links"
 author_profile: true
-
 ---
 ## <i class="fa fa-fw fa-link "></i> You may want to see 
-* Prof. Ping Luo's [homepage](http://luoping.me/)
+* My [notes](https://williamlwj.github.io/About/notes) for some of the courses
 
-* Prof. Ronald Lui's [homepage](https://www.math.cuhk.edu.hk/~lmlui/)
+* [Prof. Ping Luo](http://luoping.me/), my advisor at Sensetime.
 
-* Prof. Raymond Chan's [homepage](https://www.math.cuhk.edu.hk/~rchan/)
+* [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/), my academic advisor at CUHK.
 
-* Prof. Paris Perdikaris's [homepage](https://www.amcs.upenn.edu/people/paris-perdikaris)
+* [Prof. Raymond Chan](https://www.math.cuhk.edu.hk/~rchan/), my advisor and department chair at CUHK.
+
+* [Prof. Paris Perdikaris](https://www.amcs.upenn.edu/people/paris-perdikaris), my research advisor at UPenn
 
 
