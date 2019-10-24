@@ -1,10 +1,11 @@
 ---
 layout: single
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
+# <i class="fa fa-fw fa-copy"></i>Publication #
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
