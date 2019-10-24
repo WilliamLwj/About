@@ -15,14 +15,13 @@ Before coming to Purdue, I graduated from the Mathematics department at [Chinese
 My research interest lies in the area of Machine Learning, more precisely, in theories of Deep Learning, Optimization, and Reinforcement Learning. I am also broadly interested in other Mathematics-related topics.
 
 
-## <i class="fa fa-fw fa-rss "></i> Recent News　 
+## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-spinner fa-spin"></i> <b>Sep, 2019</b>. Two papers submitted to AAAI and ICLR</li>
-  <li><i class="fa-li fa fa-check-square"></i> <b>Aug, 2019</b> I am awarded Dean's list for my final year</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>Aug, 2019</b>. I am awarded Dean's list for my final year</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>May, 2019</b>. I start to work at <a https://www.sensetime.com/en/> Sensetime Research</a>. My advisor is <a https://luoping.me> Prof. Ping Luo </a> </li>
 </ul>
- 
--  **May, 2019**. I start to work at [Sensetime Research](https://www.sensetime.com/en/). My advisor is [Prof. Ping Luo](https://luoping.me)
 
 -  **May, 2019**. I graduate from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) with first honor and will be a Ph.D. student of Statistics in September
 
