@@ -18,8 +18,8 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 ## <i class="fa fa-fw fa-rss "></i> Recent News　 
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i> <b>Sep, 2019<\b>. Two papers submitted to AAAI and ICLR</li>
-  <li><i class="fa-li fa fa-check-square"></i> <b>Aug, 2019<\b> I am awarded Dean's list for my final year</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i> <b>Sep, 2019</b>. Two papers submitted to AAAI and ICLR</li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>Aug, 2019</b> I am awarded Dean's list for my final year</li>
 </ul>
  
 -  **May, 2019**. I start to work at [Sensetime Research](https://www.sensetime.com/en/). My advisor is [Prof. Ping Luo](https://luoping.me)
