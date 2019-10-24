@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# <i class="fa fa-fw fa-address-card"></i> About me#
 
 I am a first year Ph.D. student majoring in Statistics at [Purdue University](https://www.purdue.edu/).
 
