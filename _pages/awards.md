@@ -1,11 +1,10 @@
 ---
 permalink: /awards/
-title: ""
+title: <i class="fa fa-fw fa-trophy"></i> <b> Awards & Honors </b>
 excerpt: "Awards & Honors"
 author_profile: true
 
 ---
-# <i class="fa fa-fw fa-trophy"></i> Awards & Honors
 
 * Dean's List 2018-2019; **(Top 10%)**
 
