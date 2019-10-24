@@ -1,10 +1,11 @@
 ---
 permalink: /awards/
-title: "Awards & Honors"
+title: ""
 excerpt: "Awards & Honors"
 author_profile: true
 
 ---
+# Awards & Honors
 
 * Dean's List 2018-2019; **(Top 10%)**
 
