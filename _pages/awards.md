@@ -1,6 +1,6 @@
 ---
 permalink: /awards/
-title: "<i class="fa fa-fw fa-university "></i> Awards & Honors"
+title: "Awards & Honors"
 excerpt: "Awards & Honors"
 author_profile: true
 
