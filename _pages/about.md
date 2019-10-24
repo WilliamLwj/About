@@ -24,21 +24,21 @@ My research interest lies in the area of Machine Learning, more precisely, in th
   
   <li><i class="fa-li fa fa-check-square"></i> <b>May, 2019</b>. I start to work at <a href="https://www.sensetime.com/en/">Sensetime Research</a>. My advisor is <a href="https://luoping.me"> Prof. Ping Luo </a> </li>
   
-  <li><i class="fa-li fa fa-check-square"></i> <b>May, 2019</b>. I graduate from  <a href="http://www.cuhk.edu.hk/english/index.html">Chinese University of Hong Kong</a> with first honor and will be a Ph.D. student of Statistics in September. </li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>May, 2019</b>. I graduate from  <a href="http://www.cuhk.edu.hk/english/index.html">Chinese University of Hong Kong</a> with first honor and will be a Ph.D. student of Statistics in August. </li>
+  
+  <li><i class="fa-li fa fa-check-square"></i> <b>Feb, 2019</b>. I am awarded Heung To Education Fund Mathematics Scholarship and NTK Academic Group Scholarship. </li>
+  
+  <li><i class="fa-li fa fa-check-square"></i> <b>Sep, 2018</b>. I start to work for <a href="https://www.math.cuhk.edu.hk/~lmlui/"> Prof. Ronald Lok Ming Lui</a> on Teichmuller mapping and its applications. </li>
 
+  <li><i class="fa-li fa fa-check-square"></i> <b>Sep, 2018</b>. I start to work for <a href="https://www.math.cuhk.edu.hk/~rchan/"> Prof. Raymond H. Chan</a> on Poor-Rich Index (PRI). </li>
+  
+  <li><i class="fa-li fa fa-check-square"></i> <b>Aug, 2018</b>. I am awarded the Student Development Scholarship for Mathematics Undergraduates. </li>
+  
+  <li><i class="fa-li fa fa-check-square"></i> <b>Jun, 2018</b>. I start to work with <a href="https://www.seas.upenn.edu/directory/profile.php?ID=237">Prof. Paris Perdikaris</a> on the application of machine learning to dynamic systems. </li>
+  
+  <li><i class="fa-li fa fa-check-square"></i> <b>Jan, 2018</b>. I start to be an exchange student at the <a href="https://home.www.upenn.edu/">University of Pennsylvania </a>. </li>
 </ul>
 
--  **Feb, 2019**. I am awarded Heung To Education Fund Mathematics Scholarship and NTK Academic Group Scholarship
-
--  **Sep, 2018**. I start to work for [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/) on Teichmuller mapping and its applications
-
--  **Sep, 2018**. I start to work for [Prof. Raymond H. Chan](https://www.math.cuhk.edu.hk/~rchan/) on Poor-Rich Index (PRI).
-
--  **Aug, 2018**. I am awarded the Student Development Scholarship for Mathematics Undergraduates
-
--  **Jun, 2018**. I start to work with [Prof. Paris Perdikaris](https://www.seas.upenn.edu/directory/profile.php?ID=237) on the application of machine learning to dynamic systems
-           
--  **Jan, 2018**. I start to be an exchange student at the [University of Pennsylvania](https://home.www.upenn.edu/).
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1c679e&w=a&t=n&d=rvMTQFEORcQs4AVWtIVoK6ghclOws8CSKxqlBN5Map8&co=ffffff'></script>
