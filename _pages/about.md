@@ -20,7 +20,7 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-spinner fa-spin"></i> <b>Sep, 2019</b>. Two papers submitted to AAAI and ICLR</li>
   <li><i class="fa-li fa fa-check-square"></i> <b>Aug, 2019</b>. I am awarded Dean's list for my final year</li>
-  <li><i class="fa-li fa fa-check-square"></i> <b>May, 2019</b>. I start to work at <a https://www.sensetime.com/en/> Sensetime Research</a>. My advisor is <a https://luoping.me> Prof. Ping Luo </a> </li>
+  <li><i class="fa-li fa fa-check-square"></i> <b>May, 2019</b>. I start to work at <a href=https://www.sensetime.com/en/>Sensetime Research</a>. My advisor is <a href=https://luoping.me> Prof. Ping Luo </a> </li>
 </ul>
 
 -  **May, 2019**. I graduate from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) with first honor and will be a Ph.D. student of Statistics in September
