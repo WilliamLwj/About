@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# <i class="fa fa-fw fa-id-badge"></i> About me #
+# <i class="fa fa-fw fa-idcard"></i> About me #
 
 I am a first year Ph.D. student majoring in Statistics at [Purdue University](https://www.purdue.edu/).
 
