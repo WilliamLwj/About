@@ -24,7 +24,7 @@ My research interest lies in the area of Machine Learning, more precisely, in th
   
   <li><i class="fa-li fa fa-spinner fa-spin"></i> <b>Aug, 2019</b>. I start my new journey at <a href="https://www.purdue.edu/">Purdue. </a>Boiler up!</li>
   
-  <li> * <b>May, 2019</b>. I start to work at <a href="https://www.sensetime.com/en/">Sensetime Research</a>. My advisor is <a href="https://luoping.me"> Prof. Ping Luo </a> </li>
+  <li> <b>May, 2019</b>. I start to work at <a href="https://www.sensetime.com/en/">Sensetime Research</a>. My advisor is <a href="https://luoping.me"> Prof. Ping Luo </a> </li>
   
   <li><i class="fa-li fa fa-circle-notch"></i> <b>May, 2019</b>. I graduate from  <a href="http://www.cuhk.edu.hk/english/index.html">Chinese University of Hong Kong</a> with first honor and will be a Ph.D. student of Statistics in August. </li>
   
