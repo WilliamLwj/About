@@ -16,6 +16,14 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News　 
+
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-check-square"></i>List icons</li>
+  <li><i class="fa-li fa fa-check-square"></i>can be used</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>as bullets</li>
+  <li><i class="fa-li fa fa-square"></i>in lists</li>
+</ul>
+
 -  **Sep, 2019**. Two papers submitted to AAAI and ICLR.
 
 -  **Aug, 2019**. I am awarded Dean's list for my final year
