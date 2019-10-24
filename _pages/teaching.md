@@ -1,9 +1,10 @@
 ---
 layout: single
-title: <font size="6"> <i class="fa fa-fw fa-edit"></i> <strong>Teaching</strong> </font>
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
+# <i class="fa fa-fw fa-edit"></i> Teaching #
 
 {% include base_path %}
 
