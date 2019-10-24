@@ -9,13 +9,13 @@ I keep some of my self-written notes from my studies in this place.
 
 ## Undergraduate Studies ##
 
-* [Real Analysis](https://williamlwj.github.io/About/files/undergrad_notes/notes_real_analysis.pdf)
+* [MATH4050 Real Analysis](https://williamlwj.github.io/About/files/undergrad_notes/notes_real_analysis.pdf)
 
-* [Teichmuller Maps](https://williamlwj.github.io/About/files/undergrad_notes/notes_teichmuller.pdf)
+* [MATH4400 Teichmuller Maps](https://williamlwj.github.io/About/files/undergrad_notes/notes_teichmuller.pdf)
 
-* [Algorithm](https://williamlwj.github.io/About/files/undergrad_notes/notes_algorithm.pdf)
+* [CSCI3160 Algorithm](https://williamlwj.github.io/About/files/undergrad_notes/notes_algorithm.pdf)
 
-* [Statistical Learning](https://williamlwj.github.io/About/files/undergrad_notes/notes_statistical_learning.pdf)
+* [STAT4001 Statistical Learning](https://williamlwj.github.io/About/files/undergrad_notes/notes_statistical_learning.pdf)
 
 
 
