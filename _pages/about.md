@@ -23,7 +23,7 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 
 -  **May, 2019**. I start to work at [Sensetime Research](https://www.sensetime.com/en/). My advisor is [Prof. Ping Luo](https://luoping.me)
 
--  **May, 2019**. I graduate from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) with first honor and will be a Ph.D. student in Statistics in September
+-  **May, 2019**. I graduate from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) with first honor and will be a Ph.D. student of Statistics in September
 
 -  **Feb, 2019**. I am awarded Heung To Education Fund Mathematics Scholarship and NTK Academic Group Scholarship
 
