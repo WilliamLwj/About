@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# <i class="fa fa-fw fa-university fa-2x"></i> Education #
+# <i class="fa fa-fw fa-university "></i> Education #
 * **Ph.D. of Statistics, Purdue University, 2019-now**
   * Admitted with teaching assistantship
 
@@ -18,7 +18,7 @@ redirect_from:
 
 * **Exchange Student, University of Pennsylvania, 2018**
   
-# <i class="fa fa-fw fa-briefcase fa-2x"></i> Intern #
+# <i class="fa fa-fw fa-briefcase "></i> Intern #
 * **Sensetime Research**.
   * Research Intern. May-Sep, 2019
   * Supervisor: [Dr. Xinjiang Wang](https://scholar.google.com/citations?hl=en&user=q4lnWaoAAAAJ&view_op=list_works). Advisor: [Prof. Ping Luo](https://luoping.me)
