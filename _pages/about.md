@@ -28,8 +28,6 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 
 </ul>
 
--  **May, 2019**. I graduate from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) with first honor and will be a Ph.D. student of Statistics in September
-
 -  **Feb, 2019**. I am awarded Heung To Education Fund Mathematics Scholarship and NTK Academic Group Scholarship
 
 -  **Sep, 2018**. I start to work for [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/) on Teichmuller mapping and its applications
