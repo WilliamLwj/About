@@ -5,7 +5,7 @@ excerpt: "Awards & Honors"
 author_profile: true
 
 ---
-# <i class="fa fa-fw fa-award "></i> Awards & Honors
+# <i class="fa fa-fw fa-medal "></i> Awards & Honors
 
 * Dean's List 2018-2019; **(Top 10%)**
 
