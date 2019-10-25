@@ -17,12 +17,12 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
-<ul class="fa-ul" style="width: 900px; height: 400px; overflow: auto">
-  <li><i class="fa-li fa fa-spinner fa-spin"></i> <b>[Sep, 2019]</b>. Two papers submitted to AAAI and ICLR</li>
+<ul style="width: 900px; height: 300px; overflow: auto">
+  <li> <b>[Sep, 2019]</b>. Two papers submitted to AAAI and ICLR</li>
   
   <li> <b>[Aug, 2019]</b>. I am awarded Dean's list for my final year</li>
   
-  <li><i class="fa-li fa fa-spinner fa-spin"></i> <b>[Aug, 2019]</b>. I start my new journey at <a href="https://www.purdue.edu/">Purdue. </a>Boiler up!</li>
+  <li> <b>[Aug, 2019]</b>. I start my new journey at <a href="https://www.purdue.edu/">Purdue. </a>Boiler up!</li>
   
   <li> <b>[May, 2019]</b>. I start to work at <a href="https://www.sensetime.com/en/">Sensetime Research</a>. My advisor is <a href="https://luoping.me"> Prof. Ping Luo </a> </li>
   
