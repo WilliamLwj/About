@@ -7,6 +7,8 @@ tags:
   - optimization
 ---
 
+In this post, we record the optimization papers for research
+
 1. ### [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)
   * Talks about the differences between l2 regularization and weight decay in adaptive algorithms and derives AdamW.
 
