@@ -1,10 +1,12 @@
 ---
 permalink: /notes/
-title: "Notes"
+title: ""
 excerpt: "Notes"
 author_profile: true
 
 ---
+# <i> Notes #
+
 I keep some of my self-written notes from my studies in this place.
 
 ## Undergraduate Studies ##
