@@ -1,12 +1,12 @@
 ---
-layout: archive
-permalink: /year-archive/
-title: "Blog posts"
+layout: single
+permalink: /posts/
+title: ""
 author_profile: true
 redirect_from:
-  - /wordpress/blog-posts/
+  - /links/posts/
 ---
-
+# posts #
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
