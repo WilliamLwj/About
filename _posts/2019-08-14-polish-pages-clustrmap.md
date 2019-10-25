@@ -1,7 +1,7 @@
 ---
 title: "Polish your Github Pages-ClustrMap"
 date: 2019-08-14
-permalink: /posts/polish-pages-clustrmap/
+permalink: /posts/2019/08/polish-pages-clustrmap/
 tags:
   - github pages
 ---
