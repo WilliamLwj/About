@@ -5,7 +5,7 @@ excerpt: "Notes"
 author_profile: true
 
 ---
-# <i> Notes #
+# <i class="fa fa-fw fa-clipboard"></i> Notes #
 
 I keep some of my self-written notes from my studies in this place.
 
