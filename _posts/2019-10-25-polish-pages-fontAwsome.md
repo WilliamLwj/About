@@ -1,6 +1,6 @@
 ---
 title: "Polish your Github Pages-Icons"
-date: 2019-08-14
+date: 2019-10-25
 permalink: /posts/polish-pages-icons/
 tags:
   - github pages
