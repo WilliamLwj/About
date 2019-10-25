@@ -17,7 +17,7 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
-<ul class="fa-ul" style="width: 300px; height: 50px; overflow: auto">
+<ul class="fa-ul" style="width: 900px; height: 600px; overflow: auto">
   <li><i class="fa-li fa fa-spinner fa-spin"></i> <b>[Sep, 2019]</b>. Two papers submitted to AAAI and ICLR</li>
   
   <li> <b>[Aug, 2019]</b>. I am awarded Dean's list for my final year</li>
