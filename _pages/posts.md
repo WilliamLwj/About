@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /links/posts/
 ---
-# posts #
+# Posts #
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
