@@ -20,3 +20,8 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 ------>
+{% include base_path %}
+
+{% for post in site.posts%}
+  {% include archive-single.html %}
+{% endfor %}
