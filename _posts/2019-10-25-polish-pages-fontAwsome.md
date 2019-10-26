@@ -26,11 +26,11 @@ In fact, when we fork the repository from academic pages, some icons are already
 
 where ```fa-fw``` stands for fixed width and ```fa-github``` means the icon for github. These lines of code can be directly copied into html/md files of your github pages. Except for ```fa-fw```, there are other customization options that can be applied to the icons. For example, icons of different sizes can be generated using ```fa-xs, fa-sm, fa-lg, fa-2x, fa-3x```..., which stands for extra small, small, large, 2x larger, 3x larger respectively.
 
-<i class="fas fa-github fa-xs"></i>
-<i class="fas fa-github fa-sm"></i>
-<i class="fas fa-github fa-lg"></i>
-<i class="fas fa-github fa-2x"></i>
-<i class="fas fa-github fa-3x"></i>
+<i class="fa fa-github fa-xs"></i>
+<i class="fa fa-github fa-sm"></i>
+<i class="fa fa-github fa-lg"></i>
+<i class="fa fa-github fa-2x"></i>
+<i class="fa fa-github fa-3x"></i>
 
 
 Reference: [Font Awesome Examples](https://fontawesome.com/v4.7.0/examples/)
