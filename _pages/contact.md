@@ -7,7 +7,7 @@ redirect_from:
 
   - /contact.html
 ---
-# <i class="fa fa-fw fa-address-book"></i> Contact me #
+# <i class="fa fa-fw fa-send"></i> Contact me #
 
 [<i class="fa fa-fw fa-envelope fa-lg"></i>](mailto:li3549@purdue.edu) Purdue Email: li3549@purdue.edu
 
