@@ -27,4 +27,11 @@ In this post, we record the optimization papers for research
 6. ### [AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods](https://openreview.net/forum?id=HkgTkhRcKQ)
   * Talks about temporary shifting g_t to g_{t-n} in designing the V_t so that the correlation can be removed.
   
-7. 
+7. ### [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
+  * The original Adam optimizer, fast convergence though poor performance.
+  
+8. ###[Adaptive subgradient methods for online learning
+and stochastic optimization](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
+  * The first Adaptive algorithm uses no first order momentum, and the global average as the second momentum.
+  
+9. 
