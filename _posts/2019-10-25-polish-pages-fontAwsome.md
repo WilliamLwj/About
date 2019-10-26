@@ -32,6 +32,7 @@ where ```fa-fw``` stands for fixed width and ```fa-github``` means the icon for 
 <i class="fa fa-github fa-2x"></i>
 <i class="fa fa-github fa-3x"></i>
 
+We are also able to spin the icons.
 
 Reference: [Font Awesome Examples](https://fontawesome.com/v4.7.0/examples/)
 
