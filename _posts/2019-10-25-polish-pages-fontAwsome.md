@@ -16,13 +16,17 @@ In fact, when we fork the repository from academic pages, some icons are already
   <a class="list-group-item" href=""><i class="fa fa-envelope-square fa-fw" aria-hidden="true"></i>&nbsp; Email</a>
 </div>
 
- These icons are generated using codes below.
+ These icons are generated using the following snippet of code.
 
-```{html}
+```{css}
 <i class="fa fa-github fa-fw">
 <i class="fa fa-linkedin fa-fw">
 <i class="fa fa-envelope-square fa-fw">
 ```
 
+where ```fa-fw``` stands for fixed width for the icon and ```fa-github``` stands for the icon for github. These lines of code can be directly copied into html/md files of your github pages. Except for ```fa-fw```, there are other options of 
 
+
+
+Reference: [Font Awesome Examples](https://fontawesome.com/v4.7.0/examples/)
 
