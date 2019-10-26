@@ -13,7 +13,7 @@ In fact, when we fork the repository from academic pages, some icons are already
 <div class="list-group">
   <a class="list-group-item" href=""><i class="fa fa-github fa-fw" aria-hidden="true"></i>&nbsp; Github</a>
   <a class="list-group-item" href=""><i class="fa fa-linkedin fa-fw" aria-hidden="true"></i>&nbsp; Linkedin</a>
-  <a class="list-group-item" href=""><i class="fa fa-envelop-square fa-fw" aria-hidden="true"></i>&nbsp; Email</a>
+  <a class="list-group-item" href=""><i class="fa fa-envelope-square fa-fw" aria-hidden="true"></i>&nbsp; Email</a>
 </div>
 
  These icons are generated using codes below.
@@ -21,7 +21,7 @@ In fact, when we fork the repository from academic pages, some icons are already
 ```{html}
 <i class="fa fa-github fa-fw">
 <i class="fa fa-linkedin fa-fw">
-<i class="fa fa-envelop-square fa-fw">
+<i class="fa fa-envelope-square fa-fw">
 ```
 
 
