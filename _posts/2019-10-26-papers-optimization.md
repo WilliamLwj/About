@@ -30,8 +30,7 @@ In this post, we record the optimization papers for research
 7. ### [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
   * The original Adam optimizer, fast convergence though poor performance.
   
-8. ### [Adaptive subgradient methods for online learning
-and stochastic optimization](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
+8. ### [Adaptive subgradient methods for online learning and stochastic optimization] (http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
   * The first Adaptive algorithm uses no first order momentum, and the global average as the second momentum.
   
 9. 
