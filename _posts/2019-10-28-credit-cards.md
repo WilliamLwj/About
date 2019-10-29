@@ -18,8 +18,20 @@ This is a Chinese post for me to record the credit cards that I want to apply. I
   * 开卡奖励150-250 credit不等，可以用VPN刷出高奖。refer奖励75credit
   * 无年费，长期持有，信用一个月就可以办理。
   
-3. [Chase Freedom]
+3. [Chase Freedom Card](https://www.uscreditcardguide.com/chase-freedom/)
+  * 北美神卡之一，5% 季度返点，1%平时。
+  * 开卡奖励20K，点数配合CSP是不错的选择， 同时配合CFU
+  * 无年费，适合6个月信用之后申请，长期持有。
 
+4. [Chase Sapphire Preferred (CSP)]
 
-4. [The Hilton Honors American Express Card](https://www.uscreditcardguide.com/amex-hilton/)
-  * 无
+5. [The Hilton Honors American Express Card](https://www.uscreditcardguide.com/amex-hilton/)
+  * 无年费酒店神卡，吃饭超市加油返（酒店）点很高
+  * 100k 酒店点数/听说有75k点+100刀 开卡奖励
+  * 无年费
+
+6. [The AmEx EveryDay Credit Card](https://www.uscreditcardguide.com/amex-everyday/)
+
+7. [Chase Amazon card]
+
+8. [Chase Freedom Unlimited]
