@@ -1,12 +1,12 @@
 ---
-title: "Credit Cards I Have Applied/Want to Apply"
+title: "Credit Cards"
 date: 2019-10-26
 permalink: /posts/papers-optimization
 tags:
   - credit cards
 ---
 
-This is a Chinese post for me to record the credit cards that I want to apply. If you don't know Chinese, You can also directly click on the link to see the cards.
+This is a Chinese post for me to record the credit cards that I want to apply for. If you don't know Chinese, You can also directly click on the links to see the cards.
 
 1. [Discover it](http://refer.discover.com/s/li35490)
   * 北美神卡之一，5% 季度返现，1%平时，第一年返现双倍。
