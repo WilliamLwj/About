@@ -13,7 +13,7 @@ This is a Chinese post for me to record the credit cards that I want to apply fo
   * GPA>=3.0每年奖励20credit, refer奖励50credit。
   * 无年费，适合第一张入门办理（拿到SSN后），长期持有。
   
-2. [American Express Blue Cash Everyday](http://refer.amex.us/WENJIL8qcT?XLINK=MYCP) <i class="fa-li fa fa-check-square"></i>
+2. [American Express Blue Cash Everyday](http://refer.amex.us/WENJIL8qcT?XLINK=MYCP) <i class="fa fa-check-square"></i>
   * 入门买菜卡，3% 超市返现，2% 加油，其余1%
   * 开卡奖励150-250 credit不等，可以用VPN刷出高奖。refer奖励75credit
   * 无年费，长期持有，信用一个月就可以办理。
