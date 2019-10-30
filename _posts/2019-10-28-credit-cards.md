@@ -8,7 +8,7 @@ tags:
 
 This is a Chinese post for me to record the credit cards that I want to apply for. If you don't know Chinese, You can also directly click on the links to see the cards.
 
-1. [Discover it](http://refer.discover.com/s/li35490) <i class="fa-li fa fa-check-square"></i>
+1. [Discover it](http://refer.discover.com/s/li35490) <i class="fa fa-check-square"></i>
   * 北美神卡之一，5% 季度返现，1%平时，第一年返现双倍。
   * GPA>=3.0每年奖励20credit, refer奖励50credit。
   * 无年费，适合第一张入门办理（拿到SSN后），长期持有。
