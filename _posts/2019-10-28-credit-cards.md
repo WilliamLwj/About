@@ -1,7 +1,7 @@
 ---
 title: "Credit Cards"
 date: 2019-10-26
-permalink: /posts/papers-optimization
+permalink: /posts/credit-cards
 tags:
   - credit cards
 ---
