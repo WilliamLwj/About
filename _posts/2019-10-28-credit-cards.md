@@ -45,4 +45,6 @@ This is a Chinese post for me to record the credit cards that I want to apply fo
   * 200刀开卡奖励, 很多人的第一张卡，拿了开卡奖励之后可以扔抽屉 
   * 3% 自选返现
   
-10. [Uber Eats]() (EXPIRED)
+10. [Uber Eats](https://www.uscreditcardguide.com/barclaycard-uber/) (EXPIRED)
+  * 100刀开卡奖励
+  * 吃饭4%返现，旅游
