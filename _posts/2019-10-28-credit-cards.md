@@ -36,15 +36,22 @@ This is a Chinese post for me to record the credit cards that I want to apply fo
   * 无年费
 
 6. [The AmEx EveryDay Credit Card](https://www.uscreditcardguide.com/amex-everyday/)
-
+  * 免费买菜卡，返点而非返现，如果要用MR点数系统的话可以考虑开一张
+  * 最高25k点数开卡奖励
+  * 2%超市返点，1%其他返点，每月消费20次以上返点可以涨20%，可以用amazon reload刷次数
+  * MR点数买机票比较值得，返现很亏，除非持有[Amex platium schwab](https://www.uscreditcardguide.com/amex-platinum-for-schwab/)。
 7. [Chase Amazon card]
+  * 
 
 8. [Chase Freedom Unlimited]
+
 
 9. [Bank of America Cash Rewards Credit Card](https://www.uscreditcardguide.com/boa-cash-rewards/)
   * 200刀开卡奖励, 很多人的第一张卡，拿了开卡奖励之后可以扔抽屉 
   * 3% 自选返现
   
 10. [Uber Eats](https://www.uscreditcardguide.com/barclaycard-uber/) (EXPIRED)
-  * 100刀开卡奖励
-  * 吃饭4%返现，旅游
+  * 已变渣，全都是Uber Cash，不打算再申请
+  * 100刀开卡奖励，巴尔克雷的卡
+  * 吃饭4%返现，旅游3%， 网购2%，很好的吃饭卡
+  * 无年费
