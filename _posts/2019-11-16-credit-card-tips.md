@@ -7,7 +7,7 @@ tags:
 ---
 
 This is a Chinese post for me to record the tips or advice I have for using credit cards.
-
+<pre>
 1. 不要申请会绑定你消费的卡。<br />
    举例：[Amex Blue Cash Everyday(BCE)](http://refer.amex.us/WENJIL8qcT?XLINK=MYCP) vs [Amex Blue Cash Preferred(BCP)](https://www.uscreditcardguide.com/blue-cash-preferred/)<br />
    虽然看起来BCP多出了3%的超市返点，但是不要忘了，你需要交95刀的年费。有的人或许觉得95刀的年费轻轻松松能用超市消费赚回来，这可能不假，假如一年消费超市3166.67刀，那么BCP所赚取的钱是190，BCE则是95，刚好能把年费赚回来，也就是说一个月超市消费300刀左右就能比BCE赚得多。如果你是在大城市，或者一个人买一家人的菜，那可能300刀对你不是难事，更何况还可以买amazon gift card等等来凑数。<br />
@@ -20,4 +20,4 @@ This is a Chinese post for me to record the tips or advice I have for using cred
 
 3. [Rakuten](https://www.rakuten.com/r/LI3549?eeid=28187) 网购神器。<br />
     Rakuten的返现力度实在是太高了，而且只需要在你的浏览器里面安装一个小插件，就可以对你每一笔网购进行追踪，在你打开任意商铺官网的时候，Rakuten就会告诉你有多少的返利，很多时候都有3—5%左右的cashback，一年下来返个几十上百刀很正常。甚至，Rakuten的钱还可以返成Amex MR点数，结合Amex信用卡自身高额返点赚得更多。如果你经常网购，赶紧用起来吧。
-
+</pre>
