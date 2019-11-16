@@ -1,12 +1,12 @@
 ---
-title: "Make the Most of Your Credit Card"
+title: "Make the Most of Your Credit Cards"
 date: 2019-11-16
 permalink: /posts/credit-cards-tips
 tags:
   - credit cards
 ---
 
-This is a Chinese post for me to record the tips or advice I have for using credit cards.
+This is a Chinese post for me to share the tips or advice I have for using credit cards.
 
 1. 不要申请会绑定你消费的卡。<br />
   &nbsp;&nbsp; 举例：[Amex Blue Cash Everyday(BCE)](http://refer.amex.us/WENJIL8qcT?XLINK=MYCP) vs [Amex Blue Cash Preferred(BCP)](https://www.uscreditcardguide.com/blue-cash-preferred/)<br />
