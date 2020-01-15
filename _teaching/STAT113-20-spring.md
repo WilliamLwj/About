@@ -3,7 +3,7 @@ title: "[STAT113 Statistics and Society](https://www.stat.purdue.edu/academic_pr
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/STAT113-20-fall
-venue: "Purdue University"
+venue: "Purdue University Spring"
 date: 2020-01-13
 ---
 
