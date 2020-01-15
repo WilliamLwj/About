@@ -4,7 +4,7 @@ collection: teaching
 type: "Grader"
 permalink: /teaching/STAT511-20-spring
 venue: "Purdue University"
-date: 2020-01-14
+date: "2020 Spring"
 ---
 
 Graded homeworks and exams
