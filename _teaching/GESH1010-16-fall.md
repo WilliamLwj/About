@@ -3,7 +3,7 @@ title: "[GESH1010 General Education of S.H.Ho College](http://www.shho.cuhk.edu.
 collection: teaching
 type: "Undergraduate Teaching Assistant"
 permalink: /teaching/GESH1010-16-fall
-venue: "Chinese University of Hong Kong"
+venue: "Chinese University of Hong Kong Fall"
 date: 2016-09-01
 ---
 
