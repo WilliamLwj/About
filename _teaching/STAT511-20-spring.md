@@ -3,7 +3,8 @@ title: "[STAT511 Statistics and Society](https://www.stat.purdue.edu/academic_pr
 collection: teaching
 type: "Grader"
 permalink: /teaching/STAT511-20-spring
-venue: "Purdue University, 2020 Spring"
+venue: "Purdue University Spring"
+date: 2020-01-14
 ---
 
 Graded homeworks and exams
