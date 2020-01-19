@@ -7,5 +7,5 @@ date: 2019-09-25
 venue:
 paperurl:
 citation:
-github: https://github.com/WilliamLwj/AdaX
 ---
+[https://github.com/WilliamLwj/AdaX]
