@@ -8,4 +8,4 @@ venue:
 paperurl:
 citation:
 ---
-[https://github.com/WilliamLwj/AdaX]
+[<i class="fa fa-fw github fa-lg"></i>](https://github.com/WilliamLwj/AdaX)
