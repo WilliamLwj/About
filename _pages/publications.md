@@ -13,6 +13,6 @@ author_profile: true
 {% include base_path %}
 
 <br>
-<b>[AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](/AdaX)</b> <br> 
+<b>[### AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](/AdaX)</b> <br> 
 <b>Wenjie Li</b>, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. 
 <i>arXiv preprint</i>. 
