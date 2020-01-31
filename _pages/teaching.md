@@ -13,8 +13,14 @@ author_profile: true
 {% endfor %}
 
 ## Purdue University
-[STAT511 Statistical Methods](https://www.stat.purdue.edu/academic_programs/graduate/grad_course_desc.php)". Teaching Assistant. 20 Spring
+[STAT511 Statistical Methods](https://www.stat.purdue.edu/academic_programs/graduate/grad_course_desc.php). Teaching Assistant. 20 Spring
+
+
+
 - Graded quizzes and midterms. Set up homeworks and solutions
 
+
+[STAT113 Statistics and Society](https://www.stat.purdue.edu/academic_programs/courses/schedule_info.php?crs=113&semester=Fall&year=2019). Teaching Assistant. 19 Fall, 20 Spring
+-Taught three recitations every week (60 students). Graded projects, quizzes and exams.
 
 ## Chinese University of Hong Kong
