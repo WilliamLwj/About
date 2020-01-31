@@ -15,7 +15,7 @@ author_profile: true
 
 ## Purdue University
 [**STAT511 Statistical Methods**](https://www.stat.purdue.edu/academic_programs/graduate/grad_course_desc.php). Teaching Assistant. _20 Spring_
-- Graded hoemworks and midterms. Set up homeworks and solutions
+- Graded homeworks and midterms. Set up homeworks and solutions
 
 [**STAT/MA 416 Probability**](https://www.stat.purdue.edu/~jianxi/stat41600/index.html). Teaching Assistant. _19 Fall_
 - Graded quizzes and midterms. Set up homeworks and solutions
