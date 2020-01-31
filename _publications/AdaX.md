@@ -6,7 +6,7 @@ excerpt:
 date: 2019-09-25
 venue: arXiv
 paperurl:
-citation:
+citation: **Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo.
 ---
 [[Github](https://github.com/WilliamLwj/AdaX)] [[arXiv]()]
 
