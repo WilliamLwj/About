@@ -5,14 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 # <i class="fa fa-fw fa-edit"></i> Teaching #
-
-<!--
-{% include base_path %}
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
 ## Purdue University
 [**STAT511 Statistical Methods**](https://www.stat.purdue.edu/academic_programs/graduate/grad_course_desc.php). Teaching Assistant. _20 Spring_
 - Graded homeworks and midterms. Set up homeworks and solutions
@@ -27,3 +19,10 @@ author_profile: true
 ## Chinese University of Hong Kong
 [**GESH1010 General Education of S.H.Ho College**](http://www.shho.cuhk.edu.hk/general-education/induction-course-1010/induction-course-gesh1010-orientation-and-outreach/) Undergraduate Teaching Assistant, _16 Fall_
 - Course helper every week. Helped organizing events 
+
+<!--
+{% include base_path %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
