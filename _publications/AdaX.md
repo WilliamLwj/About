@@ -3,7 +3,7 @@ title: "AdaX: Adaptive Gradient Descent with Exponential Long Term Memory"
 collection: publications
 permalink: /publications/AdaX
 excerpt: 
-date: 2019-09-25
+date: 2020-01-31
 venue: arXiv
 paperurl:
 citation: <b>Wenjie Li</b>, Zhaoyang Zhang, Xinjiang Wang, Ping Luo.
