@@ -1,7 +1,7 @@
 ---
 title: "How Does BN Increase Collapsed Neural Network Filters?"
 collection: publications
-permalink: /publication/BN-collapse
+permalink: /publications/BN-collapse
 excerpt: 
 date: 2019-08-02
 venue: arXiv
