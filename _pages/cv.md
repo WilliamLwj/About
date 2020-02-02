@@ -13,7 +13,7 @@ redirect_from:
   * Admitted with teaching assistantship
 
 * B.Sc. of Mathematics, Chinese University of Hong Kong, 2015-19
-  * Graduate with first honor
+  * First Honor Graduate
   * Double stream in Computational and Applied Mathematics(CAM) and Enrichment Mathematics
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
 * Exchange Student, University of Pennsylvania, 2018
