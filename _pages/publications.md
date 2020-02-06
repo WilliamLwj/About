@@ -14,7 +14,7 @@ _arXiv preprint_.
 
 ### [How Does BN Increase Collapsed Neural Network Filters](https://williamlwj.github.io/About//publications/BN-collapse)
 
-Sheng Zhou, Xinjiang Wang, Ping Luo, Litong Feng, **Wenjie Li**, Wei Zhang
+Sheng Zhou, Xinjiang Wang, Ping Luo, Litong Feng, **Wenjie Li**, Wei Zhang.
 _arXiv preprint_. 
 
 [* denotes equal contribution]
