@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 # <i class="fa fa-fw fa-paste"></i> Publications #
+
+### [On the Proximal Functions of Adaptive Methods and Beyond](https://williamlwj.github.io/About//publications/AMX)
+
+**Wenjie Li**, Guang Cheng. 
+_arXiv preprint_. 
+
+
 ### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
 
 **Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. 
