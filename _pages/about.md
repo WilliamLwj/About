@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
-I am a first year Ph.D. student majoring in Statistics at [Purdue University](https://www.purdue.edu/).
+I am a first year Ph.D. student majoring in Statistics at [Purdue University](https://www.purdue.edu/), supervised by [Prof. Guang Cheng](https://www.stat.purdue.edu/~chengg/).
 
 Before coming to Purdue, I graduated from the Mathematics department at [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/). I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/) for one semester in 2018. I had a wonderful summer at Sensetime advised by [Prof. Ping Luo](https://luoping.me)
 
