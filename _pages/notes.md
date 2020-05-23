@@ -21,7 +21,9 @@ I keep some of my self-written notes from my studies in this place.
 
 ## Graduate Studies ##
 
-* [STAT545 Computational Statistics]()
+* [STAT553 Linear Models](https://williamlwj.github.io/About/files/graduate_notes/553_report.pdf)
+
+* [STAT545 Computational Statistics](https://williamlwj.github.io/About/files/graduate_notes/545_report.pdf)
 
 * [STAT598 Seminar I](https://williamlwj.github.io/About/files/graduate_notes/598_report.pdf)
 
