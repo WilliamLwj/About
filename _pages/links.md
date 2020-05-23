@@ -9,6 +9,8 @@ author_profile: true
 
 * My [blog posts](https://williamlwj.github.io/About/posts).
 
+* [Prof. Guang Cheng](https://www.stat.purdue.edu/~chengg/), my advisor at Purdue
+
 * [Prof. Ping Luo](http://luoping.me/), my advisor at Sensetime.
 
 * [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/), my academic advisor at CUHK.
