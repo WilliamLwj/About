@@ -18,6 +18,8 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Jun, 2020]</b>. Two papers submitted to NeurIPS</li>
+  
   <li> <b>[Sep, 2019]</b>. Two papers submitted to AAAI and ICLR</li>
   
   <li> <b>[Aug, 2019]</b>. I am awarded Dean's list for my final year</li>
