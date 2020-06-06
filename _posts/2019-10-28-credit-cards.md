@@ -18,9 +18,9 @@ This is a Chinese post for me to record the credit cards that I want to apply fo
   * 开卡奖励150-250 credit不等，可以用VPN刷出高奖。refer奖励75credit
   * 无年费，长期持有，信用一个月就可以办理。
   
-3. [Chase Freedom Card](https://www.uscreditcardguide.com/chase-freedom/)
+3. [Chase Freedom Card](https://www.referyourchasecard.com/18/YTPNSGU7AO) <i class="fa fa-check-square"></i>
   * 北美神卡之一，5% 季度返点，1%平时。
-  * 开卡奖励20K，点数配合CSP是不错的选择， 同时可以配合CFU
+  * 开卡奖励20K，点数配合CSP可以换航空里数，点数可增值1.6倍，同时可以配合CFU
   * 无年费，适合6个月信用之后申请，长期持有。
 
 4. [Chase Sapphire Preferred (CSP)](https://www.uscreditcardguide.com/chase-sapphire-preferred/)
