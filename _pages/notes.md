@@ -9,7 +9,7 @@ author_profile: true
 
 I keep some of my self-written notes from my studies in this place.
 
-## Undergraduate Studies ##
+## Undergraduate Study ##
 
 * [MATH4050 Real Analysis](https://williamlwj.github.io/About/files/undergrad_notes/notes_real_analysis.pdf)
 
@@ -19,7 +19,7 @@ I keep some of my self-written notes from my studies in this place.
 
 * [STAT4001 Statistical Learning](https://williamlwj.github.io/About/files/undergrad_notes/notes_statistical_learning.pdf)
 
-## Graduate Studies ##
+## Graduate Study ##
 
 * [STAT553 Linear Models](https://williamlwj.github.io/About/files/graduate_notes/553_report.pdf)
 
