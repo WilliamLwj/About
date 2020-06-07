@@ -13,7 +13,7 @@ author_profile: true
 - Graded quizzes and midterms. Set up homeworks and solutions
 
 
-[**STAT113 Statistics and Society**](https://www.stat.purdue.edu/academic_programs/courses/schedule_info.php?crs=113&semester=Fall&year=2019). Teaching Assistant. _19 Fall, 20 Spring_
+[**STAT113 Statistics and Society**](https://www.stat.purdue.edu/academic_programs/courses/schedule_info.php?crs=113&semester=Fall&year=2019). Teaching Assistant. _19 Fall, 20 Spring, 20 Summer_
 - Taught three recitations every week (60 students). Graded projects, quizzes and exams.
 
 ## Chinese University of Hong Kong
