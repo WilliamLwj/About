@@ -10,7 +10,7 @@ This post talks about the online courses I like
 
 * (Traditional) Computer Vision and Robotics. [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning)
 
-  I really liked some of the traditional techniques, especially for Image Carving and Image Morphing, but it barely covered any modern CV techniques (CNNs), and the math was pretty straight forward. The projects were written in Matlab.
+  I really liked some of the traditional techniques, especially for Image Carving and Image Morphing, but it barely covered any modern CV techniques (CNNs), and the math was pretty straight forward. The projects were written in Matlab, including the one with neural nets and reinforcement learning.
 
 * (Modern) Computer Vision and Deep Learning. [CIS 680: Vision & Learning](https://fling.seas.upenn.edu/~cis680/wiki/index.php?title=Lectures) (Not Available Anymore)
 
