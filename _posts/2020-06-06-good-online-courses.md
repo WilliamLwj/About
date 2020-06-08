@@ -17,3 +17,6 @@ This post talks about the online courses I like
   I studied the slides and completed the assignments (only 4) by myself in 2018. It was not easy to self-study because it required basic Pytorch knowledge and it took me a long time to start basic training. But the topics covered most of the hot topics in computer vision, such as Image Classification, Object Detection, Autoencoders, and GANs.
   
 * Deep Reinforcement Learning. [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+
+
+Check [this one](https://youtu.be/uxYpJ5mMKx0) when you feel bad about your Ph.D. career or your papers rejected.
