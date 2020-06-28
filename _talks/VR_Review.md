@@ -8,4 +8,4 @@ date: 2020-06-26
 location: "West Lafayette, Indiana"
 ---
 
-[[slides]()]
+[[slides](https://williamlwj.github.io/About/files/slides/Variance_Reduction_Review_slides.pdf)]
