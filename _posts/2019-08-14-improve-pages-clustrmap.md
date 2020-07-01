@@ -1,5 +1,5 @@
 ---
-title: "Polish your Github Pages-ClustrMaps"
+title: "Improve your Github Pages-ClustrMaps"
 date: 2019-08-14
 permalink: /posts/polish-pages-clustrmaps/
 tags:
