@@ -1,5 +1,5 @@
 ---
-title: "Polish your Github Pages-Icons"
+title: "Improve your Github Pages-Icons"
 date: 2019-10-25
 permalink: /posts/polish-pages-icons/
 tags:
