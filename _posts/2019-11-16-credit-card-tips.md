@@ -19,4 +19,8 @@ This is a Chinese post for me to share the tips or advice I have for using credi
   &nbsp;&nbsp; 并且Plastiq refer别人还有1000的ffd可以赚，每年还有各种打折活动，听说某些卡在Plastiq上消费还是倒赚呢。
 
 3. [Rakuten](https://www.rakuten.com/r/LI3549?eeid=28187) 网购神器。<br />
-    &nbsp;&nbsp; Rakuten的返现力度实在是太高了，而且只需要在你的浏览器里面安装一个小插件，就可以对你每一笔网购进行追踪，在你打开任意商铺官网的时候，Rakuten就会告诉你有多少的返利，很多时候都有3—5%左右的cashback，一年下来返个几十上百刀很正常。甚至，Rakuten的钱还可以返成Amex MR点数，结合Amex信用卡自身高额返点赚得更多。如果你经常网购，赶紧用起来吧。
+   &nbsp;&nbsp; Rakuten的返现力度实在是太高了，而且只需要在你的浏览器里面安装一个小插件，就可以对你每一笔网购进行追踪，在你打开任意商铺官网的时候，Rakuten就会告诉你有多少的返利，很多时候都有3—5%左右的cashback，一年下来返个几十上百刀很正常。甚至，Rakuten的钱还可以返成Amex MR点数，结合Amex信用卡自身高额返点赚得更多。如果你经常网购，赶紧用起来吧。
+
+4. Discover 点数的使用。<br />
+   &nbsp;&nbsp; 亚马逊经常有使用Discover点数付款打八折的活动，这个时候只需要在付款的时候使用$0.01的点数，就可以达到打折的目的了，没必要全都用点数，这样反而少赚了一些。<br />
+   &nbsp;&nbsp; Discover点数可以拿来购买特定商家的gc，目前发现比较实用的就是耐克和GAP，购买gc是有折扣的，买的越多折扣越多，所以还不错。
