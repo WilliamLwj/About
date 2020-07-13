@@ -6,7 +6,7 @@ tags:
   - online courses
 ---
 
-This post talks about the online courses I like
+This post talks about the online resources I like
 
 * (Traditional) Computer Vision and Robotics. [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning)
 
@@ -18,5 +18,7 @@ This post talks about the online courses I like
   
 * Deep Reinforcement Learning. [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
+
+Good slides about stochastic optimization by [Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/)
 
 Check [this one](https://youtu.be/uxYpJ5mMKx0) when you feel bad about your Ph.D. career or your papers rejected.
