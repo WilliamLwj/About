@@ -1,9 +1,9 @@
 ---
 title: "Good Online Resources"
 date: 2020-06-06
-permalink: /posts/online_courses
+permalink: /posts/online_resources
 tags:
-  - online courses
+  - online resources
 ---
 
 This post talks about the online resources I like
@@ -22,3 +22,5 @@ This post talks about the online resources I like
 Good slides about stochastic optimization by [Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/)
 
 Check [this one](https://youtu.be/uxYpJ5mMKx0) when you feel bad about your Ph.D. career or your papers rejected.
+
+Also check this [NIPS Experiment](http://blog.mrtz.org/2014/12/15/the-nips-experiment.html), it's pretty amazing.
