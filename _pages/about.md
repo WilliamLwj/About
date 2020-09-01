@@ -18,7 +18,7 @@ My research interest lies in the area of Machine Learning, more precisely, in th
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Jun, 2020]</b>. Two papers submitted to NeurIPS</li>
+  <li> <b>[Aug, 2020]</b>. I have passed the qualifying exams!</li>
   
   <li> <b>[Sep, 2019]</b>. Two papers submitted to AAAI and ICLR</li>
   
