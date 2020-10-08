@@ -1,5 +1,5 @@
 ---
-title: "On the Proximal Functions of Adaptive Methods and Beyond"
+title: "On the Marginal Regret Bound Minimization of Adaptive Methods"
 collection: publications
 permalink: /publications/AMX
 excerpt: 
