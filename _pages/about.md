@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
-I am a first year Ph.D. student majoring in Statistics at [Purdue University](https://www.purdue.edu/), supervised by [Prof. Guang Cheng](https://www.stat.purdue.edu/~chengg/).
+I am a second year Ph.D. candidate majoring in Statistics at [Purdue University](https://www.purdue.edu/), supervised by [Prof. Guang Cheng](https://www.stat.purdue.edu/~chengg/).
 
 Before coming to Purdue, I graduated from the Mathematics department at [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/). I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/) for one semester in 2018. I had a wonderful summer at Sensetime advised by [Prof. Ping Luo](https://luoping.me)
 
-My research interest lies in the area of Machine Learning, more precisely, in theories of optimization, generative models, and sparsification in deep learning. I am also broadly interested in other Mathematics-related topics.
-
+I am currently interested in online and stochastic optimization in both reinforcement learning and deep learning. I am also passionate about the cool applications of deep learning including computer vision and natural language processing
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
