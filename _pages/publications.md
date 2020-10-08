@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-### [On the Proximal Functions of Adaptive Methods and Beyond](https://williamlwj.github.io/About//publications/AMX)
+### [On the Marginal Regret Bound Minimization of Adaptive Methods](https://williamlwj.github.io/About//publications/AMX)
 
 **Wenjie Li**, Guang Cheng. 
 _arXiv preprint_. 
