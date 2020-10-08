@@ -14,6 +14,7 @@ author_profile: true
 
 [**STAT113 Statistics and Society**](https://www.stat.purdue.edu/academic_programs/courses/schedule_info.php?crs=113&semester=Fall&year=2019). Teaching Assistant. _19 Fall, 20 Spr, 20 Sum, 21 Fall_
 - Taught three recitations every week (60 students). Graded projects, quizzes and exams.
+- 21 Fall. Taught around 50 online students as well.
 - For TAs who need to upload the homework scores, here are the [instructions](https://docs.google.com/presentation/d/1YCxo6dyGXLUVWQUV_PxAq4H8I_FPKENdH9uobL_818w/edit?usp=sharing)
 
 ## Chinese University of Hong Kong
