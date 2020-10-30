@@ -16,7 +16,7 @@ _arXiv preprint_.
 ### [Variance Reduction on Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. 
-_Accepted at the 34th Neural Information Processing Systems (NeurIPS 2020) Workshop_. (**Spotlight**)
+_The 34th Neural Information Processing Systems (NeurIPS 2020) Workshop_. (**Oral Spotlight**)
 
 
 ### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
