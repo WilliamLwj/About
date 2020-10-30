@@ -17,7 +17,7 @@ _arXiv preprint_.
 
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. 
 
-_Accepted at Neural Information Processing Systems (NeurIPS 2020) Workshop_. (**Spotlight and Oral**)
+_Accepted at the Neural Information Processing Systems (NeurIPS 2020) Workshop_. (**Spotlight and Oral**)
 
 
 ### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
