@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/SVRGMD
 excerpt: 
 date: 2020-10-30
-venue: The 34th Conference on Neural Information Processing Systems (NeurIPS 2020) Workshop. OPT2020
+venue: The 34th Conference on Neural Information Processing Systems (NeurIPS 2020) Workshop & OPT
 paperurl:
 citation: <b>Wenjie Li</b>, Zhanyu Wang, Yichen Zhang, Guang Cheng
 ---
