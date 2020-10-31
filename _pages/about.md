@@ -17,11 +17,11 @@ I am currently interested in online and stochastic optimization in both reinforc
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Oct, 2020]</b>. One short paper accepted by NeurIPS2020 Workshop.</li>
+  
   <li> <b>[Aug, 2020]</b>. I have passed the qualifying exams!</li>
   
-  <li> <b>[Sep, 2019]</b>. Two papers submitted to AAAI and ICLR</li>
-  
-  <li> <b>[Aug, 2019]</b>. I am awarded Dean's list for my final year</li>
+  <li> <b>[Aug, 2019]</b>. I am awarded Dean's list for my final undergraduate year</li>
   
   <li> <b>[Aug, 2019]</b>. I start my new journey at <a href="https://www.purdue.edu/">Purdue. </a>Boiler up!</li>
   
