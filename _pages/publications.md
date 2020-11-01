@@ -10,7 +10,7 @@ author_profile: true
 ### [On the Marginal Regret Bound Minimization of Adaptive Methods](https://williamlwj.github.io/About//publications/AMX)
 
 **Wenjie Li**, Guang Cheng. 
-_arXiv preprint_. 
+_Under Submission_. 
 
 
 ### [Variance Reduction on Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
