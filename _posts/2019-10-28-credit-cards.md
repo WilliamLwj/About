@@ -23,7 +23,7 @@ This is a Chinese post for me to record the credit cards that I want to apply fo
   * 开卡奖励20K，点数配合CSP可以换航空里数，点数可增值1.6倍，同时可以配合CFU
   * 无年费，适合6个月信用之后申请，长期持有。
 
-4. [Chase Freedom Unlimited]((https://www.referyourchasecard.com/18a/ZLOEBXYFLX) <i class="fa fa-check-square"></i>
+4. [Chase Freedom Unlimited](https://www.referyourchasecard.com/18a/ZLOEBXYFLX) <i class="fa fa-check-square"></i>
   * 1.5% 无限额返点。
   * （新版）吃饭 3% 开卡第一年超市5%，增强后成为了必申卡之一
   * 开卡奖励20K，点数配合CSP可以换航空里数，点数可增值1.6倍，同时可以配合CF和CFF
