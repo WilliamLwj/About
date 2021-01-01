@@ -17,7 +17,9 @@ I am currently interested in online and stochastic optimization in both reinforc
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Oct, 2020]</b>. One paper accepted by NeurIPS2020 Workshop (<b>Oral</b>).</li>
+  <li> <b>[Dec, 2020]</b>. I gave a talk at the OPT2020 Workshop about our paper.</li>
+  
+  <li> <b>[Oct, 2020]</b>. One paper accepted by NeurIPS2020 Workshop (<b>Spotlight</b>).</li>
   
   <li> <b>[Aug, 2020]</b>. I have passed the qualifying exams!</li>
   
@@ -32,15 +34,8 @@ I am currently interested in online and stochastic optimization in both reinforc
   <li> <b>[Feb, 2019]</b>. I am awarded Heung To Education Fund Mathematics Scholarship and NTK Academic Group Scholarship. </li>
   
   <li> <b>[Sep, 2018]</b>. I start to work for <a href="https://www.math.cuhk.edu.hk/~lmlui/"> Prof. Ronald Lok Ming Lui</a> on Teichmuller mapping and its applications. </li>
-
-  <li> <b>[Sep, 2018]</b>. I start to work for <a href="https://www.math.cuhk.edu.hk/~rchan/"> Prof. Raymond H. Chan</a> on Poor-Rich Index (PRI). </li>
   
   <li> <b>[Aug, 2018]</b>. I am awarded the Student Development Scholarship for Mathematics Undergraduates. </li>
-  
-  <li> <b>[Jun, 2018]</b>. I start to work with <a href="https://www.seas.upenn.edu/directory/profile.php?ID=237">Prof. Paris Perdikaris</a> on the application of machine learning to dynamic systems. </li>
-  
-  <li> <b>[Jan, 2018]</b>. I start to be an exchange student at the <a href="https://home.www.upenn.edu/">University of Pennsylvania </a>. </li>
-</ul>
 
 
 
