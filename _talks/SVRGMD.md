@@ -1,5 +1,5 @@
 ---
-title: "Literature Review on the Variance Reduction Technique in Optimization"
+title: "Variance Reduction on Adaptive Stochastic Mirror Descent"
 collection: talks
 type: "Talk"
 permalink: /talks/SVRGMD
