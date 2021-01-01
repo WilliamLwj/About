@@ -6,7 +6,7 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-copy"></i> Talks
 
-### [Variance Reduction on Adaptive Stochastic Mirror Descent] (https://williamlwj.github.io/About//talks/SVRGMD)
+### [Variance Reduction on Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//talks/SVRGMD)
 NeurIPS2020, OPT2020, Online. _December 11, 2020_
 
 
