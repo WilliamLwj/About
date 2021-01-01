@@ -10,7 +10,7 @@ author_profile: true
 NeurIPS2020, OPT2020, Online. _December 11, 2020_
 
 
-### [Literature Review on the Variance Reduction Technique in Optimization](https://williamlwj.github.io/About//talks/var_reduction)
+### [Literature Review on the Variance Reduction Technique in Optimization](https://williamlwj.github.io/About//talks/vr_review)
 Purdue University, West Lafayette, Indiana. _June 26, 2020_
 
 
