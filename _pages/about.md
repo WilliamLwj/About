@@ -17,7 +17,7 @@ I am currently interested in online and stochastic optimization in both reinforc
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Dec, 2020]</b>. I gave a talk at the OPT2020 Workshop about our paper.</li>
+  <li> <b>[Dec, 2020]</b>. I give a talk at the OPT2020 Workshop about our paper.</li>
   
   <li> <b>[Oct, 2020]</b>. One paper accepted by NeurIPS2020 Workshop (<b>Spotlight</b>).</li>
   
