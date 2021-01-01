@@ -36,7 +36,7 @@ I am currently interested in online and stochastic optimization in both reinforc
   <li> <b>[Sep, 2018]</b>. I start to work for <a href="https://www.math.cuhk.edu.hk/~lmlui/"> Prof. Ronald Lok Ming Lui</a> on Teichmuller mapping and its applications. </li>
   
   <li> <b>[Aug, 2018]</b>. I am awarded the Student Development Scholarship for Mathematics Undergraduates. </li>
-
+</ul>
 
 
 
