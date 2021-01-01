@@ -9,5 +9,6 @@ location: "Online"
 ---
 
 [[website](https://neurips.cc/virtual/2020/protected/workshop_16149.html)] [[paper page](https://williamlwj.github.io/About//publications/SVRGMD)]
+
 Slides and a video are available on the workshop website, but need to send a request
 
