@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 # <i class="fa fa-fw fa-university "></i> Education #
 * Ph.D. of Statistics, Purdue University, 2019-now
-  * Admitted with teaching assistantship
-  * Advisor: [Prof. Guang Cheng](https://www.stat.purdue.edu/~chengg/)
+  * Advisor: [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Guang Cheng](https://www.stat.purdue.edu/~chengg/)
 
 * B.Sc. of Mathematics, Chinese University of Hong Kong, 2015-19
   * First Honor Graduate
