@@ -6,6 +6,8 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-paste"></i> Publications. [[Google Scholar](https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en)] #
 
+[* denotes equal contribution]
+
 ## Published
 
 ### [Variance Reduction on Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
@@ -35,4 +37,3 @@ _arXiv preprint_. 2020
 Sheng Zhou<sup>*</sup>, Xinjiang Wang<sup>*</sup>, Ping Luo, Litong Feng, **Wenjie Li**, Wei Zhang.
 _arXiv preprint_. 2019
 
-[* denotes equal contribution]
