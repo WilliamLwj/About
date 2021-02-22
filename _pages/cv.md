@@ -28,5 +28,7 @@ redirect_from:
   * Part-time Research Intern,  Mar-May, 2019
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
 
-## Please [send me an email](mailto:li3549@purdue.edu) for my up-to-date resume.  ##
+* [<i class="fa fa-fw fa-envelope fa-lg"></i>](mailto:li3549@purdue.edu) Email: li3549@purdue.edu
+
+* [<i class="fa fa-fw fa-map-marker fa-lg"></i>](https://www.google.com/maps/place/Felix+Haas+Hall/@40.4268063,-86.9185349,17z/data=!3m1!4b1!4m5!3m4!1s0x8812e2b3ea0869c9:0xe75c6b7828bf42f8!8m2!3d40.4268022!4d-86.9163462)273 Felix Haas Hall, Purdue University, West Lafayette, IN
 
