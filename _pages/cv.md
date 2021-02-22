@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# <i class="fa fa-fw fa-briefcase "></i> CV/Bio#
+# <i class="fa fa-fw fa-briefcase "></i> CV/Bio
 
 ## Education ##
 * Ph.D. of Statistics, Purdue University, 2019-now
