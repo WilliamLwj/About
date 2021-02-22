@@ -6,6 +6,11 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-paste"></i> Publications. [[Google Scholar](https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en)] #
 
+### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
+
+**Wenjie Li**, Adarsh Barik, Jean Honorio. 
+_Under Submission_. 
+
 
 ### [On the Marginal Regret Bound Minimization of Adaptive Methods](https://williamlwj.github.io/About//publications/AMX)
 
