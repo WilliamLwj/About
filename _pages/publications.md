@@ -16,12 +16,12 @@ _The 34th Neural Information Processing Systems (NeurIPS 2020) Workshop_. (**Ora
 
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
 **Wenjie Li**, Adarsh Barik, Jean Honorio. 
-_Under Submission_. 
+_Under Submission_. 2021
 
 
 ### [On the Marginal Regret Bound Minimization of Adaptive Methods](https://williamlwj.github.io/About//publications/AMX)
 **Wenjie Li**, Guang Cheng. 
-_Under Submission_. 
+_Under Submission_. 2021
 
 
 ### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
