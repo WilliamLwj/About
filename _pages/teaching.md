@@ -6,7 +6,7 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-edit"></i> Teaching #
 ## Purdue University
-[**STAT511 Statistical Methods**](https://www.stat.purdue.edu/academic_programs/graduate/grad_course_desc.php). Teaching Assistant. _20 Spr_
+[**STAT511 Statistical Methods**](https://www.stat.purdue.edu/academic_programs/graduate/grad_course_desc.php). Teaching Assistant. _20 Spr, 21 Sum_
 - Graded homeworks and midterms. Set up homeworks and solutions
 
 [**STAT/MA 416 Probability**](https://www.stat.purdue.edu/~jianxi/stat41600/index.html). Teaching Assistant. _19 Fall_
