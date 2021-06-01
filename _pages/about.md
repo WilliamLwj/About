@@ -10,7 +10,7 @@ redirect_from:
 # <i class="fa fa-cog fa-fw"></i> About me #
 I am a second year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), coadvised by [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Guang Cheng](https://www.stat.purdue.edu/~chengg/). Currently, I am interested in the online and stochastic optimization problems in both reinforcement learning and deep learning. I am also passionate about the cool applications of deep learning including computer vision and natural language processing.
 
-Before coming to Purdue, I graduated from the Mathematics department at [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/) for one semester in 2018.
+Before coming to Purdue, I graduated from the Mathematics department at [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double streams in Computational Applied Mathematics (CAM) and Enrichment Mathematics. I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/) for one semester in 2018.
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
