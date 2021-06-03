@@ -19,10 +19,6 @@ _The 34th Neural Information Processing Systems (NeurIPS 2020) Workshop_. (**Spo
 _Under Submission_. 2021
 
 
-### [On the Marginal Regret Bound Minimization of Adaptive Methods](https://williamlwj.github.io/About//publications/AMX)
-**Wenjie Li**, Guang Cheng. 
-_Work in Progress_. 2021
-
 
 ### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
 **Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. 
