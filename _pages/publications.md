@@ -6,7 +6,7 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-paste"></i> Publications. [[Google Scholar](https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en)] #
 
-## Published
+## Papers
 
 ### [Variance Reduction on Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
