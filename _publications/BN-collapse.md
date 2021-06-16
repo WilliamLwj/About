@@ -3,7 +3,7 @@ title: "How Does BN Increase Collapsed Neural Network Filters?"
 collection: publications
 permalink: /publications/BN-collapse
 excerpt: 
-date: 2019-08-02
+date: 2019-01-30
 venue: arXiv
 paperurl:
 citation: Sheng Zhou, Xinjiang Wang, Ping Luo, Litong Feng, <b>Wenjie Li</b>, Wei Zhang
