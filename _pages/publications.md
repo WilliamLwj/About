@@ -22,13 +22,13 @@ _Under Submission_. 2021
 
 ### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
 **Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. 
-arXiv preprint. 2019
+arXiv preprint. 2020
 
 
 
 ### [How Does BN Increase Collapsed Neural Network Filters](https://williamlwj.github.io/About//publications/BN-collapse)
 
 Sheng Zhou<sup>*</sup>, Xinjiang Wang<sup>*</sup>, Ping Luo, Litong Feng, **Wenjie Li**, Wei Zhang.
-arXiv preprint. 2019
+arXiv preprint. 2020
 
 [* denotes equal contribution]
