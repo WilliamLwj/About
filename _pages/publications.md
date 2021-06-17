@@ -15,7 +15,7 @@ _The 34th Neural Information Processing Systems (NeurIPS 2020) Workshop_. (**Spo
 ## Preprints
 
 
-### [Optimum-statistical collaboration towards efficient black-box optimization](https://williamlwj.github.io/About//publications/VHCT)
+### [Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chihua Wang<sup>*</sup>, Guang Cheng. 
 _Under Submission_. 2021
 
