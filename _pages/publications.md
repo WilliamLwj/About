@@ -14,6 +14,12 @@ _The 34th Neural Information Processing Systems (NeurIPS 2020) Workshop_. (**Spo
 
 ## Preprints
 
+
+### [Optimum-statistical collaboration towards efficient black-box optimization](https://williamlwj.github.io/About//publications/VHCT)
+**Wenjie Li**<sup>*</sup>, Chihua Wang<sup>*</sup>, Guang Cheng. 
+_Under Submission_. 2021
+
+
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
 **Wenjie Li**, Adarsh Barik, Jean Honorio. 
 _Under Submission_. 2021
