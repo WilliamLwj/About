@@ -6,7 +6,7 @@ excerpt:
 date: 2019-01-30
 venue: arXiv
 paperurl:
-citation: Sheng Zhou, Xinjiang Wang, Ping Luo, Litong Feng, <b>Wenjie Li</b>, Wei Zhang
+citation: Sheng Zhou<sup>*</sup>, Xinjiang Wang<sup>*</sup>, Ping Luo, Litong Feng, <b>Wenjie Li</b>, Wei Zhang
 ---
 [[arXiv](https://arxiv.org/abs/2001.11216)]
 
