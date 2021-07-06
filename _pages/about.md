@@ -12,7 +12,7 @@ I am a second year Ph.D. candidate in Statistics at [Purdue University](https://
 
 My research interest include:
 
-* High Dimensional Statistical Learning: Sparse Recovery, Low-rank Matrix Completion
+* High Dimensional Statistics: Sparse Recovery, Low-rank Matrix Completion
 * Optimization Theory: Online Optimization, Stochastic Optimization, Blackbox Optimization
 * Bandit Theory: LASSO Bandit and Matrix Bandit
 * Neural Networks: Theory and Applications
