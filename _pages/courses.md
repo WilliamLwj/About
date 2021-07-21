@@ -8,7 +8,7 @@ author_profile: true
 # <i class="fa fa-fw fa-clipboard"></i> Selected Courses #
 
 
-## STAT Ph.D. Qualifying Exam ##
+## STAT Ph.D. Qualifying Exam (Aug, 2020)##
 
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
    <TR  ALIGN="LEFT">
@@ -36,16 +36,49 @@ author_profile: true
       <TH scope="col">Score </TH>
    </TR>
    <TR ALIGN="LEFT">
-      <TD>STAT695</TD>
-      <TD>Data 2</TD>
+      <TD>STAT59800</TD>
+      <TD>Hands-On Learning Theory</TD>
+      <TD>A+</TD>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TD>STAT69500</TD>
+      <TD>Machine Learning for Dynamic Systems</TD>
+      <TD>A</TD>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TD>STAT52800</TD>
+      <TD>Mathematical Statistics</TD>
+      <TD>A</TD>
    </TR>
    <TR ALIGN="LEFT">
       <TD>STAT55300</TD>
       <TD>Linear Models</TD>
+      <TD>A</TD>
    </TR>
    <TR ALIGN="LEFT">
       <TD>STAT54500</TD>
-      <TD>Computational Statistics</TD>
+      <TD>Computational Statistics I</TD>
+      <TD>A</TD>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TD>STAT54600</TD>
+      <TD>Computational Statistics II</TD>
+      <TD>A</TD>
+   </TR>
+    <TR ALIGN="LEFT">
+      <TD>STAT54500</TD>
+      <TD>Computational Statistics I</TD>
+      <TD>A</TD>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TD>STAT52500</TD>
+      <TD>Intermediate Statistical Method</TD>
+      <TD>A</TD>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TD>CS 57700</TD>
+      <TD>Natural Language Processing</TD>
+      <TD>A</TD>
    </TR>
 </TABLE>
 
@@ -58,12 +91,3 @@ author_profile: true
 * [CSCI3160 Algorithm](https://williamlwj.github.io/About/files/undergrad_notes/notes_algorithm.pdf)
 
 * [STAT4001 Statistical Learning](https://williamlwj.github.io/About/files/undergrad_notes/notes_statistical_learning.pdf)
-
-## Graduate Study ##
-
-* [STAT553 Linear Models](https://williamlwj.github.io/About/files/graduate_notes/553_report.pdf)
-
-* [STAT545 Computational Statistics]()
-
-* [STAT598 Seminar I](https://williamlwj.github.io/About/files/graduate_notes/598_report.pdf)
-
