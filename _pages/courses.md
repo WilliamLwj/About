@@ -9,7 +9,7 @@ author_profile: true
 
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
    <TR>
-      <TH COLSPAN="5"><BR><H3>Qualifying Exam</H3>
+      <TH COLSPAN="5"><BR><H3>STAT Ph.D. Qualifying Exam</H3>
       </TH>
    </TR>
    <TR>
