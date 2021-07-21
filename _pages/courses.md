@@ -8,7 +8,7 @@ author_profile: true
 # <i class="fa fa-fw fa-clipboard"></i> Selected Courses #
 
 
-## STAT Ph.D. Qualifying Exam (Aug, 2020)##
+## STAT Ph.D. Qualifying Exam (Aug, 2020)
 
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
    <TR  ALIGN="LEFT">
