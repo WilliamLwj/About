@@ -115,8 +115,7 @@ author_profile: true
       <TD>Numerical Analysis</TD>
       <TD>A</TD>
    </TR>
-      </TR>
-      <TR ALIGN="LEFT">
+   <TR ALIGN="LEFT">
       <TD>MATH3230</TD>
       <TD>Computational and Applied Mathematics</TD>
       <TD>A</TD>
