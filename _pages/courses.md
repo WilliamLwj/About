@@ -65,11 +65,6 @@ author_profile: true
       <TD>Computational Statistics II</TD>
       <TD>A</TD>
    </TR>
-    <TR ALIGN="LEFT">
-      <TD>STAT54500</TD>
-      <TD>Computational Statistics I</TD>
-      <TD>A</TD>
-   </TR>
    <TR ALIGN="LEFT">
       <TD>STAT52500</TD>
       <TD>Intermediate Statistical Method</TD>
