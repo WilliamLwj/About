@@ -31,13 +31,13 @@ author_profile: true
 
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
    <TR>
-      <TH COLSPAN="2"><BR><H3>Graduate Courses</H3>
+      <TH COLSPAN="3"><BR><H3>Graduate Courses</H3>
       </TH>
    </TR>
    <TR>
-      <TH>Course Code</TH>
-      <TH>Course Title</TH>
-      <TH>Score </TH>
+      <TH scope="col">Course Code</TH>
+      <TH scope="col">Course Title</TH>
+      <TH scope="col">Score </TH>
    </TR>
    <TR ALIGN="LEFT">
       <TD>STAT695</TD>
