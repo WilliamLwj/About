@@ -8,10 +8,10 @@ author_profile: true
 # <i class="fa fa-fw fa-clipboard"></i> Courses #
 
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
-   <TR>
-      <TH COLSPAN="5"><BR><H3>STAT Ph.D. Qualifying Exam</H3>
+   <TR ALIGN="CENTER">
+      <TH COLSPAN="5"><BR><H2>STAT Ph.D. Qualifying Exam</H2>
       </TH>
-   </TR>
+   </TR ALIGN="LEFT">
    <TR>
       <TH scope="row"> Subject</TH>
       <TD>Theory</TD>
