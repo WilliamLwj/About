@@ -30,11 +30,11 @@ author_profile: true
 
 
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
-   <TR>
-      <TH COLSPAN="3"><BR><H3>Graduate Courses</H3>
+   <TR ALIGN="CENTER">
+      <TH COLSPAN="3"><BR><H2>Graduate Courses</H2>
       </TH>
    </TR>
-   <TR>
+   <TR ALIGN="LEFT">
       <TH scope="col">Course Code</TH>
       <TH scope="col">Course Title</TH>
       <TH scope="col">Score </TH>
