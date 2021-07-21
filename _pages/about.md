@@ -21,13 +21,16 @@ My research interest include:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  
+  <li> <b>[Jun, 2021]</b>. Two new preprints  <a href="https://williamlwj.github.io/About//publications/Bandit_framework">"A Simple Unified Framework for High Dimensional Bandit Problems"</a> <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards Efficient Black-box Optimization"</a> are available on arXiv.</li>
+  
   <li> <b>[Dec, 2020]</b>. I give a talk at the OPT2020 Workshop about our paper.</li>
   
-  <li> <b>[Oct, 2020]</b>. One paper accepted by NeurIPS2020 Workshop (<b>Spotlight</b>).</li>
+  <li> <b>[Oct, 2020]</b>. One paper titled  <a href="https://williamlwj.github.io/About//publications/SVRGMD">"Variance Reduction on Adaptive Mirror Descent"</a> is accepted by the NeurIPS2020 OPT Workshop with (<b>Spotlight</b>) presentation.</li>
   
   <li> <b>[Aug, 2020]</b>. I have passed the qualifying exams!</li>
   
-  <li> <b>[Aug, 2019]</b>. I am awarded Dean's list for my final undergraduate year</li>
+  <li> <b>[Aug, 2019]</b>. I am awarded the Dean's list for my final undergraduate year</li>
   
   <li> <b>[Aug, 2019]</b>. I start my new journey at <a href="https://www.purdue.edu/">Purdue. </a>Boiler up!</li>
   
