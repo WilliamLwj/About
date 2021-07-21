@@ -86,16 +86,26 @@ author_profile: true
       <TH scope="col">Score </TH>
    </TR>
    <TR ALIGN="LEFT">
+      <TD>MATH4400</TD>
+      <TD>Teichmuller Maps (Undergrad Research)</TD>
+      <TD>A</TD>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TD>MATH425 (UPenn)</TD>
+      <TD>Partial Differential Equations</TD>
+      <TD>A</TD>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TD>MATH465 (UPenn)</TD>
+      <TD>Differential Geometry</TD>
+      <TD>A</TD>
+   </TR>
+   <TR ALIGN="LEFT">
       <TD>MATH4050</TD>
       <TD>Real Analysis</TD>
       <TD>A-</TD>
    </TR>
    <TR ALIGN="LEFT">
-      <TD>MATH4400</TD>
-      <TD>Teichmuller Maps (Undergrad Research)</TD>
-      <TD>A</TD>
-   </TR>
-      <TR ALIGN="LEFT">
       <TD>MATH3360</TD>
       <TD>Mathematical Imaging</TD>
       <TD>A</TD>
@@ -111,9 +121,15 @@ author_profile: true
       <TD>Computational and Applied Mathematics</TD>
       <TD>A</TD>
    </TR>
+     <TR ALIGN="LEFT">
+      <TD>STAT430 (UPenn)</TD>
+      <TD>Probability</TD>
+      <TD>A+</TD>
+   </TR>
    <TR ALIGN="LEFT">
       <TD>CSCI3160</TD>
       <TD>Design and Analysis of Algorithms</TD>
       <TD>A-</TD>
    </TR>
+   
 </TABLE>
