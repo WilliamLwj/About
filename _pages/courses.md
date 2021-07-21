@@ -7,7 +7,29 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-clipboard"></i> Courses #
 
-<TABLE BORDER="5"    WIDTH="50%"   CELLPADDING="4" CELLSPACING="3">
+<TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
+   <TR>
+      <TH COLSPAN="2"><BR><H3>Qualifying Exam</H3>
+      </TH>
+   </TR>
+   <TR>
+      <TH scope="row"> Subject</TH>
+      <TH>Theory</TH>
+      <TH>Computation</TH>
+      <TH>Probability</TH>
+      <TH>Methods</TH>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TH scope="row"> Score</TH>
+      <TD>2.5/3</TD>
+      <TD>2.5/3</TD>
+      <TD>2.0/3</TD>
+      <TD>N.A.</TD>
+   </TR>
+</TABLE>
+
+
+<TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
    <TR>
       <TH COLSPAN="2"><BR><H3>Graduate Courses</H3>
       </TH>
@@ -18,7 +40,7 @@ author_profile: true
       <TH>Score </TH>
    </TR>
    <TR ALIGN="LEFT">
-      <TD>Data 1</TD>
+      <TD>STAT695</TD>
       <TD>Data 2</TD>
    </TR>
 </TABLE>
