@@ -11,8 +11,8 @@ author_profile: true
    <TR ALIGN="CENTER">
       <TH COLSPAN="5"><BR><H2>STAT Ph.D. Qualifying Exam</H2>
       </TH>
-   </TR ALIGN="LEFT">
-   <TR>
+   </TR>
+   <TR  ALIGN="LEFT">
       <TH scope="row"> Subject</TH>
       <TD>Theory</TD>
       <TD>Computation</TD>
