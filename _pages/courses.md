@@ -1,13 +1,27 @@
 ---
-permalink: /notes/
+permalink: /courses/
 title: ""
-excerpt: "Notes"
+excerpt: "Courses"
 author_profile: true
 
 ---
-# <i class="fa fa-fw fa-clipboard"></i> Notes #
+# <i class="fa fa-fw fa-clipboard"></i> Courses #
 
-I keep some of my self-written notes from my studies in this place.
+<TABLE BORDER="5"    WIDTH="50%"   CELLPADDING="4" CELLSPACING="3">
+   <TR>
+      <TH COLSPAN="2"><BR><H3>Graduate Courses</H3>
+      </TH>
+   </TR>
+   <TR>
+      <TH>Course Code</TH>
+      <TH>Course Title</TH>
+      <TH>Score </TH>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TD>Data 1</TD>
+      <TD>Data 2</TD>
+   </TR>
+</TABLE>
 
 ## Undergraduate Study ##
 
