@@ -28,7 +28,7 @@ author_profile: true
 </TABLE>
 
 
-## Graduate Courses ##
+## Graduate Study ##
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
    <TR ALIGN="LEFT">
       <TH scope="col">Course Code</TH>
