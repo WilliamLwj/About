@@ -7,17 +7,17 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-clipboard"></i> Courses #
 
-<TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="2">
+<TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
    <TR>
       <TH COLSPAN="5"><BR><H3>STAT Ph.D. Qualifying Exam</H3>
       </TH>
    </TR>
    <TR>
       <TH scope="row"> Subject</TH>
-      <TH>Theory</TH>
-      <TH>Computation</TH>
-      <TH>Probability</TH>
-      <TH>Methods</TH>
+      <TD>Theory</TD>
+      <TD>Computation</TD>
+      <TD>Probability</TD>
+      <TD>Methods</TD>
    </TR>
    <TR ALIGN="LEFT">
       <TH scope="row"> Score</TH>
