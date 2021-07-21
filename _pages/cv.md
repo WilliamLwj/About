@@ -15,8 +15,8 @@ redirect_from:
   * Advisor: [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Guang Cheng](https://www.stat.purdue.edu/~chengg/)
 
 * B.Sc. of Mathematics, Chinese University of Hong Kong, 2015-19
-  * First Honor Graduate
-  * Double stream in Computational and Enrichment Mathematics
+  * First honor graduate. Double stream in computational and enrichment Mathematics
+  * Admitted with full scholarship
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
 * Exchange Student, University of Pennsylvania, 2018
   
