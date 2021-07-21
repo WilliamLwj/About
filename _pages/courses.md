@@ -39,6 +39,14 @@ author_profile: true
       <TD>STAT695</TD>
       <TD>Data 2</TD>
    </TR>
+   <TR ALIGN="LEFT">
+      <TD>STAT55300</TD>
+      <TD>Linear Models</TD>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TD>STAT54500</TD>
+      <TD>Computational Statistics</TD>
+   </TR>
 </TABLE>
 
 ## Undergraduate Study ##
