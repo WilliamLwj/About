@@ -5,13 +5,12 @@ excerpt: "Courses"
 author_profile: true
 
 ---
-# <i class="fa fa-fw fa-clipboard"></i> Courses #
+# <i class="fa fa-fw fa-clipboard"></i> Selected Courses #
+
+
+## STAT Ph.D. Qualifying Exam ##
 
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
-   <TR ALIGN="CENTER">
-      <TH COLSPAN="5"><BR><H2>STAT Ph.D. Qualifying Exam</H2>
-      </TH>
-   </TR>
    <TR  ALIGN="LEFT">
       <TH scope="row"> Subject</TH>
       <TD>Theory</TD>
@@ -29,11 +28,8 @@ author_profile: true
 </TABLE>
 
 
+## Graduate Courses ##
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
-   <TR ALIGN="CENTER">
-      <TH COLSPAN="3"><BR><H2>Graduate Courses</H2>
-      </TH>
-   </TR>
    <TR ALIGN="LEFT">
       <TH scope="col">Course Code</TH>
       <TH scope="col">Course Title</TH>
