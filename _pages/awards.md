@@ -7,6 +7,8 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-trophy"></i> Awards & Honors
 
+* First Honor Graduate, CUHK; **(Top 10%)**
+
 * Dean's List 2018-2019; **(Top 10%)**
 
 * NTK Academic Group Scholarship
