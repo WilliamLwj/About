@@ -31,9 +31,9 @@ redirect_from:
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
 
 ## Service ##
-  * Conferences/Workshops
+  * Conferences/Workshops Reviewer
     * ICML2021, NeurIPS2021, OPT2021, ICLR2022
-  * Journals
+  * Journals Reviewer
     * IEEE/CAA Journal of Automatica Sinica
 
 ## Contact ##
