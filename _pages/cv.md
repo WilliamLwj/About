@@ -30,6 +30,12 @@ redirect_from:
   * Part-time Research Intern,  Mar-May, 2019
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
 
+## Service ##
+  * Conferences/Workshops
+    * ICML2021, NeurIPS2021, OPT2021, ICLR2022
+  * Journals
+    * IEEE/CAA Journal of Automatica Sinica
+
 ## Contact ##
 * [<i class="fa fa-fw fa-envelope fa-lg"></i>](mailto:li3549@purdue.edu) Email: li3549@purdue.edu
 
