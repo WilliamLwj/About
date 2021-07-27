@@ -36,11 +36,6 @@ author_profile: true
       <TH scope="col">Score </TH>
    </TR>
    <TR ALIGN="LEFT">
-      <TD>STAT59800</TD>
-      <TD>Hands-On Learning Theory</TD>
-      <TD>A+</TD>
-   </TR>
-   <TR ALIGN="LEFT">
       <TD>STAT69500</TD>
       <TD>Machine Learning for Dynamic Systems</TD>
       <TD>A</TD>
@@ -69,6 +64,11 @@ author_profile: true
       <TD>STAT52500</TD>
       <TD>Intermediate Statistical Method</TD>
       <TD>A</TD>
+   </TR>
+    <TR ALIGN="LEFT">
+      <TD>STAT59800/CS59200</TD>
+      <TD>Hands-On Learning Theory</TD>
+      <TD>A+</TD>
    </TR>
    <TR ALIGN="LEFT">
       <TD>CS 57700</TD>
