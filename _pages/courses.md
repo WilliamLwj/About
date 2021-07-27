@@ -77,7 +77,7 @@ author_profile: true
    </TR>
 </TABLE>
 
-## Undergraduate Study (Advanced Courses)##
+## Undergraduate Study (Advanced Courses)
 
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
    <TR ALIGN="LEFT">
