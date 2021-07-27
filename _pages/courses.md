@@ -77,6 +77,27 @@ author_profile: true
    </TR>
 </TABLE>
 
+
+## Home Study 
+
+<TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
+   <TR ALIGN="LEFT">
+      <TH scope="col">Source/Time</TH>
+      <TH scope="col">Course Title</TH>
+      <TH scope="col">Certificate </TH>
+   </TR>
+     <TR ALIGN="LEFT">
+      <TD>Coursera/2021</TD>
+      <TD>Operating Systems </TD>
+      <TD> cert </TD>
+   </TR>
+    <TR ALIGN="LEFT">
+      <TD>edX/2018</TD>
+      <TD>Robotics: Vision Intelligence and Machine Learning</TD>
+      <TD>N.A.</TD>
+   </TR>
+</TABLE>
+
 ## Undergraduate Study (Advanced Courses)
 
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
