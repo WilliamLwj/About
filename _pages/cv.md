@@ -20,7 +20,7 @@ redirect_from:
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
 * Exchange Student, University of Pennsylvania, 2018
   
-#### [Selected Courses](https://williamlwj.github.io/About/courses/)
+### [Selected Courses](https://williamlwj.github.io/About/courses/)
 
 ## Internship ##
 * Sensetime Research.
