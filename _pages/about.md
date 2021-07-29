@@ -22,7 +22,9 @@ My research interest include:
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Jun, 2021]</b>. Two new preprints  <a href="https://williamlwj.github.io/About//publications/Bandit_framework">"A Simple Unified Framework for High Dimensional Bandit Problems"</a>, <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards Efficient Black-box Optimization"</a> are available on arXiv.</li>
+  <li> <b>[Jun, 2021]</b>. One new preprint  <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards Efficient Black-box Optimization"</a> is available on arXiv.</li>
+  
+  <li> <b>[Feb, 2021]</b>. One new preprint  <a href="https://williamlwj.github.io/About//publications/Bandit_framework">"A Simple Unified Framework for High Dimensional Bandit Problems"</a> is available on arXiv.</li>
   
   <li> <b>[Dec, 2020]</b>. I give a talk at the OPT2020 Workshop about our paper.</li>
   
