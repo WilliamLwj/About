@@ -34,7 +34,7 @@ redirect_from:
   * Conferences/Workshops Reviewer
     * ICML2021, NeurIPS2021, OPT2021, ICLR2022
   * Journals Reviewer
-    * IEEE/CAA Journal of Automatica Sinica
+    * IEEE/CAA Journal of Automatica Sinica (JAS)
 
 ## Contact ##
 * [<i class="fa fa-fw fa-envelope fa-lg"></i>](mailto:li3549@purdue.edu) Email: li3549@purdue.edu
