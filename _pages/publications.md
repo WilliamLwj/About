@@ -14,25 +14,25 @@ _Under Further Submission_.
 
 
 ### [Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
-**Wenjie Li**<sup>*</sup>, Chihua Wang<sup>*</sup>, Guang Cheng. 
+**Wenjie Li**<sup>*</sup>, Chihua Wang<sup>*</sup>, Guang Cheng. \
 _Under Submission_. arXiv.
 
 
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
-**Wenjie Li**, Adarsh Barik, Jean Honorio. 
+**Wenjie Li**, Adarsh Barik, Jean Honorio. \
 _Under Submission_. arXiv.
 
 
 
 ### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
-**Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. 
+**Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. \
 arXiv. 
 
 
 
 ### [How Does BN Increase Collapsed Neural Network Filters](https://williamlwj.github.io/About//publications/BN-collapse)
 
-Sheng Zhou<sup>*</sup>, Xinjiang Wang<sup>*</sup>, Ping Luo, Litong Feng, **Wenjie Li**, Wei Zhang.
+Sheng Zhou<sup>*</sup>, Xinjiang Wang<sup>*</sup>, Ping Luo, Litong Feng, **Wenjie Li**, Wei Zhang. \
 arXiv. 
 
 [* denotes equal contribution]
