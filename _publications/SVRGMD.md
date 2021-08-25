@@ -1,10 +1,10 @@
 ---
-title: "Variance Reduction on Adaptive Stochastic Mirror Descent"
+title: "Variance Reduction on General Adaptive Stochastic Mirror Descent"
 collection: publications
 permalink: /publications/SVRGMD
 excerpt: 
 date: 2020-10-30
-venue: The 34th Conference on Neural Information Processing Systems (NeurIPS 2020) Workshop & OPT
+venue: The 34th Conference on Neural Information Processing Systems (NeurIPS 2020) & OPT 2020 Workshop 
 paperurl:
 citation: <b>Wenjie Li</b>, Zhanyu Wang, Yichen Zhang, Guang Cheng
 ---
