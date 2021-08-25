@@ -13,11 +13,12 @@ redirect_from:
 ## Education ##
 * Ph.D. of Statistics, Purdue University, 2019-now
   * Advisor: [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Guang Cheng](https://www.stat.purdue.edu/~chengg/)
-  * ### [Selected Courses](https://williamlwj.github.io/About/courses/)
+  * [Selected Courses](https://williamlwj.github.io/About/courses/)
 * B.Sc. of Mathematics, Chinese University of Hong Kong, 2015-19
   * First honor graduate. Double stream in computational and enrichment Mathematics
   * Admitted with full scholarship. 
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
+  * [Selected Courses](https://williamlwj.github.io/About/courses/)
 * Exchange Student, University of Pennsylvania, 2018
   
 
