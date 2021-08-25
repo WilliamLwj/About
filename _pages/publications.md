@@ -6,14 +6,11 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-paste"></i> Publications. [[Google Scholar](https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en)] #
 
-## Papers
 
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
 _Preliminary Version Accepted to **NeurIPS OPT 2020**_. (**Spotlight**)\
 _Under Further Submission_.
-
-## Preprints
 
 
 ### [Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
