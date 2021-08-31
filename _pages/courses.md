@@ -66,7 +66,7 @@ author_profile: true
       <TD>A</TD>
    </TR>
     <TR ALIGN="LEFT">
-      <TD>STAT59800/CS59200</TD>
+      <TD>CS59200/STAT59800</TD>
       <TD>Hands-On Learning Theory</TD>
       <TD>A+</TD>
    </TR>
@@ -74,6 +74,16 @@ author_profile: true
       <TD>CS 57700</TD>
       <TD>Natural Language Processing</TD>
       <TD>A</TD>
+   </TR>
+      <TR ALIGN="LEFT">
+      <TD>CS 54100</TD>
+      <TD>Database Systems</TD>
+      <TD></TD>
+   </TR>
+      <TR ALIGN="LEFT">
+      <TD>CS 69000</TD>
+      <TD>Statistical Machine Learning II</TD>
+      <TD> </TD>
    </TR>
 </TABLE>
 
