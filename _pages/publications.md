@@ -11,30 +11,30 @@ author_profile: true
 
 ### [Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chihua Wang<sup>*</sup>, Guang Cheng. \
-_Under Submission_. arXiv.
+Under Submission. _arXiv: 2106.09215_.
 
 
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
 **Wenjie Li**, Adarsh Barik, Jean Honorio. \
-_Under Submission_. arXiv.
+Under Submission. _arXiv: 2102.09626_. 
 
 
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-_Major Revision in **Machine Learing**_. 2021 \
-_Preliminary Version Accepted to **NeurIPS OPT 2020**_. (**Spotlight**)
+Major Revision in _Machine Learing_. 2021 \
+Preliminary Version Accepted to _NeurIPS OPT 2020_. (**Spotlight**)
 
 
 
 ### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
 **Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. \
-arXiv: 2004.09740. 
+_arXiv: 2004.09740_. 
 
 
 
 ### [How Does BN Increase Collapsed Neural Network Filters](https://williamlwj.github.io/About//publications/BN-collapse)
 
 Sheng Zhou<sup>*</sup>, Xinjiang Wang<sup>*</sup>, Ping Luo, Litong Feng, **Wenjie Li**, Wei Zhang. \
-arXiv: 2001.11216. 
+_arXiv: 2001.11216_. 
 
 [* denotes equal contribution]
