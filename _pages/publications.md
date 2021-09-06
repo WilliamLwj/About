@@ -10,7 +10,7 @@ author_profile: true
 
 
 ### [Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
-**Wenjie Li**<sup>*</sup>, Chihua Wang<sup>*</sup>, Guang Cheng. \
+**Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng. \
 Under Submission. _arXiv: 2106.09215_.
 
 
