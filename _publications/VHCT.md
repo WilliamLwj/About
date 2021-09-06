@@ -6,7 +6,7 @@ excerpt:
 date: 2020-05-10
 venue: arXiv
 paperurl:
-citation: <b>Wenjie Li</b><sup>*</sup>, Chihua Wang<sup>*</sup>, Guang Cheng.
+citation: <b>Wenjie Li</b><sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng.
 ---
 [[slides]()] [[arXiv]()]
 
