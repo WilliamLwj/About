@@ -22,7 +22,7 @@ Under Submission. _arXiv: 2102.09626_.
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
 Major Revision in _Machine Learning_. 2021 \
-Preliminary Version Accepted to _NeurIPS OPT 2020_. (**Spotlight**)
+Preliminary Version Accepted to _NeurIPS OPT 2020_. **(Spotlight)**
 
 
 
