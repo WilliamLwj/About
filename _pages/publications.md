@@ -31,10 +31,4 @@ Preliminary Version Accepted to _NeurIPS OPT 2020_. **(Spotlight)**
 _arXiv: 2004.09740_. 
 
 
-
-### [How Does BN Increase Collapsed Neural Network Filters](https://williamlwj.github.io/About//publications/BN-collapse)
-
-Sheng Zhou<sup>*</sup>, Xinjiang Wang<sup>*</sup>, Ping Luo, Litong Feng, **Wenjie Li**, Wei Zhang. \
-_arXiv: 2001.11216_. 
-
 [* denotes equal contribution]
