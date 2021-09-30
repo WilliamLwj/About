@@ -92,7 +92,7 @@ author_profile: true
 
 <TABLE BORDER="5"    WIDTH="100%"   CELLPADDING="4" CELLSPACING="3">
    <TR ALIGN="LEFT">
-      <TH scope="col">Source/Time</TH>
+      <TH scope="col">Source/Year</TH>
       <TH scope="col">Course Title</TH>
       <TH scope="col">Certificate </TH>
    </TR>
