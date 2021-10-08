@@ -1,5 +1,5 @@
 ---
-title: "Always Valid Online Low Rank Regression"
+title: "Always-Valid Risk Bounds for Low-Rank Online Matrix Completion"
 collection: publications
 permalink: /publications/always_valid
 excerpt: 
