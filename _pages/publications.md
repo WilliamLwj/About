@@ -10,7 +10,7 @@ author_profile: true
 [* denotes equal contribution]
 
 
-### [Always Valid Online Low Rank Regression](https://williamlwj.github.io/About//publications/always_valid)
+### [Always-Valid Risk Bounds for Low-Rank Online Matrix Completion](https://williamlwj.github.io/About//publications/always_valid)
 Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>, Guang Cheng. \
 Under Submission. 
 
