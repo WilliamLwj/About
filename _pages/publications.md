@@ -8,6 +8,10 @@ author_profile: true
 
 
 
+### [Always Valid Online Low Rank Regression](https://williamlwj.github.io/About//publications/always_valid)
+Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>, Guang Cheng. \
+Under Submission. 
+
 
 ### [Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng. \
