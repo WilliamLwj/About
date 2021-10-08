@@ -7,6 +7,8 @@ author_profile: true
 # <i class="fa fa-fw fa-paste"></i> Papers. [[Google Scholar](https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en)] #
 
 
+[* denotes equal contribution]
+
 
 ### [Always Valid Online Low Rank Regression](https://williamlwj.github.io/About//publications/always_valid)
 Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>, Guang Cheng. \
@@ -34,5 +36,3 @@ Preliminary Version Accepted to _NeurIPS OPT 2020_. **(Spotlight)**
 **Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. \
 _arXiv: 2004.09740_. 
 
-
-[* denotes equal contribution]
