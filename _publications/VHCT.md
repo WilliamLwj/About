@@ -1,5 +1,5 @@
 ---
-title: "Optimum-statistical Collaboration Towards Efficient Black-box Optimization"
+title: "Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization"
 collection: publications
 permalink: /publications/VHCT
 excerpt: 
