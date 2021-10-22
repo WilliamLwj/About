@@ -35,5 +35,5 @@ Preliminary Version Accepted to _NeurIPS OPT 2020_. **(Spotlight)**
 
 ### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
 **Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. \
-_arXiv: 2004.09740_. 
+arXiv preprint. _arXiv: 2004.09740_. 
 
