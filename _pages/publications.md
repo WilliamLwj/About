@@ -18,6 +18,7 @@ Under Submission.
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng. \
 Under Submission. _arXiv: 2106.09215_.
+Preliminary Version Accepted to _NeurIPS OPT 2021_.
 
 
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
