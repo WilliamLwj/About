@@ -19,7 +19,7 @@ author_profile: true
 - [**STAT113 Statistics and Society**](https://www.stat.purdue.edu/academic_programs/courses/schedule_info.php?crs=113&semester=Fall&year=2019). Teaching Assistant. _20 Summer_
 
 
-- [**STAT511 Statistical Methods**](https://www.stat.purdue.edu/academic_programs/graduate/grad_course_desc.php). Teaching Assistant. _20 Spring,
+- [**STAT511 Statistical Methods**](https://www.stat.purdue.edu/academic_programs/graduate/grad_course_desc.php). Teaching Assistant. _20 Spring_
 
 - [**STAT113 Statistics and Society**](https://www.stat.purdue.edu/academic_programs/courses/schedule_info.php?crs=113&semester=Fall&year=2019). Teaching Assistant. _20 Spring_
 
