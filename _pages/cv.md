@@ -17,8 +17,8 @@ redirect_from:
   * [Selected Courses](https://williamlwj.github.io/About/courses/)
 
 ### Chinese University of Hong Kong ###
-  * B.Sc. of Mathematics, 2015-19
-  * First honor graduate. Double stream in computational and enrichment Mathematics
+  * B.Sc. of Mathematics, 2015-19. First honor graduate.
+  * Double stream in computational and enrichment Mathematics
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
 
 ### University of Pennsylvania ###
