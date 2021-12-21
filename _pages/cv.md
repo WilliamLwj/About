@@ -13,7 +13,7 @@ redirect_from:
 ## Education ##
 ### Purdue University ###
   * Ph.D. Candidate of Statistics, 2019-now
-  * Advisor: [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/)
+  * Advisor: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
   * [Selected Courses](https://williamlwj.github.io/About/courses/)
 
 ### Chinese University of Hong Kong ###
