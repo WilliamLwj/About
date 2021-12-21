@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-fw"></i> About me #
-I am a third year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), coadvised by [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Guang Cheng](https://www.stat.purdue.edu/~chengg/). Previously, I obtained my B.Sc. in Mathematics at [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/). I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/).
+I am a third year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), coadvised by [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/). Previously, I obtained my B.Sc. in Mathematics at [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/). I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/).
 
 My research interests include:
 
