@@ -78,12 +78,12 @@ author_profile: true
       <TR ALIGN="LEFT">
       <TD>CS 54100</TD>
       <TD>Database Systems</TD>
-      <TD></TD>
+      <TD>A+</TD>
    </TR>
       <TR ALIGN="LEFT">
       <TD>CS 69000</TD>
       <TD>Statistical Machine Learning II</TD>
-      <TD> </TD>
+      <TD>A</TD>
    </TR>
 </TABLE>
 
