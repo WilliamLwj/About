@@ -16,7 +16,7 @@ Under Submission.
 
 
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
-**Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng. \
+**Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Qifan Song, Guang Cheng. \
 Under Submission. _arXiv: 2106.09215_. \
 Preliminary Version Accepted to _NeurIPS OPT 2021_.
 
