@@ -13,6 +13,7 @@ redirect_from:
 ## Education ##
 ### Purdue University ###
   * Ph.D. Candidate of Statistics, 2019-now
+  * M.S. of Statistics and Computer Science, 2020-2022 (expected)
   * Advisor: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
   * [Selected Courses](https://williamlwj.github.io/About/courses/)
 
