@@ -7,6 +7,7 @@ author_profile: true
 # <i class="fa fa-fw fa-edit"></i> Teaching #
 ## Purdue University
 
+- [**STAT113 Statistics and Society**](https://www.stat.purdue.edu/academic_programs/courses/schedule_info.php?crs=113&semester=Fall&year=2019). Teaching Assistant. _22 Spring_
 
 - [**STAT113 Statistics and Society**](https://www.stat.purdue.edu/academic_programs/courses/schedule_info.php?crs=113&semester=Fall&year=2019). Teaching Assistant. _21 Fall_
 
