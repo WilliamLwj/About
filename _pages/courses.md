@@ -89,7 +89,7 @@ author_profile: true
       <TR ALIGN="LEFT">
       <TD>CS 58000</TD>
       <TD>Algorithms</TD>
-      <TD>A</TD>
+      <TD> </TD>
    </TR>
 </TABLE>
 
@@ -102,7 +102,12 @@ author_profile: true
       <TH scope="col">Course Title</TH>
       <TH scope="col">Certificate </TH>
    </TR>
-     <TR ALIGN="LEFT">
+   <TR ALIGN="LEFT">
+      <TD>UMD CMSC 858G/2022</TD>
+      <TD>Bandits Experts and Games</TD>
+      <TD> N.A.</TD>
+   </TR>
+    <TR ALIGN="LEFT">
       <TD>Coursera/2021</TD>
       <TD>Operating Systems </TD>
       <TD>  <a href="https://williamlwj.github.io/About/files/Operating System.pdf">cert</a> </TD>
