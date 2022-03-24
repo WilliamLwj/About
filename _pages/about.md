@@ -20,7 +20,7 @@ My research interests include:
 * High Dimensional Statistics
 * Deep Learning Theory and Practice
 
-I am actively building and maintaining an open-source library for *X*-armed bandit algorithms and benchmarks. Check out [this repository](https://github.com/WilliamLwj/PyXAB)
+I am actively building and maintaining an open-source library for *X*-armed bandit algorithms and benchmarks. Check out [this repository](https://github.com/WilliamLwj/PyXAB).
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
@@ -43,7 +43,7 @@ I am actively building and maintaining an open-source library for *X*-armed band
   
   <li> <b>[May, 2019]</b>. I graduate from  <a href="http://www.cuhk.edu.hk/english/index.html">Chinese University of Hong Kong</a> with first honor and will be a Ph.D. student of Statistics in August. </li>
   
- </ul>
+</ul>
 
 
 
