@@ -27,7 +27,7 @@ I am actively building and maintaining an open-source library for *X*-armed band
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Mar, 2022]</b>. I have passed the preliminary exam! Many thanks to my advisors Prof. Qifan Song and Prof. Jean Honorio and my committee members. </li>
+  <li> <b>[Mar, 2022]</b>. I have passed the preliminary exam! Many thanks to my advisors and my committee members. </li>
 
   <li> <b>[Oct, 2021]</b>. One paper titled  <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards Efficient Black-box Optimization"</a> is accepted by the NeurIPS2021 OPT Workshop.</li>
   
