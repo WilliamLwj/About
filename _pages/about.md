@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-fw"></i> About me #
-I am a third-year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), coadvised by [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/). Previously, I worked with [Prof. Guang Cheng](http://www.stat.ucla.edu/~guangcheng/). I obtained my B.Sc. in Mathematics at [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/). I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/).
+I am a third-year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), coadvised by [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/). 
+Previously, I worked with [Prof. Guang Cheng](http://www.stat.ucla.edu/~guangcheng/). 
+I obtained my B.Sc. in Mathematics at [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. 
+My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/). I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/).
 
 My research interests include:
 
@@ -17,10 +20,14 @@ My research interests include:
 * Optimization Theory
 * Neural Networks
 
+I am actively building and maintaining an open-source library for *X*-armed bandit algorithms and benchmarks. Check out [this repository](https://github.com/WilliamLwj/PyXAB)
+
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b>[Oct, 2021]</b>. One paper titled  <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards Efficient Black-box Optimization"</a> is accepted by the NeurIPS2021 OPT Workshop.</li>
   
   <li> <b>[Jun, 2021]</b>. One new preprint  <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards Efficient Black-box Optimization"</a> is available on arXiv.</li>
   
