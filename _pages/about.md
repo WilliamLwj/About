@@ -15,10 +15,10 @@ My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk
 
 My research interests include:
 
-* High Dimensional Statistics
 * Bandit Theory
-* Optimization Theory
-* Neural Networks
+* Optimization Algorithms
+* High Dimensional Statistics
+* Deep Learning Theory and Practice
 
 I am actively building and maintaining an open-source library for *X*-armed bandit algorithms and benchmarks. Check out [this repository](https://github.com/WilliamLwj/PyXAB)
 
@@ -27,13 +27,9 @@ I am actively building and maintaining an open-source library for *X*-armed band
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[Mar, 2022]</b>. I have passed the preliminary exam! Many thanks to my advisors Prof. Qifan Song and Prof. Jean Honorio and my committee members. </li>
+
   <li> <b>[Oct, 2021]</b>. One paper titled  <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards Efficient Black-box Optimization"</a> is accepted by the NeurIPS2021 OPT Workshop.</li>
-  
-  <li> <b>[Jun, 2021]</b>. One new preprint  <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards Efficient Black-box Optimization"</a> is available on arXiv.</li>
-  
-  <li> <b>[Feb, 2021]</b>. One new preprint  <a href="https://williamlwj.github.io/About//publications/Bandit_framework">"A Simple Unified Framework for High Dimensional Bandit Problems"</a> is available on arXiv.</li>
-  
-  <li> <b>[Dec, 2020]</b>. I give a talk at the OPT2020 Workshop about our paper.</li>
   
   <li> <b>[Oct, 2020]</b>. One paper titled  <a href="https://williamlwj.github.io/About//publications/SVRGMD">"Variance Reduction on Adaptive Mirror Descent"</a> is accepted by the NeurIPS2020 OPT Workshop with <b>Spotlight</b> presentation.</li>
   
@@ -47,12 +43,7 @@ I am actively building and maintaining an open-source library for *X*-armed band
   
   <li> <b>[May, 2019]</b>. I graduate from  <a href="http://www.cuhk.edu.hk/english/index.html">Chinese University of Hong Kong</a> with first honor and will be a Ph.D. student of Statistics in August. </li>
   
-  <li> <b>[Feb, 2019]</b>. I am awarded Heung To Education Fund Mathematics Scholarship and NTK Academic Group Scholarship. </li>
-  
-  <li> <b>[Sep, 2018]</b>. I start to work for <a href="https://www.math.cuhk.edu.hk/~lmlui/"> Prof. Ronald Lok Ming Lui</a> on Teichmuller mapping and its applications. </li>
-  
-  <li> <b>[Aug, 2018]</b>. I am awarded the Student Development Scholarship for Mathematics Undergraduates. </li>
-</ul>
+ </ul>
 
 
 
