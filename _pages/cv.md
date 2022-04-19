@@ -14,18 +14,18 @@ redirect_from:
 
 <table border="0">
  <tr>
-    <td> <img src="https://williamlwj.github.io/About/images/purdue.jpg" alt="Purdue" width="100"/></td>
+    <td> <img src="https://williamlwj.github.io/About/images/purdue.jpg" alt="Purdue" width="300"/></td>
     <td> <b style="font-size:20px"> Purdue University </b>
-        <ul>
+        <ul  style="font-size:15px">
             <li> Ph.D. Candidate of Statistics, 2019-now</li>
             <li>M.S. of Statistics and Computer Science, 2020-2022 (expected)</li>
             <li>Advisor: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)</li>
         </ul>
- </tr>
- <tr>
-    <td><img src="https://williamlwj.github.io/About/images/CUHK.jpg" alt="CUHK" width="100"/></td>
+</tr> 
+<tr>
+    <td><img src="https://williamlwj.github.io/About/images/CUHK.jpg" alt="CUHK" width="300"/></td>
     <td> <b style="font-size:20px"> Chinese University of Hong Kong </b>
-        <ul>
+        <ul  style="font-size:15px">
             <li> B.Sc. of Mathematics, 2015-19. First honor graduate. </li>
             <li>Double stream in computational and enrichment Mathematics </li>
             <li>Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/) </li>
@@ -36,7 +36,7 @@ redirect_from:
 
 
 
-
+<!---
 
 ### Purdue University ### 
 
@@ -65,16 +65,16 @@ redirect_from:
   * Part-time Research Intern,  Mar-May, 2019
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
   
-<!---
+
 ## Service ##
   * Conferences/Workshops Reviewer
   * ICML2021, NeurIPS2021, OPT2021, ICLR2022
   * Journals Reviewer
     * IEEE/CAA Journal of Automatica Sinica (JAS)
--->
+
 
 ## Contact ##
 * [<i class="fa fa-fw fa-envelope fa-lg"></i>](mailto:li3549@purdue.edu) Email: li3549@purdue.edu
 
 * [<i class="fa fa-fw fa-map-marker fa-lg"></i>](https://www.google.com/maps/place/Mathematical+Sciences+Bldg,+West+Lafayette,+IN+47907/@40.4262305,-86.9179395,17z/data=!3m1!4b1!4m5!3m4!1s0x8812e2b3dc1c0b79:0x51c0931a8ca2704!8m2!3d40.4262305!4d-86.9157508)G130 Mathematical Science Building, Purdue University, West Lafayette, IN
-
+-->

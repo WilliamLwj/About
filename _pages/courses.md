@@ -85,8 +85,7 @@ author_profile: true
       <TD>Statistical Machine Learning II</TD>
       <TD>A</TD>
    </TR>
-    </TR>
-      <TR ALIGN="LEFT">
+   <TR ALIGN="LEFT">
       <TD>CS 58000</TD>
       <TD>Algorithms</TD>
       <TD> </TD>
