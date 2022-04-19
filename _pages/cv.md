@@ -14,7 +14,7 @@ redirect_from:
 
 <table border="0">
  <tr>
-    <td> <img src="https://williamlwj.github.io/About/images/Purdue.jpg" alt="Purdue" width="100"/></td>
+    <td> <img src="https://williamlwj.github.io/About/images/purdue.jpg" alt="Purdue" width="100"/></td>
     <td> <b style="font-size:20px"> Purdue University </b>
         <ul>
             <li> Ph.D. Candidate of Statistics, 2019-now</li>
@@ -32,6 +32,11 @@ redirect_from:
         </ul>
  </tr>
 </table>
+
+
+
+
+
 
 ### Purdue University ### 
 
