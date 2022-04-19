@@ -54,8 +54,8 @@ redirect_from:
 [//]: # (</table>)
 
 
-
-<img src="https://williamlwj.github.io/About/images/purdue.jpg" alt="Purdue" width="100"/> <img src="https://williamlwj.github.io/About/images/CUHK.jpg" alt="CUHK" width="100"/><img src="https://williamlwj.github.io/About/images/upenn.png" alt="Upenn" width="100"/><img src="https://williamlwj.github.io/About/images/sensetime.jpg" alt="Sensetime" width="100"/>
+[//]: # ()
+[//]: # (<img src="https://williamlwj.github.io/About/images/purdue.jpg" alt="Purdue" width="100"/> <img src="https://williamlwj.github.io/About/images/CUHK.jpg" alt="CUHK" width="100"/><img src="https://williamlwj.github.io/About/images/upenn.png" alt="Upenn" width="100"/><img src="https://williamlwj.github.io/About/images/sensetime.jpg" alt="Sensetime" width="100"/>)
 
 ## Education ##
 ### Purdue University ### 
