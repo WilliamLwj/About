@@ -10,34 +10,56 @@ redirect_from:
 {% include base_path %}
 # <i class="fa fa-fw fa-briefcase "></i> CV/Bio
 
+[//]: # ( <b style="font-size:24px"> Education </b>)
+
+[//]: # ()
+[//]: # (<table border="0">)
+
+[//]: # ( <tr>)
+
+[//]: # (    <td> <img src="https://williamlwj.github.io/About/images/purdue.jpg" alt="Purdue" width="300"/></td>)
+
+[//]: # (    <td> <b style="font-size:20px"> Purdue University </b>)
+
+[//]: # (        <ul  style="font-size:15px">)
+
+[//]: # (            <li> Ph.D. Candidate of Statistics, 2019-now</li>)
+
+[//]: # (            <li>M.S. of Statistics and Computer Science, 2020-2022 &#40;expected&#41;</li>)
+
+[//]: # (            <li>Advisor: [Prof. Qifan Song]&#40;https://www.stat.purdue.edu/~qfsong/&#41; and [Prof. Jean Honorio]&#40;https://www.cs.purdue.edu/homes/jhonorio/&#41;</li>)
+
+[//]: # (        </ul>)
+
+[//]: # (</tr> )
+
+[//]: # (<tr>)
+
+[//]: # (    <td><img src="https://williamlwj.github.io/About/images/CUHK.jpg" alt="CUHK" width="300"/></td>)
+
+[//]: # (    <td> <b style="font-size:20px"> Chinese University of Hong Kong </b>)
+
+[//]: # (        <ul  style="font-size:15px">)
+
+[//]: # (            <li> B.Sc. of Mathematics, 2015-19. First honor graduate. </li>)
+
+[//]: # (            <li>Double stream in computational and enrichment Mathematics </li>)
+
+[//]: # (            <li>Advisor: [Prof. Ronald Lok Ming Lui]&#40;https://www.math.cuhk.edu.hk/~lmlui/&#41; </li>)
+
+[//]: # (        </ul>)
+
+[//]: # ( </tr>)
+
+[//]: # (</table>)
+
+
+
+<img src="https://williamlwj.github.io/About/images/purdue.jpg" alt="Purdue" width="300"/> <img src="https://williamlwj.github.io/About/images/CUHK.jpg" alt="CUHK" width="300"/>
+<img src="https://williamlwj.github.io/About/images/upenn.png" alt="Upenn" width="300"/>
+<img src="https://williamlwj.github.io/About/images/sensetime.jpg" alt="Sensetime" width="300"/>
+
 ## Education ##
-
-<table border="0">
- <tr>
-    <td> <img src="https://williamlwj.github.io/About/images/purdue.jpg" alt="Purdue" width="300"/></td>
-    <td> <b style="font-size:20px"> Purdue University </b>
-        <ul  style="font-size:15px">
-            <li> Ph.D. Candidate of Statistics, 2019-now</li>
-            <li>M.S. of Statistics and Computer Science, 2020-2022 (expected)</li>
-            <li>Advisor: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)</li>
-        </ul>
-</tr> 
-<tr>
-    <td><img src="https://williamlwj.github.io/About/images/CUHK.jpg" alt="CUHK" width="300"/></td>
-    <td> <b style="font-size:20px"> Chinese University of Hong Kong </b>
-        <ul  style="font-size:15px">
-            <li> B.Sc. of Mathematics, 2015-19. First honor graduate. </li>
-            <li>Double stream in computational and enrichment Mathematics </li>
-            <li>Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/) </li>
-        </ul>
- </tr>
-</table>
-
-
-
-
-<!---
-
 ### Purdue University ### 
 
   * Ph.D. Candidate of Statistics, 2019-now
@@ -65,7 +87,7 @@ redirect_from:
   * Part-time Research Intern,  Mar-May, 2019
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
   
-
+<!---
 ## Service ##
   * Conferences/Workshops Reviewer
   * ICML2021, NeurIPS2021, OPT2021, ICLR2022
