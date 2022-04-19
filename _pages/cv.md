@@ -11,7 +11,30 @@ redirect_from:
 # <i class="fa fa-fw fa-briefcase "></i> CV/Bio
 
 ## Education ##
-### Purdue University ###
+
+<table border="0">
+ <tr>
+    <td> <img src="https://williamlwj.github.io/About/images/Purdue.jpg" alt="Purdue" width="100"/></td>
+    <td> <b style="font-size:20px"> Purdue University </b>
+        <ul>
+            <li> Ph.D. Candidate of Statistics, 2019-now</li>
+            <li>M.S. of Statistics and Computer Science, 2020-2022 (expected)</li>
+            <li>Advisor: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)</li>
+        </ul>
+ </tr>
+ <tr>
+    <td><img src="https://williamlwj.github.io/About/images/CUHK.jpg" alt="CUHK" width="100"/></td>
+    <td> <b style="font-size:20px"> Chinese University of Hong Kong </b>
+        <ul>
+            <li> B.Sc. of Mathematics, 2015-19. First honor graduate. </li>
+            <li>Double stream in computational and enrichment Mathematics </li>
+            <li>Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/) </li>
+        </ul>
+ </tr>
+</table>
+
+### Purdue University ### 
+
   * Ph.D. Candidate of Statistics, 2019-now
   * M.S. of Statistics and Computer Science, 2020-2022 (expected)
   * Advisor: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
