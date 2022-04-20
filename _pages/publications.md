@@ -9,21 +9,29 @@ author_profile: true
 
 [* denotes equal contribution]
 
+### [On the Sharp Analysis of Online Blackbox Optimization]()
+**Wenjie Li**, Jean Honorio, Qifan Song\
+Under Review. 
+
+
+### [Federated Online Sparse Decision Making]()
+Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>, Guang Cheng, Guang Lin. \
+Under Review. 
 
 ### [Always-Valid Risk Bounds for Low-Rank Online Matrix Completion](https://williamlwj.github.io/About//publications/always_valid)
 Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>, Guang Cheng. \
-Under Submission. 
+Under Review. 
 
 
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Qifan Song, Guang Cheng. \
-Under Submission. _arXiv: 2106.09215_. \
+Under Review. _arXiv: 2106.09215_. \
 Preliminary Version Accepted to _NeurIPS OPT 2021_.
 
 
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
 **Wenjie Li**, Adarsh Barik, Jean Honorio. \
-Under Submission. _arXiv: 2102.09626_. 
+Under Review. _arXiv: 2102.09626_. 
 
 
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)

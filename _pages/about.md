@@ -11,12 +11,12 @@ redirect_from:
 I am a third-year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), coadvised by [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/). 
 Previously, I worked with [Prof. Guang Cheng](http://www.stat.ucla.edu/~guangcheng/). 
 I obtained my B.Sc. in Mathematics at [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. 
-My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/). I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/).
+My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/). I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/). I was an intern at [Sensetime Research](https://www.sensetime.com/en).
 
 My research interests include:
 
-* Bandit Theory
-* Optimization Algorithms
+* Optimization Theory
+* Bandit Algorithms
 * High Dimensional Statistics
 * Deep Learning Theory and Practice
 
