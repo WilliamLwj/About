@@ -58,30 +58,30 @@ redirect_from:
 [//]: # (<img src="https://williamlwj.github.io/About/images/purdue.jpg" alt="Purdue" width="100"/> <img src="https://williamlwj.github.io/About/images/CUHK.jpg" alt="CUHK" width="100"/><img src="https://williamlwj.github.io/About/images/upenn.png" alt="Upenn" width="100"/><img src="https://williamlwj.github.io/About/images/sensetime.jpg" alt="Sensetime" width="100"/>)
 
 ## Education ##
-### Purdue University ### 
+* ### Purdue University ### 
 
   * Ph.D. Candidate of Statistics, 2019-now
   * M.S. of Statistics and Computer Science, 2020-2022 (expected)
   * Advisor: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
   * [Selected Courses](https://williamlwj.github.io/About/courses/)
 
-### Chinese University of Hong Kong ###
+* ### Chinese University of Hong Kong ###
   * B.Sc. of Mathematics, 2015-19. First honor graduate.
   * Double stream in computational and enrichment Mathematics
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
 
-### University of Pennsylvania ###
+* ### University of Pennsylvania ###
   * Exchange Student, 2018 
   
 
 
 ## Internship ##
 
-### Sensetime Research. ###
+* ### Sensetime Research. ###
   * Research Intern. May-Sep, 2019
   * Supervisor: [Dr. Xinjiang Wang](https://scholar.google.com/citations?hl=en&user=q4lnWaoAAAAJ&view_op=list_works). Advisor: [Prof. Ping Luo](https://luoping.me)
 
-### Mathematical Imaging Group, CUHK. ###
+* ### Mathematical Imaging Group, CUHK. ###
   * Part-time Research Intern,  Mar-May, 2019
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
   
