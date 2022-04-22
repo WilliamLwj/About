@@ -6,7 +6,7 @@ excerpt:
 date: 2021-12-13
 venue:  The 35th Conference on Neural Information Processing Systems (NeurIPS 2021) OPT 2021 Workshop
 paperurl:
-citation: <b>Wenjie Li</b><sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Qifan Song,  Guang Cheng.
+citation: <b>Wenjie Li</b><sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Qifan Song,  Guang Cheng.  Neural Information Processing Systems (NeurIPS 2021) OPT 2021 Workshop
 ---
 [[Github](https://github.com/WilliamLwj/PyXAB)] [[arXiv](https://arxiv.org/abs/2106.09215)]  [[poster](https://williamlwj.github.io/About/files/posters/VHCT_poster.pdf)]
 [[OPT2021 Workshop Paper](https://opt-ml.org/papers/2021/paper8.pdf)]

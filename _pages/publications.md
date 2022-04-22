@@ -15,7 +15,7 @@ Under Review.
 
 
 ### [Federated Online Sparse Decision Making]()
-Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>, Guang Cheng, Guang Lin. \
+Chi-Hua Wang, **Wenjie Li**, Guang Cheng, Guang Lin. \
 Under Review. 
 
 ### [Always-Valid Risk Bounds for Low-Rank Online Matrix Completion](https://williamlwj.github.io/About//publications/always_valid)
@@ -25,8 +25,7 @@ Under Review.
 
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Qifan Song, Guang Cheng. \
-Under Review. _arXiv: 2106.09215_. \
-Preliminary Version Accepted to _NeurIPS OPT 2021_.
+Accepted to _Neural Information Processing Systems (NeurIPS) OPT Workshop 2021_.
 
 
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
@@ -43,5 +42,5 @@ Preliminary Version Accepted to _NeurIPS OPT 2020_. **(Spotlight)**
 
 ### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
 **Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. \
-arXiv preprint. _arXiv: 2004.09740_. 
+Technical Report. _arXiv: 2004.09740_. 
 
