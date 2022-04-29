@@ -85,9 +85,10 @@ redirect_from:
 <!---
 ## Service ##
   * Conferences/Workshops Reviewer
-  * ICML2021, NeurIPS2021, OPT2021, ICLR2022
+  * ICML2021, NeurIPS2021, OPT2021, ICLR2022, AISTATS2022, ICML2022, NeurIPS2022
   * Journals Reviewer
     * IEEE/CAA Journal of Automatica Sinica (JAS)
+    * Transactions on Machine Learning Research
 
 
 ## Contact ##
