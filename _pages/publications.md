@@ -30,7 +30,7 @@ Under Review.
 
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
 **Wenjie Li**, Adarsh Barik, Jean Honorio. \
-_Proceedings of the 39th International Conference on Machine Learning **(ICML 2022)**_.
+_Proceedings of the 39th International Conference on Machine Learning, 2022 **(ICML)**_.
 
 
 
@@ -42,7 +42,7 @@ Preliminary Version Accepted to _NeurIPS OPT 2021_.
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
 Major Revision in _Machine Learning Journal **(MLJ)**_. 2021 \
-Preliminary Version Accepted to _NeurIPS OPT 2020_. <span style="color:blue"> (Spotlight)</span>.
+Preliminary Version Accepted to _NeurIPS OPT 2020_. <span style="color:blue"> <b> (Spotlight) </b> </span>.
 
 
 
