@@ -17,6 +17,7 @@ My research interests include:
 
 * Optimization Theory
 * Bandit Algorithms
+* Federated Learning
 * High Dimensional Statistics
 * Deep Learning Theory and Practice
 
