@@ -88,7 +88,7 @@ author_profile: true
    <TR ALIGN="LEFT">
       <TD>CS 58000</TD>
       <TD>Algorithms</TD>
-      <TD> </TD>
+      <TD> A </TD>
    </TR>
 </TABLE>
 

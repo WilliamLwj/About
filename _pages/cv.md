@@ -82,15 +82,15 @@ redirect_from:
   * Research Intern. May-Sep, 2019
   * Supervisor: [Dr. Xinjiang Wang](https://scholar.google.com/citations?hl=en&user=q4lnWaoAAAAJ&view_op=list_works). Advisor: [Prof. Ping Luo](https://luoping.me)
 
-<!---
+
 ## Service ##
   * Conferences/Workshops Reviewer
-  * ICML2021, NeurIPS2021, OPT2021, ICLR2022, AISTATS2022, ICML2022, NeurIPS2022
+    * ICML2021, NeurIPS2021, OPT2021, ICLR2022, AISTATS2022, ICML2022, NeurIPS2022
   * Journals Reviewer
     * IEEE/CAA Journal of Automatica Sinica (JAS)
     * Transactions on Machine Learning Research
 
-
+<!---
 ## Contact ##
 * [<i class="fa fa-fw fa-envelope fa-lg"></i>](mailto:li3549@purdue.edu) Email: li3549@purdue.edu
 
