@@ -3,10 +3,10 @@ title: "A Simple Unified Framework for High Dimensional Bandit Problems"
 collection: publications
 permalink: /publications/Bandit_framework
 excerpt: 
-date: 2021-02-21
+date: 2022-05-14
 venue: ICML 2022
 paperurl:
-citation: <b>Wenjie Li</b>, Adarsh Barik, Jean Honorio. A Simple Unified Framework for High Dimensional Bandit Problems. Proceedings of the 39th International Conference on Machine Learning. 
+citation: Wenjie Li, Adarsh Barik, Jean Honorio. A Simple Unified Framework for High Dimensional Bandit Problems. Proceedings of the 39th International Conference on Machine Learning. 
 ---
 [[arXiv](https://arxiv.org/abs/2102.09626)]
 

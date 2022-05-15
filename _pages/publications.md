@@ -9,9 +9,14 @@ author_profile: true
 
 [* denotes equal contribution]
 
+### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-LASSO)
+**Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
+Under Review.
+
+
 ### [On the Sharp Analysis of Online Blackbox Optimization]()
 **Wenjie Li**, Jean Honorio, Qifan Song\
-Under Review. 
+Under Revision. 
 
 
 ### [Federated Online Sparse Decision Making](https://williamlwj.github.io/About//publications/Fed-LASSO)
@@ -23,20 +28,21 @@ Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>, Guang Cheng. \
 Under Review. 
 
 
-### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
-**Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Qifan Song, Guang Cheng. \
-_Neural Information Processing Systems (NeurIPS) OPT Workshop 2021_.
-
-
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
 **Wenjie Li**, Adarsh Barik, Jean Honorio. \
-_Proceedings of the 39th International Conference on Machine Learning (ICML 2022)_.
+_Proceedings of the 39th International Conference on Machine Learning **(ICML 2022)**_.
+
+
+
+### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
+**Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Qifan Song, Guang Cheng. \
+Preliminary Version Accepted to _NeurIPS OPT 2021_.
 
 
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-Major Revision in _Machine Learning Journal (MLJ)_. 2021 \
-Preliminary Version Accepted to _NeurIPS OPT 2020_. **(Spotlight)**
+Major Revision in _Machine Learning Journal **(MLJ)**_. 2021 \
+Preliminary Version Accepted to _NeurIPS OPT 2020_. <span style="color:blue"> (Spotlight)</span>.
 
 
 
