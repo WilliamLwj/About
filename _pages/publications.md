@@ -30,7 +30,7 @@ _Neural Information Processing Systems (NeurIPS) OPT Workshop 2021_.
 
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
 **Wenjie Li**, Adarsh Barik, Jean Honorio. \
-Under Review. _arXiv: 2102.09626_. 
+_Proceedings of the 39th International Conference on Machine Learning (ICML 2022)_.
 
 
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)

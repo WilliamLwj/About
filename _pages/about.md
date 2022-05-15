@@ -27,13 +27,15 @@ I am actively building and maintaining an open-source library for *X*-armed band
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+   <li> <b>[May, 2022]</b>. One paper titled  <a href="https://williamlwj.github.io/About//publications/Bandit_framework">"A Simple Unified Framework for High Dimensional Bandit Problems"</a> is accepted by ICML2022!</li>
+
   <li> <b>[Apr, 2022]</b>. I will be an Applied Scientist Intern at Amazon this summer! </li>
 
   <li> <b>[Mar, 2022]</b>. I have passed the preliminary exam! Many thanks to my advisors and my committee members. </li>
 
-  <li> <b>[Oct, 2021]</b>. One paper titled  <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards Efficient Black-box Optimization"</a> is accepted by the NeurIPS2021 OPT Workshop.</li>
+  <li> <b>[Oct, 2021]</b>. One paper titled  <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards Efficient Black-box Optimization"</a> is accepted by the NeurIPS2021 OPT Workshop!</li>
   
-  <li> <b>[Oct, 2020]</b>. One paper titled  <a href="https://williamlwj.github.io/About//publications/SVRGMD">"Variance Reduction on Adaptive Mirror Descent"</a> is accepted by the NeurIPS2020 OPT Workshop with <b>Spotlight</b> presentation.</li>
+  <li> <b>[Oct, 2020]</b>. One paper titled  <a href="https://williamlwj.github.io/About//publications/SVRGMD">"Variance Reduction on Adaptive Mirror Descent"</a> is accepted by the NeurIPS2020 OPT Workshop with <b>Spotlight</b> presentation!</li>
   
   <li> <b>[Aug, 2020]</b>. I have passed the qualifying exams!</li>
   
