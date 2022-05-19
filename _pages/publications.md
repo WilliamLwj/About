@@ -20,7 +20,7 @@ Under Revision.
 
 
 ### [Federated Online Sparse Decision Making](https://williamlwj.github.io/About//publications/Fed-LASSO)
-Chi-Hua Wang, **Wenjie Li**, Guang Cheng, Guang Lin. \
+Chi-Hua Wang, **Wenjie Li**, Guang Lin. \
 Under Review. _arXiv: 2202.13448_.
 
 ### [Always-Valid Risk Bounds for Low-Rank Online Matrix Completion](https://williamlwj.github.io/About//publications/always_valid)
@@ -35,7 +35,7 @@ _Proceedings of the 39th International Conference on Machine Learning, 2022 **(I
 
 
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
-**Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Qifan Song, Guang Cheng. \
+**Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng, Qifan Song,. \
 Preliminary Version Accepted to _NeurIPS OPT 2021_.
 Under Review.
 
