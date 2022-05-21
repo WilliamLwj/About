@@ -21,7 +21,7 @@ My research interests include:
 * High Dimensional Statistics
 * Deep Learning Theory and Practice
 
-I am actively building and maintaining an open-source library for *X*-armed bandit algorithms and benchmarks. Check out [this repository](https://github.com/WilliamLwj/PyXAB).
+I am actively building and maintaining an open-source Python library for *X*-armed bandit algorithms and benchmarks. Check out [this repository](https://github.com/WilliamLwj/PyXAB).
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##

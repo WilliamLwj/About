@@ -6,7 +6,7 @@ excerpt:
 date: 2020-10-30
 venue: The 34th Conference on Neural Information Processing Systems (NeurIPS 2020) Optimization for Machine Learning (OPT) Workshop 
 paperurl:
-citation: <b>Wenjie Li</b>, Zhanyu Wang, Yichen Zhang, Guang Cheng. Variance Reduction on General Adaptive Stochastic Mirror Descent. The 35th Conference on Neural Information Processing Systems (NeurIPS 2021) Optimization for Machine Learning (OPT) Workshop
+citation: <b>Wenjie Li</b>, Zhanyu Wang, Yichen Zhang, Guang Cheng. Variance Reduction on General Adaptive Stochastic Mirror Descent. The 34th Conference on Neural Information Processing Systems (NeurIPS 2020) Optimization for Machine Learning (OPT) Workshop
 ---
 [[slides](https://williamlwj.github.io/About/files/slides/SVRGMD_paper_slides.pdf)] [[arXiv](https://arxiv.org/abs/2012.13760)] [[OPT poster](https://williamlwj.github.io/About/files/posters/SVRGMD_poster.pdf)] [[OPT paper](https://opt-ml.org/papers/2020/paper_19.pdf)] 
 
