@@ -77,7 +77,7 @@ redirect_from:
 
 * **Amazon A9.com**
   * Applied Scientist Intern,  May-Aug, 2022
-  * Advisors: Dr. Yuqing Xing and Dr. Caitlin Gray. 
+  * Advisors: Dr. Yuqing Xing and [Dr. Caitlin Gray](https://www.linkedin.com/in/caitlin-gray-0707/). 
   
 * **Sensetime Research**
   * Research Intern. May-Sep, 2019

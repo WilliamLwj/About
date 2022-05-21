@@ -24,7 +24,7 @@ Chi-Hua Wang, **Wenjie Li**, Guang Lin. \
 Under Review. _arXiv: 2202.13448_.
 
 ### [Always-Valid Risk Bounds for Low-Rank Online Matrix Completion](https://williamlwj.github.io/About//publications/always_valid)
-Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>, Guang Cheng. \
+Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>. \
 Under Revision. 
 
 
