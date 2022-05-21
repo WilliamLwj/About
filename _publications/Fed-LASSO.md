@@ -6,7 +6,7 @@ excerpt:
 date: 2022-01-30
 venue: arXiv
 paperurl:
-citation: Chi-Hua Wang, <b>Wenjie Li</b>, Guang Cheng, Guang Lin
+citation: Chi-Hua Wang, <b>Wenjie Li</b>, Guang Lin
 ---
  [[arXiv](https://arxiv.org/abs/2202.13448)]
 
