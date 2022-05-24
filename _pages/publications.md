@@ -9,7 +9,7 @@ author_profile: true
 
 [* denotes equal contribution]
 
-### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-LASSO)
+### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)
 **Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
 Under Review.
 
@@ -42,7 +42,7 @@ Under Review.
 
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-Major Revision in _Machine Learning Journal **(MLJ)**_. 2021 \
+Minor Revision in _Machine Learning Journal **(MLJ)**_. 2021 \
 Preliminary Version Accepted to _NeurIPS OPT 2020_. <span style="color:blue"> <b> (Spotlight) </b> </span>.
 
 
