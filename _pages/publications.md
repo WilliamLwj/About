@@ -7,7 +7,7 @@ author_profile: true
 # <i class="fa fa-fw fa-paste"></i> Papers. [[Google Scholar](https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en)] #
 
 
-[* denotes equal contribution]
+[* denotes equal contribution or alphabetical order]
 
 ### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)
 **Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
