@@ -9,9 +9,13 @@ author_profile: true
 
 [* denotes equal contribution or alphabetical order]
 
+
+## Conferences/Journals/Preprints
+
 ### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)
 **Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
-Under Review.
+Under Review. _arXiv:2205.15268_.
+
 
 
 ### [On the Sharp Analysis of Online Blackbox Optimization]()
@@ -36,14 +40,13 @@ _Proceedings of the 39th International Conference on Machine Learning, 2022 **(I
 
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng, Qifan Song. \
-Preliminary Version Accepted to _NeurIPS OPT 2021_.
-Under Review.
-
+Under Review. \
+Preliminary version accepted at NeurIPS OPT Workshop 2021.
 
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-Minor Revision in _Machine Learning Journal **(MLJ)**_. 2021 \
-Preliminary Version Accepted to _NeurIPS OPT 2020_. <span style="color:blue"> <b> (Spotlight) </b> </span>.
+Minor Revision in _Machine Learning Journal **(MLJ)**_. 2022 \
+Preliminary version accepted at NeurIPS OPT Workshop 2020.
 
 
 
@@ -51,3 +54,17 @@ Preliminary Version Accepted to _NeurIPS OPT 2020_. <span style="color:blue"> <b
 **Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. \
 Technical Report. _arXiv: 2004.09740_. 
 
+
+
+
+
+## Workshops
+
+### [Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
+**Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng. \
+_NeurIPS Optimization for Machine Learning (OPT) Workshop 2021_.
+
+
+### [Variance Reduction on Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
+**Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
+_NeurIPS Optimization for Machine Learning (OPT) Workshop 2020_. <span style="color:blue"> <b> (Spotlight) </b> </span>.

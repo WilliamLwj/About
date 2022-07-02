@@ -79,10 +79,12 @@ redirect_from:
   * Applied Scientist Intern,  May-Aug, 2022
   * Advisors: Dr. Yuqing Xing and [Dr. Caitlin Gray](https://www.linkedin.com/in/caitlin-gray-0707/). 
   
+<!--- * Research Topic: Prediction Intervals in Time Series Forecasting-->
+  
 * **Sensetime Research**
   * Research Intern. May-Sep, 2019
   * Supervisor: [Dr. Xinjiang Wang](https://scholar.google.com/citations?hl=en&user=q4lnWaoAAAAJ&view_op=list_works). Advisor: [Prof. Ping Luo](https://luoping.me)
-
+  * Research Topic: Normalization and Optimization in Deep Learning
 
 ## Service ##
   * **Conferences/Workshops Reviewer**
