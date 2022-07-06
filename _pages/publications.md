@@ -34,19 +34,19 @@ Under Revision.
 
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
 **Wenjie Li**, Adarsh Barik, Jean Honorio. \
-_Proceedings of the 39th International Conference on Machine Learning, 2022 **(ICML)**_.
+**ICML'20**. _Proceedings of the 39th International Conference on Machine Learning, 2022_.
 
 
 
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng, Qifan Song. \
 Under Review. \
-Preliminary version accepted at NeurIPS OPT Workshop 2021.
+Preliminary version accepted at NeurIPS OPT 2021.
 
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-Minor Revision in _Machine Learning Journal **(MLJ)**_. 2022 \
-Preliminary version accepted at NeurIPS OPT Workshop 2020.
+**MLJ'22**. Minor Revision in _Machine Learning Journal_. 2022 \
+Preliminary version accepted at NeurIPS OPT 2020.
 
 
 
@@ -62,9 +62,9 @@ Technical Report. _arXiv: 2004.09740_.
 
 ### [Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng. \
-_NeurIPS Optimization for Machine Learning (OPT) Workshop 2021_.
+**NeurIPS OPT'21**. _NeurIPS Optimization for Machine Learning Workshop 2021_.
 
 
 ### [Variance Reduction on Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-_NeurIPS Optimization for Machine Learning (OPT) Workshop 2020_. <span style="color:blue"> <b> (Spotlight) </b> </span>.
+**NeurIPS OPT'20**. _NeurIPS Optimization for Machine Learning Workshop 2020_. <span style="color:blue"> <b> (Spotlight) </b> </span>.
