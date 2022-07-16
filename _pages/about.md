@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-fw"></i> About me #
-I am a third-year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), where I am fortunate to be coadvised by [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/). 
+I am a fourth-year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), where I am fortunate to be coadvised by [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/). 
 I have obtained an MS degree in Computer Science and Statistics during my Ph.D. study. 
 I received my B.Sc. in Mathematics from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. 
-My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/). I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/). I was an intern at [Sensetime Research](https://www.sensetime.com/en).
+My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/). I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/). I was an intern at [Amazon Ads](https://advertising.amazon.com/) and [Sensetime Research](https://www.sensetime.com/en).
 
 My research interests include:
 
@@ -27,6 +27,9 @@ I am actively building and maintaining an open-source Python library for *X*-arm
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b>[Jul, 2022]</b>. <a href="https://williamlwj.github.io/About//publications/SVRGMD">"Variance Reduction on General Adaptive Mirror Descent"</a> is accepted by the Machine Learning Journal (MLJ)!</li>
+ 
 
   <li> <b>[May, 2022]</b>.  <a href="https://williamlwj.github.io/About//publications/Bandit_framework">"A Simple Unified Framework for High Dimensional Bandit Problems"</a> is accepted by ICML2022!</li>
 
