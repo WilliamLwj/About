@@ -32,16 +32,15 @@ Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>. \
 Under Revision. 
 
 
-### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
-**Wenjie Li**, Adarsh Barik, Jean Honorio. \
-**[ICML'22]**. _Proceedings of the 39th International Conference on Machine Learning, 2022_.
-
-
-
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng, Qifan Song. \
 Under Review. 
 
+
+
+### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
+**Wenjie Li**, Adarsh Barik, Jean Honorio. \
+**[ICML'22]**. _Proceedings of the 39th International Conference on Machine Learning, 2022_.
 
 
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
