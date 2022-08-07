@@ -59,9 +59,9 @@ redirect_from:
 
 ## Education ##
 * **Purdue University**
-  * Ph.D. Candidate of Statistics, 2019-now
-  * M.S. of Statistics and Computer Science, 2020-2022 (expected)
-  * Advisor: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
+  * Ph.D. Candidate of Statistics, 2019-2023(expected)
+  * M.S. of Statistics and Computer Science, 2022
+  * Advisors: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
   * [Selected Courses](https://williamlwj.github.io/About/courses/)
   
 * **Chinese University of Hong Kong**
@@ -88,7 +88,7 @@ redirect_from:
 
 ## Service ##
   * **Conferences/Workshops Reviewer**
-    * ICML2021, NeurIPS2021, OPT2021, ICLR2022, AISTATS2022, ICML2022, NeurIPS2022
+    * ICML2021, NeurIPS2021, OPT2021, ICLR2022, AISTATS2022, ICML2022, NeurIPS2022, ICLR2023
   * **Journals Reviewer**
     * IEEE/CAA Journal of Automatica Sinica (JAS)
     * Transactions on Machine Learning Research (TMLR)

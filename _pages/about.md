@@ -28,8 +28,7 @@ I am actively building and maintaining an open-source Python library for *X*-arm
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Jul, 2022]</b>. <a href="https://williamlwj.github.io/About//publications/SVRGMD">"Variance Reduction on General Adaptive Mirror Descent"</a> is accepted by the Machine Learning Journal (MLJ)!</li>
- 
+  <li> <b>[Jul, 2022]</b>. <a href="https://williamlwj.github.io/About//publications/SVRGMD">"Variance Reduction on General Adaptive Mirror Descent"</a> is accepted by the Machine Learning Journal!</li>
 
   <li> <b>[May, 2022]</b>.  <a href="https://williamlwj.github.io/About//publications/Bandit_framework">"A Simple Unified Framework for High Dimensional Bandit Problems"</a> is accepted by ICML2022!</li>
 
@@ -42,14 +41,6 @@ I am actively building and maintaining an open-source Python library for *X*-arm
   <li> <b>[Oct, 2020]</b>. <a href="https://williamlwj.github.io/About//publications/SVRGMD">"Variance Reduction on Adaptive Mirror Descent"</a> is accepted by the NeurIPS2020 OPT Workshop with <b>Spotlight</b> presentation!</li>
   
   <li> <b>[Aug, 2020]</b>. I have passed the qualifying exams!</li>
-  
-  <li> <b>[Aug, 2019]</b>. I am awarded the Dean's list for my final undergraduate year</li>
-  
-  <li> <b>[Aug, 2019]</b>. I start my new journey at <a href="https://www.purdue.edu/">Purdue. </a>Boiler up!</li>
-  
-  <li> <b>[May, 2019]</b>. I start to work at <a href="https://www.sensetime.com/en/">Sensetime Research</a>. My advisor is <a href="https://luoping.me"> Prof. Ping Luo </a> </li>
-  
-  <li> <b>[May, 2019]</b>. I graduate from  <a href="http://www.cuhk.edu.hk/english/index.html">Chinese University of Hong Kong</a> with first honor and will be a Ph.D. student of Statistics in August. </li>
   
 </ul>
 
