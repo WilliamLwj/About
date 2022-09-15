@@ -61,9 +61,9 @@ Technical Report. _arXiv: 2004.09740_.
 
 ### [Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng. \
-**[OPT'21]**. _NeurIPS Optimization for Machine Learning Workshop 2021_.
+**[NeurIPS-OPT'21]**. _NeurIPS Optimization for Machine Learning Workshop 2021_.
 
 
 ### [Variance Reduction on Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-**[OPT'20]**. _NeurIPS Optimization for Machine Learning Workshop 2020_. <span style="color:blue"> <b> (Spotlight) </b> </span>
+**[NeurIPS-OPT'20]**. _NeurIPS Optimization for Machine Learning Workshop 2020_. <span style="color:blue"> <b> (Spotlight) </b> </span>
