@@ -45,7 +45,7 @@ Under Review.
 
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-**[MLJ'22]**. _Machine Learning Journal_. 2022 
+**[MLJ'22]**. _Machine Learning_. 2022 
 
 
 
