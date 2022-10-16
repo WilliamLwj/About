@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/SVRGMD
 excerpt: 
 date: 2022-08-22
-venue: Machine Learning Journal (Previously at OPT 2020)
+venue: Machine Learning (Previously at OPT 2020)
 paperurl: https://doi.org/10.1007/s10994-022-06227-3
 citation: <b>Wenjie Li</b>, Zhanyu Wang, Yichen Zhang, Guang Cheng. Variance Reduction on General Adaptive Stochastic Mirror Descent. Variance reduction on general adaptive stochastic mirror descent. Machine Learning (2022).
 ---
