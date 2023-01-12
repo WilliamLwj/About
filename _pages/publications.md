@@ -14,7 +14,7 @@ author_profile: true
 
 ### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)
 **Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
-Under Review. _arXiv:2205.15268_.
+In Submission to AISTATS. _arXiv:2205.15268_.
 
 
 
@@ -25,16 +25,16 @@ Under Revision.
 
 ### [Federated Online Sparse Decision Making](https://williamlwj.github.io/About//publications/Fed-LASSO)
 Chi-Hua Wang, **Wenjie Li**, Guang Lin. \
-Under Review. _arXiv: 2202.13448_.
+In Submission to TMLR. _arXiv: 2202.13448_.
 
 ### [Always-Valid Risk Bounds for Low-Rank Online Matrix Completion](https://williamlwj.github.io/About//publications/always_valid)
 Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>. \
-Under Revision. 
+In Submission to JMLR. _arXiv: 2211.10363_.
 
 
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng, Qifan Song. \
-Under Review. 
+In Submission to TMLR. _arXiv: 2106.09215_.
 
 
 

@@ -21,7 +21,11 @@ My research interests include:
 * High Dimensional Statistics
 * Deep Learning Theory and Practice
 
+{::comment}
 I am actively building and maintaining an open-source Python library for *X*-armed bandit algorithms and benchmarks. Check out [this repository](https://github.com/WilliamLwj/PyXAB).
+{:/comment}
+
+### Research collaborations from both industry and academia are highly welcomed. If you are a Purdue faculty/student and enjoys research in optimization/bandit/federated learning, feel free to reach out to me.
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##

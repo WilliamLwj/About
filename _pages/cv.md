@@ -87,11 +87,11 @@ redirect_from:
 
 ## Service ##
   * **Conferences/Workshops Reviewer**
-    * ICML2021, NeurIPS2021, OPT2021, ICLR2022, AISTATS2022, ICML2022, NeurIPS2022, OPT 2022, ICLR2023
+    * ICML2021, NeurIPS2021, OPT2021, ICLR2022, AISTATS2022, ICML2022, NeurIPS2022, OPT 2022, ICLR2023, ICML2023
   * **Journals Reviewer**
     * IEEE/CAA Journal of Automatica Sinica (JAS)
     * Transactions on Machine Learning Research (TMLR)
-    * Neural Netowrks (NN)
+    * Neural Networks (NN)
 
 
 
