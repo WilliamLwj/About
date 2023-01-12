@@ -25,8 +25,10 @@ My research interests include:
 I am actively building and maintaining an open-source Python library for *X*-armed bandit algorithms and benchmarks. Check out [this repository](https://github.com/WilliamLwj/PyXAB).
 {:/comment}
 
+---
 _Research collaborations from both industry and academia are highly welcomed. If you are interested in research in optimization/bandit/federated learning-realted topics, feel free to [reach out to me](mailto: li3549@purdue.edu)._
 
+---
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
