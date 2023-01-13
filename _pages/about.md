@@ -26,7 +26,7 @@ I am actively building and maintaining an open-source Python library for *X*-arm
 {:/comment}
 
 ---
-_Research collaborations from both industry and academia are highly welcomed. If you are interested in optimization/bandit/federated learning-realted topics, feel free to [reach out to me](mailto: li3549@purdue.edu)._
+_Research collaborations from both industry and academia are highly welcomed. If you are interested in optimization/bandit/federated learning-related topics, feel free to [reach out to me](mailto: li3549@purdue.edu)._
 
 ---
 
