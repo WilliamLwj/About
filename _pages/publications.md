@@ -4,17 +4,23 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# <i class="fa fa-fw fa-paste"></i> Papers. [[Google Scholar](https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en)] #
+# <i class="fa fa-fw fa-paste"></i> Papers. [Google Scholar](https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en) #
 
 
-[* denotes equal contribution or alphabetical order]
+#### * denotes equal contribution or alphabetical order
 
 
 ## Conferences/Journals/Preprints
 
+### [PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms]()
+**Wenjie Li**, Qifan Song, Jean Honorio \
+In Preparation, [_codebase_](https://github.com/WilliamLwj/PyXAB)
+
+
+
 ### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)
 **Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
-In Submission to AISTATS. _arXiv:2205.15268_.
+In Submission to ICML. _arXiv:2205.15268_.
 
 
 

@@ -21,9 +21,9 @@ My research interests include:
 * High Dimensional Statistics
 * Deep Learning Theory and Practice
 
-{::comment}
+
 I am actively building and maintaining an open-source Python library for *X*-armed bandit algorithms and benchmarks. Check out [this repository](https://github.com/WilliamLwj/PyXAB).
-{:/comment}
+
 
 ---
 _Research collaborations from both industry and academia are highly welcomed. If you are interested in optimization/bandit/federated learning-related topics, feel free to [reach out to me](mailto: li3549@purdue.edu)._
@@ -33,6 +33,8 @@ _Research collaborations from both industry and academia are highly welcomed. If
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Jan, 2023]</b>. Our team has recently launched the PyXAB project. <a href="https://github.com/WilliamLwj/PyXAB">Take a look! </a>.
+ </li>
 
   <li> <b>[Jul, 2022]</b>. <a href="https://williamlwj.github.io/About//publications/SVRGMD">"Variance Reduction on General Adaptive Mirror Descent"</a> is accepted by the Machine Learning Journal!</li>
 

@@ -92,6 +92,7 @@ redirect_from:
     * IEEE/CAA Journal of Automatica Sinica (JAS)
     * Transactions on Machine Learning Research (TMLR)
     * Neural Networks (NN)
+    * IEEE Transactions on Neural Network Research (TNNLS)
 
 
 
