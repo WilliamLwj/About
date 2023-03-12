@@ -4,17 +4,17 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# <i class="fa fa-fw fa-paste"></i> Papers. [Google Scholar](https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en) #
+# <i class="fa fa-fw fa-paste"></i> Papers. [[Google Scholar](https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en)] #
 
 
-#### * denotes equal contribution or alphabetical order
+### * denotes equal contribution or alphabetical order
 
 
 ## Conferences/Journals/Preprints
 
-### [PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms]()
-**Wenjie Li**, Qifan Song, Jean Honorio \
-In Preparation, [_codebase_](https://github.com/WilliamLwj/PyXAB)
+### [PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms](https://williamlwj.github.io/About//publications/PyXAB)
+**Wenjie Li**<sup>*</sup>, Haoze Li<sup>*</sup>, Qifan Song, Jean Honorio \
+In Preparation, [_codebase_](https://github.com/WilliamLwj/PyXAB) _arXiv:2303.04030_
 
 
 
