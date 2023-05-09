@@ -76,7 +76,7 @@ redirect_from:
 ## Industry ##
 
 * **Meta Research**
-  * Research Scientist Intern,  May-Aug, 2022
+  * Research Scientist Intern,  May-Aug, 2023
   
 
 * **Amazon Ads**
