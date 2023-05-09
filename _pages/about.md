@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-fw"></i> About me #
-I am a fourth-year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), where I am fortunate to be coadvised by [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/). 
-I have obtained an MS degree in Computer Science and Statistics during my Ph.D. study. 
-I received my B.Sc. in Mathematics from [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), with double stream in Computational Applied Mathematics (CAM) and Enrichment Mathematics. 
-My academic advisor was [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/). I was also an exchange student at [University of Pennsylvania](https://home.www.upenn.edu/). I was an intern at [Amazon Ads](https://advertising.amazon.com/) and [Sensetime Research](https://www.sensetime.com/en).
+I am a final-year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), where I am fortunate to be coadvised by [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/). 
+I received an M.S. in Computer Science and Statistics during my Ph.D. study. 
+I received an B.Sc. in Mathematics at the [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).
+I have interned at several industrial companies including [Meta Research](https://research.facebook.com), [Amazon Ads](https://advertising.amazon.com/), and [Sensetime Research](https://www.sensetime.com/en).
 
 My research interests include:
 
@@ -33,8 +33,9 @@ _Research collaborations from both industry and academia are highly welcomed. If
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Jan, 2023]</b>. Our team has recently launched the PyXAB project. <a href="https://github.com/WilliamLwj/PyXAB">Take a look! </a>.
- </li>
+  <li> <b>[May, 2023]</b>. I will be an Research Scientist Intern at Meta this summer! </li>
+
+  <li> <b>[Jan, 2023]</b>. Our team has recently launched the PyXAB project. <a href="https://github.com/WilliamLwj/PyXAB">Take a look! </a>. </li>
 
   <li> <b>[Jul, 2022]</b>. <a href="https://williamlwj.github.io/About//publications/SVRGMD">"Variance Reduction on General Adaptive Mirror Descent"</a> is accepted by the Machine Learning Journal!</li>
 

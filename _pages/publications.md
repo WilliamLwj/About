@@ -12,15 +12,21 @@ author_profile: true
 
 ## Conferences/Journals/Preprints
 
+### [Personalized Federated X-Armed Bandit]()
+**Wenjie Li**, Jean Honorio, Qifan Song. \
+In Submission to NeurIPS. 
+
+
+
 ### [PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms](https://williamlwj.github.io/About//publications/PyXAB)
-**Wenjie Li**<sup>*</sup>, Haoze Li<sup>*</sup>, Qifan Song, Jean Honorio \
-In Preparation, [_codebase_](https://github.com/WilliamLwj/PyXAB) _arXiv:2303.04030_
+**Wenjie Li**<sup>*</sup>, Haoze Li<sup>*</sup>, Jean Honorio, Qifan Song\
+In Submission to JMLR. [_codebase_](https://github.com/WilliamLwj/PyXAB) _arXiv:2303.04030_
 
 
 
 ### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)
 **Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
-In Submission to ICML. _arXiv:2205.15268_.
+In Submission to NeurIPS. _arXiv:2205.15268_.
 
 
 
@@ -67,9 +73,9 @@ Technical Report. _arXiv: 2004.09740_.
 
 ### [Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng. \
-**[NeurIPS-OPT'21]**. _NeurIPS Optimization for Machine Learning Workshop 2021_.
+**[OPT@NeurIPS'21]**. _NeurIPS Optimization for Machine Learning Workshop 2021_.
 
 
 ### [Variance Reduction on Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-**[NeurIPS-OPT'20]**. _NeurIPS Optimization for Machine Learning Workshop 2020_. <span style="color:blue"> <b> (Spotlight) </b> </span>
+**[OPT@NeurIPS'20]**. _NeurIPS Optimization for Machine Learning Workshop 2020_. <span style="color:blue"> <b> (Spotlight) </b> </span>

@@ -60,12 +60,12 @@ redirect_from:
 ## Education ##
 * **Purdue University**
   * Ph.D. Candidate of Statistics, 2019-2023(expected)
-  * M.S. of Statistics and Computer Science, 2022
+  * M.S. in Computer Science and Statistics, 2022
   * Advisors: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
   * [Selected Courses](https://williamlwj.github.io/About/courses/)
   
 * **Chinese University of Hong Kong**
-  * B.Sc. of Mathematics, 2015-19. First honor graduate.
+  * B.Sc. in Mathematics, 2015-19. First honor graduate.
   * Double stream in computational and enrichment Mathematics
   * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
 * **University of Pennsylvania**
@@ -75,7 +75,11 @@ redirect_from:
 
 ## Industry ##
 
-* **Amazon A9.com**
+* **Meta Research**
+  * Research Scientist Intern,  May-Aug, 2022
+  
+
+* **Amazon Ads**
   * Applied Scientist Intern,  May-Aug, 2022
   * Advisors: Dr. Yuqing Xing and [Dr. Caitlin Gray](https://www.linkedin.com/in/caitlin-gray-0707/). 
   * Research Topic: Prediction Intervals in Time Series Forecasts and Aggregations

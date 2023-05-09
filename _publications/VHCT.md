@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/VHCT
 excerpt: 
 date: 2021-12-13
-venue:  The 35th Conference on Neural Information Processing Systems (NeurIPS 2021) Optimization for Machine Learning (OPT) Workshop
+venue:  OPT@NeurIPS'21
 paperurl:
 citation: <b>Wenjie Li</b><sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng, Qifan Song. Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization. The 35th Conference on Neural Information Processing Systems (NeurIPS 2021) Optimization for Machine Learning (OPT) Workshop.
 ---
