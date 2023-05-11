@@ -11,7 +11,7 @@ redirect_from:
 I am a final-year Ph.D. candidate in Statistics at [Purdue University](https://www.purdue.edu/), where I am fortunate to be coadvised by [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/). 
 I received an M.S. in Computer Science and Statistics during my Ph.D. study. 
 I received an B.Sc. in Mathematics at the [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).
-I have interned at several industrial companies including [Meta Research](https://research.facebook.com), [Amazon Ads](https://advertising.amazon.com/), and [Sensetime Research](https://www.sensetime.com/en).
+I have interned at several industrial companies including [Meta AI](https://ai.facebook.com), [Amazon Ads](https://advertising.amazon.com/), and [Sensetime Research](https://www.sensetime.com/en).
 
 My research interests include:
 

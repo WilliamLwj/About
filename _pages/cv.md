@@ -75,7 +75,7 @@ redirect_from:
 
 ## Industry ##
 
-* **Meta Research**
+* **Meta AI**
   * Research Scientist Intern,  May-Aug, 2023
   
 
