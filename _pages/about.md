@@ -33,7 +33,9 @@ _Research collaborations from both industry and academia are highly welcomed. If
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[May, 2023]</b>. I will be an Research Scientist Intern at Meta this summer! </li>
+  <li> <b>[May, 2023]</b>. <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization"</a> is accepted by Transactions on Machine Learning Research! </li>
+
+  <li> <b>[Mar, 2023]</b>. I will be an Research Scientist Intern at Meta this summer! </li>
 
   <li> <b>[Jan, 2023]</b>. Our team has recently launched the PyXAB project. <a href="https://github.com/WilliamLwj/PyXAB">Take a look! </a>. </li>
 

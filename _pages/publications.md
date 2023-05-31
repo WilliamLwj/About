@@ -46,7 +46,7 @@ In Submission to JMLR. _arXiv: 2211.10363_.
 
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng, Qifan Song. \
-In Submission to TMLR. _arXiv: 2106.09215_.
+**[TMLR'23]**. _Transactions on Machine Learning Research, 2023_.
 
 
 
@@ -57,7 +57,7 @@ In Submission to TMLR. _arXiv: 2106.09215_.
 
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-**[MLJ'22]**. _Machine Learning_. 2022 
+**[MLJ'22]**. _Machine Learning, 111, pages 4639–4677, 2022_.
 
 
 
