@@ -12,7 +12,7 @@ author_profile: true
 
 ## Conferences/Journals/Preprints
 
-### [Personalized Federated X-Armed Bandit]()
+### [Personalized Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/PF-X)
 **Wenjie Li**, Jean Honorio, Qifan Song. \
 In Submission to NeurIPS. 
 
