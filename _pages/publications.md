@@ -26,7 +26,7 @@ In Submission to JMLR. [codebase](https://github.com/WilliamLwj/PyXAB) _arXiv:23
 
 ### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)
 **Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
-In Submission to NeurIPS. _arXiv:2205.15268_.
+In Submission to Technometrics. _arXiv:2205.15268_.
 
 
 
@@ -37,7 +37,7 @@ Under Revision.
 
 ### [Federated Online Sparse Decision Making](https://williamlwj.github.io/About//publications/Fed-LASSO)
 Chi-Hua Wang, **Wenjie Li**, Guang Lin. \
-In Submission to TMLR. _arXiv: 2202.13448_.
+**[TMLR'23]**. _Transactions on Machine Learning Research, 2023_.
 
 ### [Always-Valid Risk Bounds for Low-Rank Online Matrix Completion](https://williamlwj.github.io/About//publications/always_valid)
 Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>. \

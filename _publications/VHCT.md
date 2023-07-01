@@ -5,8 +5,8 @@ permalink: /publications/VHCT
 excerpt: 
 date: 2023-05-30
 venue:  Transactions on Machine Learning Research (Previously at OPT@NeurIPS'21)
-paperurl:
-citation: <b>Wenjie Li</b><sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng, Qifan Song. Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization. The 35th Conference on Neural Information Processing Systems (NeurIPS 2021) Optimization for Machine Learning (OPT) Workshop.
+paperurl: https://openreview.net/forum?id=ClIcmwdlxn
+citation: <b>Wenjie Li</b><sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng, Qifan Song. Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization.  Transactions on Machine Learning Research. 2023
 ---
 [[TMLR paper](https://openreview.net/forum?id=ClIcmwdlxn)] [[Github](https://github.com/WilliamLwj/PyXAB)] [[arXiv](https://arxiv.org/abs/2106.09215)]  [[OPT poster](https://williamlwj.github.io/About/files/posters/VHCT_poster.pdf)]
 [[OPT paper](https://opt-ml.org/papers/2021/paper8.pdf)]
