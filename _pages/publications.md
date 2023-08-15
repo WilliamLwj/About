@@ -12,6 +12,14 @@ author_profile: true
 
 ## Conferences/Journals/Preprints
 
+
+
+### [Concatenative Contrastive Sampling for Attention Based Sequential Recommendation]()
+**Wenjie Li**, Wei Shao, Keqian Li, Siqi Wang, Zhaoqin Wang, Ning Yao. \
+In Submission to AAAI.
+
+
+
 ### [Personalized Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/PF-X)
 **Wenjie Li**, Jean Honorio, Qifan Song. \
 In Submission to NeurIPS. 
@@ -69,7 +77,12 @@ Technical Report. _arXiv: 2004.09740_.
 
 
 
-## Workshops
+## Workshops/ Internal Conferences
+
+### [Bootstrap Resampling for Conformal Prediction Intervals on Time Series Forecasts and Aggregations]()
+**Wenjie Li**, et al. \
+**[CSS'23]**. _Amazon CSS Conference 2023_.
+
 
 ### [Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng. \
