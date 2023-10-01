@@ -16,13 +16,13 @@ author_profile: true
 
 ### [Concatenative Contrastive Sampling for Attention Based Sequential Recommendation]()
 **Wenjie Li**, Wei Shao, Keqian Li, Siqi Wang, Zhaoqin Wang, Ning Yao. \
-In Submission to AAAI.
+Under Revision. 
 
 
 
 ### [Personalized Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/PF-X)
 **Wenjie Li**, Jean Honorio, Qifan Song. \
-In Submission to NeurIPS. 
+In Submission to AISTATS. 
 
 
 
@@ -49,7 +49,7 @@ Chi-Hua Wang, **Wenjie Li**, Guang Lin. \
 
 ### [Always-Valid Risk Bounds for Low-Rank Online Matrix Completion](https://williamlwj.github.io/About//publications/always_valid)
 Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>. \
-In Submission to JMLR. _arXiv: 2211.10363_.
+Under Revision.  _arXiv: 2211.10363_.
 
 
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
@@ -80,7 +80,7 @@ Technical Report. _arXiv: 2004.09740_.
 ## Workshops/ Internal Conferences
 
 ### [Bootstrap Resampling for Conformal Prediction Intervals on Time Series Forecasts and Aggregations]()
-**Wenjie Li**, et al. \
+**Wenjie Li**, JZ Lu, Juxian Wang, Yuqing Xing, Xi Chen, Caitlin Gray, Iris Sun, Anbo Chen. \
 **[AMLC'23]**. _Amazon Machine Learning Conference 2023_.\
 **[CSS'23]**. _Amazon CSS Conference 2023_.
 

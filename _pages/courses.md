@@ -37,6 +37,16 @@ author_profile: true
    </TR>
    <TR ALIGN="LEFT">
       <TD>STAT69500</TD>
+      <TD>Data Science For Deep Analysis</TD>
+      <TD>A+</TD>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TD>STAT69500</TD>
+      <TD>	Deep Learning & Statistics</TD>
+      <TD>A</TD>
+   </TR>
+   <TR ALIGN="LEFT">
+      <TD>STAT69500</TD>
       <TD>Machine Learning for Dynamic Systems</TD>
       <TD>A</TD>
    </TR>
@@ -87,7 +97,7 @@ author_profile: true
    </TR>
    <TR ALIGN="LEFT">
       <TD>CS 58000</TD>
-      <TD>Algorithms</TD>
+      <TD>Algorithms Design Anly and Impl</TD>
       <TD> A </TD>
    </TR>
 </TABLE>
