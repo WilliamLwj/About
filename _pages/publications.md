@@ -28,7 +28,7 @@ In Submission to AISTATS.
 
 ### [PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms](https://williamlwj.github.io/About//publications/PyXAB)
 **Wenjie Li**<sup>*</sup>, Haoze Li<sup>*</sup>, Jean Honorio, Qifan Song\
-In Submission to JMLR. [codebase](https://github.com/WilliamLwj/PyXAB) _arXiv:2303.04030_
+In Submission to JOSS. [codebase](https://github.com/WilliamLwj/PyXAB) _arXiv:2303.04030_
 
 
 

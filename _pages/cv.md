@@ -59,7 +59,7 @@ redirect_from:
 
 ## Education ##
 * **Purdue University**
-  * Ph.D. Candidate of Statistics, 2019-2023(expected)
+  * Ph.D. in Statistics, 2019-2023
   * M.S. in Computer Science and Statistics, 2022
   * Advisors: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
   * [Selected Courses](https://williamlwj.github.io/About/courses/)
@@ -77,24 +77,24 @@ redirect_from:
 
 * **Meta AI Research**
   * Research Scientist Intern,  May-Aug, 2023
-  * Advisors: [Dr.Keqian Li](https://keqian-li.github.io/), Dr. Siqi Wang, and Mr. Wei Shao 
+  * Advisors: Wei Shao, Keqian Li, Siqi Wang
   * Research Topic: Sequential Recommendation with Transformers
   
 
 * **Amazon Ads**
   * Applied Scientist Intern,  May-Aug, 2022
-  * Advisors: Dr. Yuqing Xing and [Dr. Caitlin Gray](https://www.linkedin.com/in/caitlin-gray-0707/). 
+  * Advisors: Yuqing Xing, Caitlin Gray and [Prof. Xi Chen](https://www.stern.nyu.edu/faculty/bio/xi-chen)
   * Research Topic: Prediction Intervals in Time Series Forecasts and Aggregations
   
 * **Sensetime Research**
   * Research Intern. May-Sep, 2019
-  * Supervisor: [Dr. Xinjiang Wang](https://scholar.google.com/citations?hl=en&user=q4lnWaoAAAAJ&view_op=list_works). Advisor: [Prof. Ping Luo](https://luoping.me)
+  * Supervisor: Xinjiang Wang. Advisor: [Prof. Ping Luo](https://luoping.me)
   * Research Topic: Normalization and Optimization in Deep Learning
 
 ## Service ##
   * **Conferences/Workshops Reviewer**
     * ICML2021, NeurIPS2021, OPT2021, ICLR2022, AISTATS2022, ICML2022, NeurIPS2022, OPT 2022, ICLR2023, ICML2023, 
-    AISTATS2023
+    AISTATS2024
   * **Journals Reviewer**
     * IEEE/CAA Journal of Automatica Sinica (JAS)
     * Transactions on Machine Learning Research (TMLR)
