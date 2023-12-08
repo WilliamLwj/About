@@ -75,6 +75,11 @@ redirect_from:
 
 ## Industry ##
 
+* **Amazon Ads**
+  * Applied Scientist,  Oct 2023 - Now
+  * Advisors: Shan Kang
+
+
 * **Meta AI Research**
   * Research Scientist Intern,  May-Aug, 2023
   * Advisors: Wei Shao, Keqian Li, Siqi Wang

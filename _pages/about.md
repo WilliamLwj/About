@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-fw"></i> About me #
-I am an Applied Scientist at Amazon. I obtained my Ph.D. in Statistics at [Purdue University](https://www.purdue.edu/), where I am fortunate to be coadvised by [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/). 
+I am an Applied Scientist at Amazon. I obtained my Ph.D. in Statistics at [Purdue University](https://www.purdue.edu/), where I was fortunate to be coadvised by [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/). 
 I also received an M.S. in Computer Science and Statistics during my Ph.D. study. 
 I received a B.Sc. in Mathematics from the [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).
 I have interned at several companies including [Meta AI](https://ai.facebook.com), [Amazon Ads](https://advertising.amazon.com/), and [Sensetime Research](https://www.sensetime.com/en).
@@ -21,12 +21,8 @@ My research interests include:
 * High Dimensional Statistics
 * Deep Learning Theory and Practice
 
-
-I am actively building and maintaining an open-source Python library for *X*-armed bandit algorithms and benchmarks. Check out [this repository](https://github.com/WilliamLwj/PyXAB).
-
-
 ---
-_Research collaborations from both industry and academia are highly welcomed. If you are interested in optimization/bandit/federated learning-related topics, feel free to [reach out to me](mailto: li3549@purdue.edu)._
+_Research collaborations from both industry and academia are highly welcomed. If you are interested in optimization/bandit/federated learning-related topics, feel free to [reach out to me](mailto: liwj@amazon.com)._
 
 ---
 
