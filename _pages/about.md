@@ -29,6 +29,9 @@ _Research collaborations from both industry and academia are highly welcomed. If
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b>[Nov, 2023]</b>. <a href="https://williamlwj.github.io/About//publications/Fed-X">"Federated X-Armed Bandit"</a> is accepted by AAAI-2024! </li>
+
   <li> <b>[Nov, 2023]</b>. I have defended my thesis and started to work as an Applied Scientist at Amazon! </li>
 
   <li> <b>[Jun, 2023]</b>. <a href="https://williamlwj.github.io/About//publications/Fed-LASSO">"Federated Online Sparse Decision Making"</a> is accepted by Transactions on Machine Learning Research! </li>
@@ -41,7 +44,7 @@ _Research collaborations from both industry and academia are highly welcomed. If
 
   <li> <b>[Jul, 2022]</b>. <a href="https://williamlwj.github.io/About//publications/SVRGMD">"Variance Reduction on General Adaptive Mirror Descent"</a> is accepted by the Machine Learning Journal!</li>
 
-  <li> <b>[May, 2022]</b>.  <a href="https://williamlwj.github.io/About//publications/Bandit_framework">"A Simple Unified Framework for High Dimensional Bandit Problems"</a> is accepted by ICML2022!</li>
+  <li> <b>[May, 2022]</b>.  <a href="https://williamlwj.github.io/About//publications/Bandit_framework">"A Simple Unified Framework for High Dimensional Bandit Problems"</a> is accepted by ICML-2022!</li>
 
   <li> <b>[Apr, 2022]</b>. I will be an Applied Scientist Intern at Amazon this summer! </li>
 

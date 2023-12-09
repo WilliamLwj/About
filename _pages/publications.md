@@ -34,7 +34,7 @@ In Submission to JOSS. [codebase](https://github.com/WilliamLwj/PyXAB) _arXiv:23
 
 ### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)
 **Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
-In Submission to Technometrics. _arXiv:2205.15268_.
+**[AAAI'24]**. _Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024_.
 
 
 
