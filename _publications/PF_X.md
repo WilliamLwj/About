@@ -3,7 +3,7 @@ title: "Personalized Federated X-Armed Bandit"
 collection: publications
 permalink: /publications/PF-X
 excerpt: 
-date: 2022-05-16
+date: 2023-05-16
 venue: arXiv
 paperurl:
 citation: Wenjie Li, Jean Honorio, Qifan Song

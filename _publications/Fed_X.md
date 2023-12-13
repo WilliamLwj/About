@@ -3,12 +3,12 @@ title: "Federated X-Armed Bandit"
 collection: publications
 permalink: /publications/Fed-X
 excerpt: 
-date: 2022-05-16
-venue: arXiv
+date: 2023-12-08
+venue: AAAI 2024
 paperurl:
 citation: Wenjie Li, Qifan Song, Jean Honorio, Guang Lin. 
 ---
-[[arXiv](https://arxiv.org/abs/2205.15268)]
+[[AAAI]()] [[arXiv](https://arxiv.org/abs/2205.15268)]
 
 This work establishes the first framework of federated $\mathcal{X}$-armed bandit, 
 where different clients face heterogeneous local objective functions defined on 

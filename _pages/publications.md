@@ -10,14 +10,11 @@ author_profile: true
 ### * denotes equal contribution or alphabetical order
 
 
-## Conferences/Journals/Preprints
-
-
+## Preprints
 
 ### [Concatenative Contrastive Sampling for Attention Based Sequential Recommendation]()
 **Wenjie Li**, Wei Shao, Keqian Li, Siqi Wang, Zhaoqin Wang, Ning Yao. \
 Under Revision. 
-
 
 
 ### [Personalized Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/PF-X)
@@ -31,31 +28,34 @@ In Submission to AISTATS.
 In Submission to JOSS. [codebase](https://github.com/WilliamLwj/PyXAB) _arXiv:2303.04030_
 
 
-
-### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)
-**Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
-**[AAAI'24]**. _Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024_.
-
-
-
 ### [On the Sharp Analysis of Online Blackbox Optimization]()
 **Wenjie Li**, Jean Honorio, Qifan Song\
 Under Revision. 
-
-
-### [Federated Online Sparse Decision Making](https://williamlwj.github.io/About//publications/Fed-LASSO)
-Chi-Hua Wang, **Wenjie Li**, Guang Lin. \
-**[TMLR'23]**. _Transactions on Machine Learning Research, 2023_.
 
 ### [Always-Valid Risk Bounds for Low-Rank Online Matrix Completion](https://williamlwj.github.io/About//publications/always_valid)
 Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>. \
 Under Revision.  _arXiv: 2211.10363_.
 
 
+### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
+**Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. \
+Technical Report. _arXiv: 2004.09740_. 
+
+## Conferences/Journals
+
+
+### [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)
+**Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
+**[AAAI'24]**. _Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024_.
+
+### [Federated Online Sparse Decision Making](https://williamlwj.github.io/About//publications/Fed-LASSO)
+Chi-Hua Wang, **Wenjie Li**, Guang Lin. \
+**[TMLR'23]**. _Transactions on Machine Learning Research, 2023_.
+
+
 ### [Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)
 **Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng, Qifan Song. \
 **[TMLR'23]**. _Transactions on Machine Learning Research, 2023_.
-
 
 
 ### [A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)
@@ -66,13 +66,6 @@ Under Revision.  _arXiv: 2211.10363_.
 ### [Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)
 **Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
 **[MLJ'22]**. _Machine Learning, 111, pages 4639–4677, 2022_.
-
-
-
-### [AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)
-**Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. \
-Technical Report. _arXiv: 2004.09740_. 
-
 
 
 
