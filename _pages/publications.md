@@ -16,12 +16,6 @@ author_profile: true
 **Wenjie Li**, Wei Shao, Keqian Li, Siqi Wang, Zhaoqin Wang, Ning Yao. \
 Under Revision. 
 
-
-[Personalized Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/PF-X)\
-**Wenjie Li**, Jean Honorio, Qifan Song. \
-In Submission to AISTATS. 
-
-
 [PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms](https://williamlwj.github.io/About//publications/PyXAB)\
 **Wenjie Li**<sup>*</sup>, Haoze Li<sup>*</sup>, Jean Honorio, Qifan Song\
 In Submission to JOSS. [codebase](https://github.com/WilliamLwj/PyXAB) _arXiv:2303.04030_
@@ -43,9 +37,15 @@ Technical Report. _arXiv: 2004.09740_.
 ## Conferences/Journals
 
 
+[Personalized Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/PF-X)\
+**Wenjie Li**, Jean Honorio, Qifan Song. \
+**[AISTATS'24]**. _Proceedings of the 27th International Conference on Artificial Intelligence and Statistics, 2024_.
+
+
+
 [Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)\
 **Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
-**[AAAI'24]**. _Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024_.
+**[AAAI'24]**. _Proceedings of the 38-th AAAI Conference on Artificial Intelligence, 2024_.
 
 [Federated Online Sparse Decision Making](https://williamlwj.github.io/About//publications/Fed-LASSO)\
 Chi-Hua Wang, **Wenjie Li**, Guang Lin. \

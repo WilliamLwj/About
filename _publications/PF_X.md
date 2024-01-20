@@ -3,12 +3,13 @@ title: "Personalized Federated X-Armed Bandit"
 collection: publications
 permalink: /publications/PF-X
 excerpt: 
-date: 2023-05-16
+date: 2024-01-19
 venue: arXiv
 paperurl:
 citation: Wenjie Li, Jean Honorio, Qifan Song
 ---
 
+[[AAAI]()] [[arXiv](https://arxiv.org/abs/2310.16323)]
 
 In this work, we study the personalized federated X -armed bandit problem, where
 the heterogeneous local objectives of the clients are optimized simultaneously in
