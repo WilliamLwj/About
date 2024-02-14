@@ -9,7 +9,7 @@ paperurl:
 citation: Wenjie Li, Jean Honorio, Qifan Song
 ---
 
-[[AAAI]()] [[arXiv](https://arxiv.org/abs/2310.16323)]
+[[AISTATS]()] [[arXiv](https://arxiv.org/abs/2310.16323)]
 
 In this work, we study the personalized federated X -armed bandit problem, where
 the heterogeneous local objectives of the clients are optimized simultaneously in

@@ -72,7 +72,7 @@ Chi-Hua Wang, **Wenjie Li**, Guang Lin. \
 ## Workshops/ Internal Conferences
 
 [Bootstrap Resampling for Conformal Prediction Intervals on Time Series Forecasts and Aggregations]()\
-**Wenjie Li**, JZ Lu, Juxian Wang, Yuqing Xing, Caitlin Gray, Iris Sun, Anbo Chen. \
+**Wenjie Li**, JZ Lu, Juxian Wang, Yuqing Xing, Caitlin Gray,  Iris Sun, Anbo Chen. \
 **[AMLC'23]**. _Amazon Machine Learning Conference 2023_.\
 **[CSS'23]**. _Amazon CSS Conference 2023_.
 
