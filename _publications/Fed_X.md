@@ -8,7 +8,7 @@ venue: AAAI 2024
 paperurl:
 citation: Wenjie Li, Qifan Song, Jean Honorio, Guang Lin. 
 ---
-[[AAAI]()] [[arXiv](https://arxiv.org/abs/2205.15268)]
+[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29267)] [[arXiv](https://arxiv.org/abs/2205.15268)]
 
 This work establishes the first framework of federated $\mathcal{X}$-armed bandit, 
 where different clients face heterogeneous local objective functions defined on 
