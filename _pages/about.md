@@ -30,6 +30,8 @@ _Research collaborations from both industry and academia are highly welcomed. If
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[Oct, 2024]</b>. <a href="https://williamlwj.github.io/About//publications/PyXAB">"PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms"</a> is accepted by JOSS! </li>
+
   <li> <b>[Jan, 2024]</b>. <a href="https://williamlwj.github.io/About//publications/PF-X">"Personalized Federated X-Armed Bandit"</a> is accepted by AISTATS-2024! </li>
 
   <li> <b>[Nov, 2023]</b>. <a href="https://williamlwj.github.io/About//publications/Fed-X">"Federated X-Armed Bandit"</a> is accepted by AAAI-2024! </li>

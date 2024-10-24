@@ -16,10 +16,6 @@ author_profile: true
 **Wenjie Li**, Wei Shao, Keqian Li, Siqi Wang, Zhaoqin Wang, Ning Yao. \
 Under Revision. 
 
-[PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms](https://williamlwj.github.io/About//publications/PyXAB)\
-**Wenjie Li**<sup>*</sup>, Haoze Li<sup>*</sup>, Jean Honorio, Qifan Song\
-In Submission to JOSS. [codebase](https://github.com/WilliamLwj/PyXAB) _arXiv:2303.04030_
-
 
 [On the Sharp Analysis of Online Blackbox Optimization]()\
 **Wenjie Li**, Jean Honorio, Qifan Song\
@@ -35,6 +31,10 @@ Under Revision.  _arXiv: 2211.10363_.
 Technical Report. _arXiv: 2004.09740_. 
 
 ## Conferences/Journals
+
+[PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms](https://williamlwj.github.io/About//publications/PyXAB)\
+**[JOSS'24]**.**Wenjie Li**<sup>*</sup>, Haoze Li<sup>*</sup>, Jean Honorio, Qifan Song\
+_Journal of Open Source Software_. [codebase](https://github.com/WilliamLwj/PyXAB)
 
 
 [Personalized Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/PF-X)\
