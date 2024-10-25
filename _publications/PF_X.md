@@ -4,12 +4,12 @@ collection: publications
 permalink: /publications/PF-X
 excerpt: 
 date: 2024-01-19
-venue: arXiv
+venue: AISTATS 2024
 paperurl:
-citation: Wenjie Li, Jean Honorio, Qifan Song
+citation: Wenjie Li, Jean Honorio, Qifan Song. Personalized Federated X-Armed Bandit. Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS) 2024
 ---
 
-[[AISTATS]()] [[arXiv](https://arxiv.org/abs/2310.16323)]
+[[AISTATS](https://proceedings.mlr.press/v238/li24a/li24a.pdf)] [[arXiv](https://arxiv.org/abs/2310.16323)]
 
 In this work, we study the personalized federated X -armed bandit problem, where
 the heterogeneous local objectives of the clients are optimized simultaneously in

@@ -33,8 +33,8 @@ Technical Report. _arXiv: 2004.09740_.
 ## Conferences/Journals
 
 [PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms](https://williamlwj.github.io/About//publications/PyXAB)\
-**[JOSS'24]**.**Wenjie Li**<sup>*</sup>, Haoze Li<sup>*</sup>, Jean Honorio, Qifan Song\
-_Journal of Open Source Software_. [codebase](https://github.com/WilliamLwj/PyXAB)
+**Wenjie Li**<sup>*</sup>, Haoze Li<sup>*</sup>, Jean Honorio, Qifan Song\
+**[JOSS'24]**. _Journal of Open Source Software_. [codebase](https://github.com/WilliamLwj/PyXAB)
 
 
 [Personalized Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/PF-X)\

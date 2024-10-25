@@ -6,8 +6,10 @@ excerpt:
 date: 2023-12-08
 venue: AAAI 2024
 paperurl:
-citation: Wenjie Li, Qifan Song, Jean Honorio, Guang Lin. 
+citation: Wenjie Li, Qifan Song, Jean Honorio, Guang Lin. Federated X-Armed Bandit. Proceedings of The Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24)
 ---
+
+
 [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/29267)] [[arXiv](https://arxiv.org/abs/2205.15268)]
 
 This work establishes the first framework of federated $\mathcal{X}$-armed bandit, 

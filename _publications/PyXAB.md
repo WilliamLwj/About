@@ -6,7 +6,7 @@ excerpt:
 date: 2024-10-24
 venue: JOSS
 paperurl: https://joss.theoj.org/papers/10.21105/joss.06507
-citation: 
+citation: <b>Wenjie Li</b>, Haoze Li, Qifan Song, Jean Honorio. PyXAB -- A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms. Journal of Open Source Software(2024).
 ---
 
 [[JOSS paper](https://joss.theoj.org/papers/10.21105/joss.06507)] [[_codebase_](https://github.com/WilliamLwj/PyXAB)] [[arXiv paper](https://arxiv.org/pdf/2303.04030.pdf)]
