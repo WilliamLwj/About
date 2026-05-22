@@ -92,7 +92,7 @@ redirect_from:
   * Research Intern. May-Sep, 2019
   * Research Topic: Normalization and Optimization in Deep Learning
 
-## Service ##
+## Academic Service ##
   * **Conferences/Workshops Reviewer**
     * ICML2021, NeurIPS2021, OPT2021, ICLR2022, AISTATS2022, ICML2022, NeurIPS2022, OPT 2022, ICLR2023, ICML2023, 
     AISTATS2024, ACMMM2026

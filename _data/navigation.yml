@@ -6,11 +6,11 @@ main:
   - title: "Research"
     url: /publications/  
 
-  - title: "Awards & Honors"
-    url: /awards/ 
+  # - title: "Awards & Honors"
+  #   url: /awards/ 
     
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
     
     
 
