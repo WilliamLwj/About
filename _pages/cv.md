@@ -77,23 +77,19 @@ redirect_from:
 
 * **Amazon Ads**
   * Applied Scientist,  Oct 2023 - Now
-  * Advisors: Shan Kang
 
 
 * **Meta AI Research**
   * Research Scientist Intern,  May-Aug, 2023
-  * Advisors: Wei Shao, Keqian Li, Siqi Wang
   * Research Topic: Sequential Recommendation with Transformers
   
 
 * **Amazon Ads**
   * Applied Scientist Intern,  May-Aug, 2022
-  * Advisors: Yuqing Xing, Caitlin Gray and [Prof. Xi Chen](https://www.stern.nyu.edu/faculty/bio/xi-chen)
   * Research Topic: Prediction Intervals in Time Series Forecasts and Aggregations
   
 * **Sensetime Research**
   * Research Intern. May-Sep, 2019
-  * Supervisor: Xinjiang Wang. Advisor: [Prof. Ping Luo](https://luoping.me)
   * Research Topic: Normalization and Optimization in Deep Learning
 
 ## Service ##
